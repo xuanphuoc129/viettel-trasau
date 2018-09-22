@@ -70,9 +70,8 @@ $colors: (
 // default are overridden.
 
 @import "ionic.theme.default";
-@import "ionic.ionicons";
+@import "ionicons";
 @import "app-icon";
-
 
 // Ionicons
 // --------------------------------------------------
@@ -86,3 +85,12 @@ $colors: (
 
 @import "roboto";
 @import "noto-sans";
+
+@font-face {
+  font-family: "neutratext-bold";
+  src: url("../assets/fonts-text/neutratext-bold.woff") format("woff"), /* Modern Browsers */
+  url("../assets/fonts-text/neutratext-bold.woff") format("woff2");
+  /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

@@ -3,105 +3,143 @@ page-home {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 100vh;
+    min-height: 86vh;
     width: 100vw;
     position: relative;
     overflow: hidden;
-  }
 
-  .girle-img {
-    position: absolute;
-    bottom: 11%;
-    right: 6%;
-    max-width: 40%;
-  }
+    .yellow-background {
+      transform: skewY(11deg);
+      background: #f1d22b;
+      height: 320px;
+      width: 100%;
+      position: absolute;
+      bottom: -45%;
+      left: 0;
+    }
 
-  .text-img {
-    padding: 4vw 5vw;
-
-    img {
+    .girle-img {
+      position: absolute;
+      bottom: -10%;
+      right: 6%;
       max-width: 40%;
+
+      img {
+        max-width: 90%;
+      }
     }
 
-    .text {
-      padding: 10px;
-      text-transform: capitalize;
-      font-size: 1.6rem;
+    .text-img {
+      padding: 2vw 5vw;
+      margin-left: 5vw;
+
+      img {
+        max-width: 45%;
+      }
+
+      .text {
+        padding: 10px;
+        text-transform: capitalize;
+        font-size: 1.6rem;
+      }
+
+      .container {
+        margin-top: 30px;
+      }
     }
-
-    .container {
-      margin-top: 30px;
-    }
-  }
-
-  .row {
-    align-items: center;
-  }
-
-  .btn-sign {
-    background: -webkit-linear-gradient(to right, #F37335, #FDC830);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #F37335, #FDC830);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: white;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 2rem;
-    padding: 10px 16px;
-    border-radius: 10px;
-    box-shadow: 0px 3px 6px rgba($color: black, $alpha: .2);
-    cursor: pointer;
-  }
-
-
-
-  .yellow-background {
-    transform: skewY(11deg);
-    background: #f1d22b;
-    height: 420px;
-    width: 100%;
-    position: absolute;
-    bottom: -34%;
-    left: 0;
-  }
-  .yellow-background-1{
-    background: #f1d22b;
-    height: 420px;
-    .ld-icon{
-        margin: 16px 0;
-        ion-icon{
-            font-size: 6em;
-        }
-    }
-    .font-bold{
-        font-weight: 800;
-        font-size: 2.2em;
-        margin: 10px 0 6px;
-    }
-  }
-  .item-25{
-      width: 25%;
-      padding: 0 16px;
-      display: inline-block;
-  }
-
-  .title-1{
-      padding: 16px;
-      border-radius: 20px;
-      background: white;
-      font-size: 2.2rem;
-      font-weight: bold;
+    .btn-sign {
+      background: -webkit-linear-gradient(to right, #F37335, #FDC830);
+      /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #F37335, #FDC830);
+      /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      color: white;
       text-transform: uppercase;
-      max-width: 80%;
-      margin: auto;
+      font-weight: bold;
+      font-size: 2rem;
+      padding: 10px 16px;
+      border-radius: 10px;
+      box-shadow: 0px 3px 6px rgba($color: black, $alpha: .2);
+      cursor: pointer;
+    }
+
+
   }
 
- .border-right{
-     border-right: 1px solid black;
- }
- .wrap{
-     white-space: pre-wrap;
- }
+
+
+
+
+
+
+  .ld-icon {
+    margin: 24px 0 16px;
+
+    ion-icon {
+      font-size: 5.5em;
+    }
+  }
+
+  .font-bold {
+    font-weight: bold;
+    font-size: 1.8em;
+    margin: 10px 0 6px;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .line {
+    position: absolute;
+    height: 80%;
+    width: 1px;
+    background: black;
+    bottom: 0;
+
+    &.line1 {
+      left: 25%;
+    }
+
+    &.line2 {
+      left: 50%;
+    }
+
+    &.line3 {
+      left: 75%;
+    }
+  }
+
+  .bg-yellow {
+    background: #f1d22b;
+    padding: 0 5vw;
+    // margin-top: 50%;
+  }
+
+  .item-25 {
+    min-height: 160px;
+  }
+
+  .title-1 {
+    position: relative;
+    padding: 16px;
+    border-radius: 20px;
+    background: white;
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    max-width: 80%;
+    margin: auto;
+  }
+
+  .icon-middle {
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 55%);
+    color: white;
+    font-size: 2.6em;
+  }
+
+  .wrap {
+    white-space: pre-wrap;
+  }
 
   @media (max-width: 576px) {
     .text-img {

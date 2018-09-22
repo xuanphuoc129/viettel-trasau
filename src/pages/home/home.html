@@ -22,21 +22,37 @@
     </div>
 
     <div class="yellow-background"></div>
+   
   </div>
+  <!-- <div class="a1-relative bg-yellow">
 
-  <div text-center class="yellow-background-1" text-nowrap>
+      <ion-row align-items-start class="a1-relative">
+        <ion-col col-sm-3 col-6 *ngFor="let item of items ; let i = index" text-center>
+          <div class="a1-relative">
+            <div class="title-1 blue-color">
+              <span>{{item.title}}</span>
+              <ion-icon class="a1-absolute icon-middle" name="md-arrow-dropdown"></ion-icon>
+            </div>
+            <div class="ld-icon blue-color">
+              <ion-icon name="{{item.icon}}"></ion-icon>
+            </div>
+            <div class="semi-font">{{item.subtitle}}</div>
+            <div class="font-bold " [class.neutratext-bold]="i > 0"><span>{{item.textbold}}</span></div>
+            <div class="wrap" text-center [innerHtml]="item.description"></div>
+
+          </div>
+        </ion-col>
+        <div class="line line1 hidden-xs"></div>
+        <div class="line line2 hidden-xs"></div>
+        <div class="line line3 hidden-xs"></div>
+      </ion-row>
+    </div> -->
+
+
+
+  <!-- <div text-center class="yellow-background-1" text-nowrap>
     <div text-center class="item-25">
-      <div class="title-1 blue-color">
-        siêu rẻ
-      </div>
-      <div class="border-right">
-        <div class="ld-icon blue-color">
-          <ion-icon name="viettel-call"></ion-icon>
-        </div>
-        <div class="semi-font">Chỉ từ</div>
-        <div class="font-bold">100Đ/phút</div>
-        <div class="wrap">Combo thoại + data siêu tiết kiệm lên tới 20%</div>
-      </div>
+     
     </div>
     <div text-center class="item-25">
       <div class="title-1 blue-color">
@@ -76,6 +92,6 @@
         <div class="font-bold">Thanh toán</div>
         <div class="wrap">Combo thoại + data siêu tiết kiệm lên tới 20%</div>
       </div>
-    </div>
-  </div>
+    </div> -->
+  <!-- </div> -->
 </ion-content>
