@@ -1,0 +1,127 @@
+page-home {
+  .landing-header {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .girle-img {
+    position: absolute;
+    bottom: 11%;
+    right: 6%;
+    max-width: 40%;
+  }
+
+  .text-img {
+    padding: 4vw 5vw;
+
+    img {
+      max-width: 40%;
+    }
+
+    .text {
+      padding: 10px;
+      text-transform: capitalize;
+      font-size: 1.6rem;
+    }
+
+    .container {
+      margin-top: 30px;
+    }
+  }
+
+  .row {
+    align-items: center;
+  }
+
+  .btn-sign {
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 10px 16px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px rgba($color: black, $alpha: .2);
+    cursor: pointer;
+  }
+
+
+
+  .yellow-background {
+    transform: skewY(11deg);
+    background: #f1d22b;
+    height: 420px;
+    width: 100%;
+    position: absolute;
+    bottom: -34%;
+    left: 0;
+  }
+  .yellow-background-1{
+    background: #f1d22b;
+    height: 420px;
+    .ld-icon{
+        margin: 16px 0;
+        ion-icon{
+            font-size: 6em;
+        }
+    }
+    .font-bold{
+        font-weight: 800;
+        font-size: 2.2em;
+        margin: 10px 0 6px;
+    }
+  }
+  .item-25{
+      width: 25%;
+      padding: 0 16px;
+      display: inline-block;
+  }
+
+  .title-1{
+      padding: 16px;
+      border-radius: 20px;
+      background: white;
+      font-size: 2.2rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      max-width: 80%;
+      margin: auto;
+  }
+
+ .border-right{
+     border-right: 1px solid black;
+ }
+ .wrap{
+     white-space: pre-wrap;
+ }
+
+  @media (max-width: 576px) {
+    .text-img {
+      padding: 10vw 5vw !important;
+
+      img {
+        max-width: 100%;
+      }
+
+      .container {
+        transform: scale(.8);
+      }
+    }
+
+    .girle-img {
+      max-width: 80%;
+    }
+
+    .yellow-background {
+      bottom: -56% !important;
+    }
+  }
+}
