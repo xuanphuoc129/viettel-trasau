@@ -1,0 +1,51 @@
+{
+  "ds_goicuoc": [{
+      "id": "T80",
+      "name": "T80",
+      "description": "call-300 phút nội mạng",
+      "price": "80"
+    },
+    {
+      "id": "T100",
+      "name": "T100",
+      "description": "call-1000 phút nội mạng\ncall-10 phút ngoại mạng",
+      "price": "100"
+    },
+    {
+      "id": "T150",
+      "name": "T150",
+      "description": "call-1500 phút nội mạng\ncall-50 phút ngoại mạng",
+      "price": "150"
+    },
+    {
+      "id": "B150",
+      "name": "B150",
+      "description": "call-500 phút nội mạng\nwifi-3GB data",
+      "price": "150"
+    },
+    {
+      "id": "B250",
+      "name": "B250",
+      "description": "call-2000 phút nội mạng\nwifi-8GB data",
+      "price": "250"
+    },
+    {
+      "id": "B250X",
+      "name": "B250X",
+      "description": "call-2000 phút nội mạng\ncall-100 phút ngoại mạng\nwifi-3GB data",
+      "price": "250"
+    },
+    {
+      "id": "B400",
+      "name": "B400",
+      "description": "call-Miễn phí 60 phút đầu tiên/cuộc\ncall-100 phút ngoại mạng\nwifi-15GB data",
+      "price": "400"
+    },
+    {
+      "id": "B500",
+      "name": "B500",
+      "description": "call-Miễn phí 60 phút đầu tiên/cuộc\ncall-150 phút ngoại mạng\nwifi-30GB data",
+      "price": "500"
+    }
+  ]
+}

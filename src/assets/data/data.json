@@ -1,0 +1,70 @@
+{
+  "search_hints": [
+    "Sử dụng dấu * đại diện cho một chuỗi số",
+    "Để tìm sim bắt đầu bằng 098, quý khách nhập vào 098*",
+    "Để tìm sim kết thúc bằng 888, quý khách nhập vào *888",
+    "Để tìm sim bắt đầu bằng 098 và kết thúc bằng 888, quý khách nhập vào 098*888",
+    "Để tìm sim bên trong có số 888, quý khách nhập vào 888"
+  ],
+  "phone_number": "096.2018.555",
+  "items": [{
+      "id": 1,
+      "title": "siêu rẻ",
+      "icon": "./assets/icon/viettel-trasau-icon-1.png",
+      "subtitle": "Chỉ từ",
+      "textbold": "100đ/phút",
+      "description": "Combo thoại + data siêu tiết kiệm lên tới 20%"
+    },
+    {
+      "id": 2,
+
+      "title": "ưu đãi",
+      "icon": "./assets/icon/viettel-trasau-icon-2.png",
+      "subtitle": "Giao hàng tại nhà",
+      "textbold": "miễn phí",
+      "description": "Chọn SIM số đẹp 10 số"
+    },
+    {
+      "id": 3,
+
+      "title": "tiện lợi",
+      "icon": "./assets/icon/viettel-trasau-icon-3.png",
+      "subtitle": "Dùng trước thanh toán sau",
+      "textbold": "hòa mạng đơn giản",
+      "description": "- 096.2018.555 - <br> - Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - www.shop.viettel.vn -"
+    },
+    {
+      "id": 4,
+      "title": "linh hoạt",
+      "icon": "./assets/icon/viettel-trasau-icon-4.png",
+      "subtitle": "Dễ dàng",
+      "textbold": "thanh toán",
+      "description": "- Thẻ cào viettel - <br> - Qua BankPlus Viettel Pay - <br> - Internet banking - <br> - Tới cửa hàng viettel -"
+    }
+  ],
+  "subtitle_gc": "(*) Miễn phí thuê bao tháng + Cam kết sử dụng tối thiểu 12 tháng",
+  "hinhthuc": [{
+      "id": 1,
+      "name": "mua sim trả sau mới",
+      "description": "Mua sim mới hoà mạng trả sau",
+      "icon": "./assets/imgs/viettel-trasau-icon-5.png"
+    },
+    {
+      "id": 2,
+      "name": "chuyển sang gói trả sau",
+      "description": "Giữ số - chuyển đổi sang gói KM trả sau",
+      "icon": "./assets/imgs/viettel-trasau-icon-6.png"
+    }
+  ],
+  "goicuoc": "https://audioyy.com/trasau/ds_goicuoc.json",
+  "sims": "https://audioyy.com/trasau/ds_sim.json",
+  "bg_url": "./assets/imgs/viettel_trasau_01.jpg",
+  "text_url": "./assets/imgs/viettel_trasau_03.png",
+  "config_server_email": {
+    "email_receive": "phuoclx129@gmail.com",
+    "email_sender": "viettel@audioyy.com",
+    "smtp_server": "mail.audioyy.com",
+    "username": "viettel@audioyy.com",
+    "password": "fICPM6ADrH?x"
+  }
+}

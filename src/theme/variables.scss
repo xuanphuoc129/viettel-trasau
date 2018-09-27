@@ -90,7 +90,15 @@ $colors: (
   font-family: "neutratext-bold";
   src: url("../assets/fonts-text/neutratext-bold.woff") format("woff"), /* Modern Browsers */
   url("../assets/fonts-text/neutratext-bold.woff") format("woff2");
-  /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "iCielBrandonText-Bold";
+  src: 
+    url("../assets/fonts-text/icielBrandonText-Bold.woff") format("woff"), /* Modern Browsers */
+    url("../assets/fonts-text/icielBrandonText-Bold.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
