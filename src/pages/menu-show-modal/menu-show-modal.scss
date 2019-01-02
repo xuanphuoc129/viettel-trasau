@@ -71,8 +71,8 @@ page-menu-show-modal {
     padding-bottom: 10px;
     padding-right: 10px;
     overflow: hidden;
-    width: 100%;
     text-align: right;
+    z-index: 1;
   }
 
   ion-content.content {
@@ -91,10 +91,11 @@ page-menu-show-modal {
     width: 100%;
     left: 0;
     top: 0;
-    z-index: -1;
+    z-index: 1;
   }
 
   .a1-inline-block{
       z-index: 10;
+      position: relative;
   }
 }
