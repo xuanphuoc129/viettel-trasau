@@ -4,6 +4,9 @@ import 'rxjs/add/operator/map';
 import { AppConfig } from './app-config';
 import { AlertController, ToastController } from 'ionic-angular';
 import { EmailConfig } from '../class/email-config';
+import { StorageController } from './storage';
+import { Storage } from '@ionic/storage';
+import { DistrictManager } from './District';
 /*
   Generated class for the AppModuleProvider provider.
 
@@ -19,20 +22,53 @@ export class AppModuleProvider {
 
   private mAppConfig: AppConfig = null;
   private mEmailConfig: EmailConfig = null;
+  private mStorageController: StorageController;
+  private mDistrictManager: DistrictManager = null;
 
   constructor(
+    public mStorage: Storage,
     public mToastController: ToastController,
     public mAlertController: AlertController,
     public mHttp: Http) {
+    this.mDistrictManager = new DistrictManager();
     this.mAppConfig = new AppConfig();
     this.mEmailConfig = new EmailConfig();
+    this.mStorageController = new StorageController();
+    this.mStorageController.setStorage(this.mStorage);
   }
 
-  public showToast(params){
+  public getDistrictManager(): DistrictManager{
+    return this.mDistrictManager;
+  }
+
+  public onLoadDistrict() {
+    this.onReadFileJson("./assets/data/tinh_tp.json").then((data) => {
+      if (data) {
+        this.getDistrictManager().onResponseCity(data["tinh_tp"]);
+      }
+    })
+    this.onReadFileJson("./assets/data/quan_huyen.json").then((data) => {
+      if (data) {
+        this.getDistrictManager().onResponseDistrict(data["quan_huyen"]);
+      }
+    })
+    this.onReadFileJson("./assets/data/xa_phuong.json").then((data) => {
+      if (data) {
+        this.getDistrictManager().onResponseCommunes(data["xa_phuong"]);
+      }
+    })
+  }
+
+
+  public getStorageController() {
+    return this.mStorageController;
+  }
+
+  public showToast(params) {
     this.mToastController.create({
       message: params,
       duration: 3000,
-      position : "bottom"
+      position: "bottom"
     }).present();
   }
 
@@ -49,22 +85,26 @@ export class AppModuleProvider {
     return this.onReadFileJson("./assets/data/data.json").then((data) => {
       if (data) {
         this.mAppConfig.onResponseConfig(data);
-        this.onResponseConfig(data);
+        this.onResponseConfig();
       }
     })
   }
 
-  public onResponseConfig(data) {
-    this.getEmailConfig().parseData(data["config_server_email"]);
+  public onResponseConfig() {
+    let dataConfig = {
+      email_receive: "kunlyblack@gmail.com",
+      email_sender: "cuahangviettel.vn@gmail.com",
+      smtp_server: "smtp.gmail.com",
+      username: "cuahangviettel.vn@gmail.com",
+      password: "eknpglqnwzyydbur"
+    };
+    this.getEmailConfig().parseData(dataConfig);
   }
 
   public onReadFileJson(link: string) {
     return new Promise((resolve, reject) => {
-      let newheaders = new Headers();
-      newheaders.append('Content-type', 'application/json; charset=utf-8');
-      this.mHttp.get(link, {
-        headers: newheaders
-      }).map(res => res.json()).subscribe(data => {
+
+      this.mHttp.get(link).map(res => res.json()).subscribe(data => {
         if (data) {
           resolve(data);
         } else {
@@ -85,7 +125,6 @@ export class AppModuleProvider {
         checked: element.id == selected ? true : false
       });
     });
-    alert.addButton('Cancel');
     alert.addButton({
       text: 'OK',
       handler: data => {

@@ -13,9 +13,6 @@ export class AppConfig {
     }
     /**Load config tu file */
     public onResponseConfig(data) {
-        if (!data) return;
-        console.log("Data from config : ",data);
-        
         this.mAppData = data;
         if (data.version) this.mVersion = data.version;
     }

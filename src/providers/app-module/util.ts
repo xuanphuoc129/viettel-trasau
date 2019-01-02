@@ -6,7 +6,7 @@ export class Utils {
   public static reg_appName = /^[\sA-Za-z0-9_-]{0,100}$/;
   public static reg_appDescript = /^[\sA-Za-z0-9_-]{0,500}$/;
 
-  public static reg_phone = /^[0-9+]{9,11}$/;
+  public static reg_phone = /^[0-9+]{10}$/;
   public static reg_number = /^[0-9+]$/;
   public static reg_username = /^[A-Za-z0-9_-]{6,20}$/;
   public static reg_password = /^[A-Za-z0-9_-]{6,20}$/;

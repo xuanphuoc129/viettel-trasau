@@ -8,21 +8,31 @@
       <img src="{{text_url}}" alt="">
       <div class="container">
         <div class="row a3-items-center">
+
+          <!-- <div class="col-2 hidden-xs" style="opacity: 0">
+            <div padding-left padding-right class="text">hoặc</div>
+          </div> -->
+
+          <div class="col-5 hidden-xs" style="opacity: 0">
+            <div class="btn-sign">gọi {{phone_number}}</div>
+          </div>
+
           <div class="col-5" tapable (click)="onClickSignUp()">
             <div class="btn-sign">Đăng ký tại đây</div>
           </div>
-          <div class="col-2 hidden-xs">
-            <div padding-left padding-right class="text">hoặc</div>
-          </div>
-          <div class="col-5 hidden-xs">
+
+          <div class="col-5 hidden-xs" style="opacity: 0">
             <div class="btn-sign">gọi {{phone_number}}</div>
           </div>
+
+
         </div>
       </div>
     </div>
 
     <ion-row id="rowitemID" align-items-start class="yellow-bg a1-relative a1-z-10" style="padding: 10px 30px;">
-      <ion-col col-12 col-sm-3 col-md-3 class="margin-xs" *ngFor="let item of items ; let i = index" text-center>
+      <ion-col (swipe)="onSwipe($event)" col-12 col-sm-3 col-md-3 class="margin-xs" *ngFor="let item of items ; let i = index"
+        text-center>
         <div class="vt-item-title blue-color iCielBrandonText-Bold">
           <span>{{item.title}}</span>
           <ion-icon class="a1-absolute icon-middle" name="md-arrow-dropdown"></ion-icon>
@@ -36,11 +46,12 @@
           <div class="font-bold " [class.iCielBrandonText-Bold]="i >= 0"><span>{{item.textbold}}</span></div>
           <div class="wrap" text-center [innerHtml]="item.description"></div>
 
-         <div class="line hidden-xs" [hidden]="i == 3"></div>
+          <div class="line hidden-xs" [hidden]="i == 3"></div>
         </div>
       </ion-col>
     </ion-row>
-    <div class="vt-tabbar" text-nowrap >
+
+    <div class="vt-tabbar" text-nowrap>
       <div class="tab" (click)="onClickTab(item)" [class.selected]="item.id == itemIDSelected" *ngFor="let item of items"></div>
     </div>
     <div class="yellow-bg skew-down"> </div>
@@ -87,7 +98,9 @@
       </ion-col>
     </ion-row>
   </div>
-  <div class="block3" id="block3ID">
+
+
+  <!-- <div class="block3" id="block3ID">
     <div class="vt-ht iCielBrandonText-Bold" text-center>
       Chọn số
     </div>
@@ -95,7 +108,8 @@
       <div class="a1-relative">
         <ion-row align-items-center>
           <ion-col col-12 col-sm-10>
-            <ion-searchbar mode="md" (focus)="onFocus()" placeholder="Nhập sim cần tìm..."></ion-searchbar>
+            <ion-searchbar mode="md" type="number" (focus)="onFocus()" [(ngModel)]="searchQuery" (ionInput)="doSearch()"
+              (keyup.enter)="doSearch()" placeholder="Nhập sim cần tìm..."></ion-searchbar>
           </ion-col>
           <ion-col class="hidden-xs" col-sm-2>
             <button ion-button round class="btn-search">
@@ -116,17 +130,17 @@
       <div class="table-container">
         <ion-row class="header-fixed" align-items-start>
           <ion-col col-2 col-sm-1 text-center>STT</ion-col>
-          <ion-col col-4 col-sm-3>Sim số</ion-col>
-          <ion-col col-2 col-sm-3>Giá tiền</ion-col>
-          <ion-col col-4 col-sm-3 text-center>Cam kết sử dụng</ion-col>
+          <ion-col col-6 col-sm-3>Sim số</ion-col>
+          <ion-col col-4 col-sm-3>Giá tiền</ion-col>
+          <ion-col col-4 class="hidden-xs" col-sm-3 text-center>Cam kết</ion-col>
           <ion-col col-2 class="hidden-xs"></ion-col>
         </ion-row>
         <div class="table-scroll-content">
           <ion-row *ngFor="let item of mSims; let i = index" (click)="onClickSim(item)" tappable align-items-center>
             <ion-col col-2 col-sm-1 text-center>{{i+1}}</ion-col>
-            <ion-col col-4 col-sm-3 class="sim-number">{{item.numberSim}}</ion-col>
-            <ion-col col-2 col-sm-3 class="sim-price">{{item.priceSim | number}} đ</ion-col>
-            <ion-col col-4 col-sm-3 text-center>{{item.timeSim}} đ/tháng</ion-col>
+            <ion-col col-6 col-sm-3 class="sim-number">{{item.numberSim}}</ion-col>
+            <ion-col col-4 col-sm-3 class="sim-price">{{item.priceSim | number}} đ</ion-col>
+            <ion-col class="hidden-xs" col-4 col-sm-3 text-center>{{item.timeSim}} đ/tháng</ion-col>
             <ion-col col-2 class="hidden-xs">
               <button class="sim-btn" ion-button outline uppercase>chọn</button>
             </ion-col>
@@ -134,7 +148,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+
   <div class="block4" id="block4ID">
     <div class="white-color vt-ht iCielBrandonText-Bold a1-relative" text-center>
       <span>Chọn gói cước</span>
@@ -159,6 +175,7 @@
             <div *ngFor="let des of item.description">
               <ion-icon name="call" *ngIf="des.type == 'call'"></ion-icon>
               <ion-icon name="ios-wifi" *ngIf="des.type == 'wifi'"></ion-icon>
+              <ion-icon name="chatboxes" *ngIf="des.type == 'sms'"></ion-icon>
               <span style="margin-left: 10px">{{des.message}}</span>
             </div>
           </div>
@@ -182,122 +199,269 @@
         <span>Thông tin khách hàng</span>
       </div>
 
-      <ion-row align-items-start>
+      <ion-grid style="height: 100%">
+        <ion-row align-items-stretch>
 
-        <ion-col col-12 col-sm-4 class="hidden-sm">
-          <div class="border-radius white-bg box-shadow" padding-top padding-bottom>
-            <div padding-bottom padding-left padding-top class="blue-color">Thông tin dịch vụ</div>
+          <ion-col align-self-stretch col-12 col-sm-4 class="hidden-sm">
+            <div class="border-radius white-bg box-shadow" padding-top padding-bottom>
+              <div padding-bottom padding-left padding-top class="blue-color">Thông tin dịch vụ</div>
 
-            <ion-list no-lines>
-              <ion-item>
-                <ion-label class="normal-font">Hình thức: </ion-label>
-                <ion-label class="red-color" [hidden]="!mHinhThucSelected || mHinhThucSelected.name.length == 0"
-                  text-right text-uppercase> {{mHinhThucSelected.name}}</ion-label>
-              </ion-item>
-              <ion-item>
-                <ion-label class="normal-font">Sim: </ion-label>
-                <ion-label class="red-color" [hidden]="!mSimSelected || mSimSelected.numberSim.length == 0" text-right>
-                  {{mSimSelected.numberSim}}</ion-label>
-              </ion-item>
-              <ion-item>
-                <ion-label class="normal-font">Gói cước: </ion-label>
-                <ion-label class="red-color" [hidden]="!mGoiCuocSelected || mGoiCuocSelected.name.length == 0"
-                  text-right>
-                  {{mGoiCuocSelected.name}}</ion-label>
-              </ion-item>
-            </ion-list>
-          </div>
-        </ion-col>
+              <ion-list no-lines>
+                <ion-item>
+                  <ion-label>Hình thức: </ion-label>
+                  <ion-label [hidden]="!mHinhThucSelected || mHinhThucSelected.name.length == 0">
+                    <div class="red-color" text-uppercase text-right>{{mHinhThucSelected.name}}</div>
+                  </ion-label>
 
-        <ion-col col-12 col-sm-8>
-          <div class="form-container">
-            <div style="padding-left: 5px" padding-bottom class="blue-color">Liên hệ</div>
+                </ion-item>
+                <ion-item no-border style="border-bottom: 0 !important" [hidden]="!mHinhThucSelected || mHinhThucSelected.name.length == 0 || mHinhThucSelected.id == 1">
+                  <div class="gray-color">Phí chuyển đổi: <span float-right>{{phi_chuyen_doi}}</span></div>
+                </ion-item>
+                <!-- <ion-item [hidden]="mHinhThucSelected && mHinhThucSelected.id == 2 || mHinhThucSelected.id == -1">
+                  <ion-label>Sim: </ion-label>
+                  <ion-label class="red-color" [hidden]="!mSimSelected || mSimSelected.numberSim.length == 0"
+                    text-right>
+                    <div class="red-color">{{mSimSelected.numberSim}}</div>
+                  </ion-label>
+                </ion-item> -->
 
-            <ion-row align-items-center>
-              <ion-col col-12 col-sm-2>
-                Họ và tên (*):
-              </ion-col>
-              <ion-col col-12 col-sm-9>
-                <ion-input type="text" placeholder="Nhập họ & tên" [(ngModel)]="mCustomer.name"></ion-input>
+                <!-- <ion-item [hidden]="!mSimSelected ||mSimSelected.numberSim.length == 0 || mHinhThucSelected.id == 2 || mHinhThucSelected.id == -1">
+                  <div class="gray-color">Phí mua sim: <span float-right>{{mSimSelected.priceSim | number}} đ</span> </div>
+                 
+                </ion-item> -->
+                <ion-item [hidden]="mHinhThucSelected.id == 2 || mHinhThucSelected.id == -1">
+                  <div class="gray-color">Phí đăng ký: <span float-right>{{phi_dang_ky}}</span> </div>
+                </ion-item>
 
-              </ion-col>
-            </ion-row>
+              </ion-list>
 
-            <ion-row class="no-margin">
-              <ion-col col-12 col-sm-9 offset-sm-2>
-                <div [hidden]="isRequireName" class="red-color">Bạn chưa nhập họ và tên</div>
-              </ion-col>
-            </ion-row>
-
-            <ion-row align-items-center>
-              <ion-col col-12 col-sm-2>
-                Điện thoại (*):
-              </ion-col>
-              <ion-col col-12 col-sm-9>
-                <ion-input type="tel" placeholder="Nhập số điện thoại" [(ngModel)]="mCustomer.phone"></ion-input>
-              </ion-col>
-            </ion-row>
-
-            <ion-row class="no-margin">
-              <ion-col col-12 col-sm-9 offset-sm-2>
-                <div [hidden]="isRequirePhone" class="red-color">Chưa có số điện thoại hoặc số
-                  điện thoại không hợp lệ</div>
-              </ion-col>
-            </ion-row>
-
-
-            <ion-row align-items-center>
-              <ion-col col-12 col-sm-2>
-                Địa chỉ (*):
-              </ion-col>
-              <ion-col col-12 col-sm-9>
-                <ion-input type="text" placeholder="số nhà, ngõ, đường, quận/huyện, tỉnh/tp" [(ngModel)]="mCustomer.address"></ion-input>
-              </ion-col>
-            </ion-row>
-
-            <ion-row class="no-margin">
-              <ion-col col-12 col-sm-9 offset-sm-2>
-                <div [hidden]="isRequireAdress" class="red-color">Chưa có địa chỉ</div>
-              </ion-col>
-            </ion-row>
-
-
-            <div text-center margin-top>
-              <button ion-button round class="btn-sign" (click)="onClickAccept()">Xác nhận</button>
             </div>
-          </div>
 
-        </ion-col>
+            <div class="goicuoc border-radius white-bg box-shadow" margin-top>
+              <div padding-bottom padding-top class="blue-color">Gói cước</div>
 
-        <ion-col col-12 col-sm-4 class="hidden-xs">
-          <div class="border-radius white-bg box-shadow" padding-top padding-bottom>
-            <div padding-bottom padding-left padding-top class="blue-color">Thông tin dịch vụ</div>
+              <div [hidden]="!mGoiCuocSelected || mGoiCuocSelected.name.length == 0">
+                <div class="border-bottom">
+                  <div class="block-tittle" text-uppercase>
+                    <span>{{mGoiCuocSelected.name}}</span>
+                  </div>
+                  <div class="block-subtitle">
+                    <span>Cước duy trì: <strong>{{mGoiCuocSelected.fee | number}}</strong> đ/01 tháng</span>
+                  </div>
+                </div>
+                <div class="block-des" padding-top>
+                  <div *ngFor="let des of mGoiCuocSelected.description">
+                    <ion-icon name="call" *ngIf="des.type == 'call'"></ion-icon>
+                    <ion-icon name="ios-wifi" *ngIf="des.type == 'wifi'"></ion-icon>
+                    <ion-icon name="chatboxes" *ngIf="des.type == 'sms'"></ion-icon>
+                    <span style="margin-left: 10px">{{des.message}}</span>
+                  </div>
+                </div>
+              </div>
 
-            <ion-list no-lines>
-              <ion-item>
-                <ion-label>Hình thức: </ion-label>
-                <ion-label class="red-color" [hidden]="!mHinhThucSelected || mHinhThucSelected.name.length == 0"
-                  text-right text-uppercase> {{mHinhThucSelected.name}}</ion-label>
-              </ion-item>
-              <ion-item>
-                <ion-label>Sim: </ion-label>
-                <ion-label class="red-color" [hidden]="!mSimSelected || mSimSelected.numberSim.length == 0" text-right>
-                  {{mSimSelected.numberSim}}</ion-label>
-              </ion-item>
-              <ion-item>
-                <ion-label>Gói cước: </ion-label>
-                <ion-label class="red-color" [hidden]="!mGoiCuocSelected || mGoiCuocSelected.name.length == 0"
-                  text-right>
-                  {{mGoiCuocSelected.name}}</ion-label>
-              </ion-item>
-            </ion-list>
-          </div>
-        </ion-col>
-      </ion-row>
+            </div>
+          </ion-col>
+
+          <ion-col align-self-stretch col-12 col-sm-8>
+            <div class="form-container">
+              <div style="padding-left: 5px" padding-bottom class="blue-color">Liên hệ</div>
+
+              <ion-row align-items-center id="nameID">
+                <ion-col col-12 col-sm-2>
+                  Họ và tên (*):
+                </ion-col>
+                <ion-col col-12 col-sm-9>
+                  <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.name.length > 0" (click)="onClickShowInputName()"
+                    tappable>{{
+                    mCustomer.name || 'Nhập họ & tên'}}</div>
+
+                  <ion-item *ngIf="!isIosMobile" no-padding no-border class="item-input">
+                    <ion-input (focus)="scrollToName()" type="text" placeholder="Nhập họ & tên" [(ngModel)]="mCustomer.name"></ion-input>
+                  </ion-item>
+                </ion-col>
+              </ion-row>
+
+              <ion-row class="no-margin">
+                <ion-col col-12 col-sm-9 offset-sm-2>
+                  <div [hidden]="isRequireName" class="red-color">Bạn chưa nhập họ và tên</div>
+                </ion-col>
+              </ion-row>
+
+              <ion-row align-items-center id="phoneID">
+                <ion-col col-12 col-sm-2>
+                  Điện thoại (*):
+                </ion-col>
+                <ion-col col-12 col-sm-9>
+
+                  <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.phone.length > 0" (click)="onClickShowInputPhone()"
+                    tappable>{{
+                    mCustomer.phone || 'Nhập số điện thoại'}}</div>
+
+
+                  <ion-item *ngIf="!isIosMobile" no-padding no-border class="item-input">
+                    <ion-input (focus)="scrollToPhone()" type="number" placeholder="Nhập số điện thoại" [(ngModel)]="mCustomer.phone"></ion-input>
+                  </ion-item>
+                </ion-col>
+              </ion-row>
+
+              <ion-row class="no-margin">
+                <ion-col col-12 col-sm-9 offset-sm-2>
+                  <div [hidden]="isRequirePhone" class="red-color">Chưa có số điện thoại hoặc số
+                    điện thoại không hợp lệ</div>
+                </ion-col>
+              </ion-row>
+
+
+              <ion-row align-items-center>
+                <ion-col col-12 col-sm-2>
+                  Địa chỉ (*):
+                </ion-col>
+
+                <ion-col col-12 col-sm-9>
+                  <ion-row>
+                    <ion-col col-6 col-sm-4 style="padding-left: 0">
+                      <div (click)="onClickCity()" tappable class="fake-select" [class.has-text]="mCityName.length > 0">
+                        {{mCityName || 'Tỉnh/thành phố'}}
+                      </div>
+                    </ion-col>
+                    <ion-col class="padding-xs right" col-6 col-sm-4>
+                      <div tappable (click)="onClickDistrict()" class="fake-select" [class.has-text]="mDistrictName.length > 0">
+                        {{mDistrictName || 'Quận/huyện'}}
+                      </div>
+                    </ion-col>
+                    <ion-col class="padding-xs left" col-6 col-sm-4 style="padding-right: 8px">
+                      <div tappable (click)="onClickCommune()" class="fake-select" [class.has-text]="mCommuneName.length > 0">
+                        {{mCommuneName || 'Phường/xã'}}
+                      </div>
+                    </ion-col>
+                  </ion-row>
+                </ion-col>
+
+                <ion-col col-12 col-sm-9 offset-sm-2>
+
+                  <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.address.length > 0" (click)="onClickShowInputAddress()"
+                    tappable>{{
+                    mCustomer.address || 'số nhà, tên đường, tổ/thôn'}}</div>
+
+                  <ion-item *ngIf="!isIosMobile" no-padding no-border class="item-input">
+                    <ion-input (focus)="scrollToAddress()" type="text" placeholder="số nhà, tên đường, tổ/thôn"
+                      [(ngModel)]="mCustomer.address"></ion-input>
+                  </ion-item>
+                </ion-col>
+
+              </ion-row>
+
+              <!-- <ion-row align-items-center id="addressID">
+                <ion-col col-12 col-sm-2>
+                </ion-col>
+
+              </ion-row> -->
+
+              <ion-row class="no-margin">
+                <ion-col col-12 col-sm-9 offset-sm-2>
+                  <div [hidden]="isRequireAdress" class="red-color">Chưa có địa chỉ</div>
+                </ion-col>
+              </ion-row>
+
+              <!-- <ion-row align-items-center>
+                <ion-col col-12 col-sm-2>
+                  Nơi cấp CMT:
+                </ion-col>
+                <ion-col col-12 col-sm-9>
+
+                  <div class="fake-input selecte-cmt a1-relative" [class.hastext]="cityName.length > 0" (click)="onClickShowInputCitys()"
+                    tappable>{{
+                    cityName || 'Nơi cấp chứng minh thư nhân dân'}}
+                    <div class="a1-absolute">
+                      <ion-icon name="md-arrow-dropdown"></ion-icon>
+                    </div>
+                  </div>
+
+                </ion-col>
+              </ion-row> -->
+
+              <div text-center margin-top>
+                <button ion-button round class="btn-sign" [disabled]="isClickAccept" (click)="onClickAccept()">Xác nhận</button>
+              </div>
+            </div>
+
+          </ion-col>
+
+          <ion-col align-self-stretch col-12 col-sm-4 class="hidden-xs">
+            <div class="border-radius white-bg box-shadow" padding-top padding-bottom>
+              <div padding-bottom padding-left padding-top class="blue-color">Thông tin dịch vụ</div>
+
+              <ion-list no-lines>
+                <ion-item>
+                  <ion-label>Hình thức: </ion-label>
+                  <ion-label [hidden]="!mHinhThucSelected || mHinhThucSelected.name.length == 0">
+                    <div class="red-color" text-uppercase text-right>{{mHinhThucSelected.name}}</div>
+                  </ion-label>
+
+                </ion-item>
+                <ion-item no-border style="border-bottom: 0 !important" [hidden]="!mHinhThucSelected || mHinhThucSelected.name.length == 0 || mHinhThucSelected.id == 1">
+                  <div class="gray-color">Phí chuyển đổi: <span float-right>{{phi_chuyen_doi}}</span></div>
+                </ion-item>
+                <!-- <ion-item [hidden]="mHinhThucSelected && mHinhThucSelected.id == 2 || mHinhThucSelected.id == -1">
+                  <ion-label>Sim: </ion-label>
+                  <ion-label class="red-color" [hidden]="!mSimSelected || mSimSelected.numberSim.length == 0"
+                    text-right>
+                    <div class="red-color">{{mSimSelected.numberSim}}</div>
+                  </ion-label>
+                </ion-item> -->
+
+                <!-- <ion-item [hidden]="!mSimSelected ||mSimSelected.numberSim.length == 0 || mHinhThucSelected.id == 2 || mHinhThucSelected.id == -1">
+                  <div class="gray-color">Phí mua sim: <span float-right>{{mSimSelected.priceSim | number}} đ</span> </div>
+                 
+                </ion-item> -->
+                <ion-item [hidden]="mHinhThucSelected.id == 2 || mHinhThucSelected.id == -1">
+                  <div class="gray-color">Phí đăng ký: <span float-right>{{phi_dang_ky}}</span> </div>
+                </ion-item>
+
+              </ion-list>
+
+            </div>
+
+            <div class="goicuoc border-radius white-bg box-shadow" margin-top>
+              <div padding-bottom padding-top class="blue-color">Gói cước</div>
+
+              <div [hidden]="!mGoiCuocSelected || mGoiCuocSelected.name.length == 0">
+                <div class="border-bottom">
+                  <div class="block-tittle" text-uppercase>
+                    <span>{{mGoiCuocSelected.name}}</span>
+                  </div>
+                  <div class="block-subtitle">
+                    <span>Cước duy trì: <strong>{{mGoiCuocSelected.fee | number}}</strong> đ/01 tháng</span>
+                  </div>
+                </div>
+                <div class="block-des" padding-top>
+                  <div *ngFor="let des of mGoiCuocSelected.description">
+                    <ion-icon name="call" *ngIf="des.type == 'call'"></ion-icon>
+                    <ion-icon name="ios-wifi" *ngIf="des.type == 'wifi'"></ion-icon>
+                    <ion-icon name="chatboxes" *ngIf="des.type == 'sms'"></ion-icon>
+                    <span style="margin-left: 10px">{{des.message}}</span>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </ion-col>
+
+        </ion-row>
+      </ion-grid>
+
+
     </div>
 
     <div class="primary-bg"></div>
     <div class="yellow-bg"></div>
   </div>
+
+  <!-- <ion-fab bottom left>
+    <button ion-fab class="btn-call" (click)="onClickCall()">
+      <ion-icon name="call" class="animated pulse infinite"></ion-icon>
+    </button>
+  </ion-fab> -->
+
 
 </ion-content>

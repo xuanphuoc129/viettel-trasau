@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { AppModuleProvider } from '../../providers/app-module/app-module';
 
 /**
  * Generated class for the MailDonePopupPage page.
@@ -16,7 +17,9 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 export class MailDonePopupPage {
   phone: string = "";
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(
+    public mAppModule : AppModuleProvider,
+    public navCtrl: NavController, public navParams: NavParams) {
     this.onLoadParams();
   }
 
@@ -27,7 +30,8 @@ export class MailDonePopupPage {
   }
 
   ionViewDidLoad() {
-   
+    let time = new Date();
+    this.mAppModule.getStorageController().saveDataToStorage("time_send",time.getTime());
   }
 
 }
