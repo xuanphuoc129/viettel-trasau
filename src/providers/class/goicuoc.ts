@@ -49,7 +49,7 @@ export class GoiCuoc {
                 let array = data.split("\n");
                 array.forEach(element => {
                     let arrayelement = element.split("-");
-                    console.log(arrayelement);
+                    // console.log(arrayelement);
                     
                     this.description.push({
                         type: arrayelement[0],

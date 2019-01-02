@@ -62,8 +62,6 @@ export class SelectAddressPage {
   }
 
   onClickItem(item){
-    console.log(item);
-    
     this.mViewController.dismiss(item.id);
   }
 

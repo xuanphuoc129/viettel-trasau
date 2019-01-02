@@ -61,7 +61,7 @@ export class AppModuleProvider {
   }
 
   public showModal(page, params?: any, callback?: any): void {
-    let modal = this.mModalController.create(page, params ? params : null, {
+    let modal = this.mModalController.create(page, {params: params ? params : null}, {
       enterAnimation: "fade-in",
       leaveAnimation: "fade-out"
     });

@@ -79,7 +79,7 @@ export class DistrictManager {
 
     public getDistrictWithCityCode(code) {
         if (this._mDistricts.length == 0) return [];
-        console.log(this._mDistricts);
+        // console.log(this._mDistricts);
         
         let res = [];
         res = this._mDistricts.filter(ele => {
