@@ -45,10 +45,10 @@ export class HomePage {
     text_url: string = "./assets/imgs/viettel_trasau_03.png";
     type_sim_1: string = "./assets/imgs/viettel-trasau-icon-5.png";
     type_sim_2: string = "./assets/imgs/viettel-trasau-icon-6.png";
-    phone_number: string = "098.776.2233";
+    phone_number: string = "096.2018.555";
     phi_chuyen_doi: string = "35,000 đ";
     phi_dang_ky: string = "25,000 đ";
-    phone_call: string = "0987762233";
+    phone_call: string = "0962018555";
     mSearchHints: Array<string> = [
         "Sử dụng dấu * đại diện cho một chuỗi số",
         "Để tìm sim bắt đầu bằng 098, quý khách nhập vào 098*",
@@ -101,7 +101,8 @@ export class HomePage {
     mDistrict: Array<Districts> = [];
     mCommunes: Array<Communes> = [];
 
-
+    mNumberSim: number = 1;
+    mTypePerson: number = 1;
     constructor(
         public mAlertController: AlertController,
         public mPlatform: Platform,
@@ -124,6 +125,10 @@ export class HomePage {
         this.mScrollController = new ScrollController();
     }
 
+    onClickTypePerson(type) {
+        this.mTypePerson = type;
+    }
+
     onClickShowInputCitys() {
         let array = [];
         this.mCitys.forEach(ele => {
@@ -132,6 +137,7 @@ export class HomePage {
                 name: ele.name
             });
         })
+
 
         this.mAppModule.showSelect("Chọn nơi cấp chứng minh thư", array, this._cityCode, (code) => {
             if (code) {
@@ -176,6 +182,29 @@ export class HomePage {
 
     }
 
+    onClickShowInputNumberSim() {
+        let alert = this.mAlertController.create({
+            title: "Số lượng sim đăng ký",
+            inputs: [
+                {
+                    type: "text",
+                    name: "name",
+                    value: this.mNumberSim + "",
+                    placeholder: "Nhập số lượng sim đăng ký"
+                }
+            ],
+            buttons: [
+                {
+                    text: "Ok",
+                    handler: data => {
+                        this.mNumberSim = parseInt(data.name);
+                    }
+                }
+            ]
+        });
+        alert.present();
+    }
+
     onClickShowInputPhone() {
         let alert = this.mAlertController.create({
             title: "Số điện thoại",
@@ -208,7 +237,7 @@ export class HomePage {
                     type: "text",
                     name: "address",
                     value: this.mCustomer.address,
-                    placeholder: "số nhà, ngõ, đường, quận/huyện, tỉnh/tp"
+                    placeholder: "Số nhà, tên đường, tổ/thôn"
                 }
             ],
             buttons: [
@@ -254,7 +283,8 @@ export class HomePage {
     onClickHinhThuc(number: number) {
         this.mHinhThucSelected = this.mHinhThucs[number];
         if (this.mHinhThucSelected.id == 1) {
-            alert("Đăng ký mua sim trả sau mới vui lòng liên hệ " + this.phone_call + " để được hỗ trợ");
+            this.scrollTo(this.getScrollTopById("block5ID"));
+            // alert("Đăng ký mua sim trả sau mới vui lòng liên hệ " + this.phone_call + " để được hỗ trợ");
             // if (this.mSimSelected.id == "") {
             //     // this.scrollTo(this.getScrollTopById("block3ID"));
             // } else if (this.mGoiCuocSelected.id == "") {
@@ -514,13 +544,19 @@ export class HomePage {
         let l4 = "Họ tên: " + this.mCustomer.name + "\r \n" + ";";
         let l5 = "Điện thoại: " + this.mCustomer.phone + "\r \n" + ";";
 
+        let l9 = "Số lượng sim: " + this.mNumberSim + ";";
+
+        let l10 = "Loại khách hàng: " + (this.mTypePerson == 1 ? "Cá nhân" : "Doanh nghiệp") + ";";
+
         let l6 = "Địa chỉ: " + this.mCustomer.address + "\r \n" + ";";
 
         let l8 = this.mCommuneName + ", " + this.mDistrictName + ", " + this.mCityName + ";";
 
-        let l7 = "Nơi cấp chứng minh: " + this.cityName + ";";
-
-        return l1 + l3 + l4 + l5 + l6 + l8 + l7;
+        if (this.mHinhThucSelected.id == 1) {
+            return l1 + l3 + l4 + l5 + l9 + l10 + l6 + l8;
+        } else {
+            return l1 + l4 + l5 + l6 + l8;
+        }
     }
 
     sendMail() {
@@ -601,8 +637,13 @@ export class HomePage {
                 name: element.name
             });
         });
-        this.mAppModule.showSelect("Chọn tỉnh/thành phố", array, this.mCityCode, (id) => {
+
+
+
+        this.mAppModule.showModal("SelectAddressPage", { title: "Chọn tỉnh/thành phố", items: array, selected: this.mCityCode }, (id) => {
             if (id) {
+                console.log(id);
+
                 if (id != this.mCityCode) {
                     this.mDistrictCode = "-1";
                     this.mDistrictName = "";
@@ -614,7 +655,21 @@ export class HomePage {
                     this.mDistrict = this.mAppModule.getDistrictManager().getDistrictWithCityCode(this.mCityCode);
                 }
             }
-        })
+        });
+        // this.mAppModule.showSelect("Chọn tỉnh/thành phố", array, this.mCityCode, (id) => {
+        //     if (id) {
+        //         if (id != this.mCityCode) {
+        //             this.mDistrictCode = "-1";
+        //             this.mDistrictName = "";
+        //             this.mCommuneCode = "-1";
+        //             this.mCommuneName = "";
+
+        //             this.mCityCode = id;
+        //             this.onGetCityName();
+        //             this.mDistrict = this.mAppModule.getDistrictManager().getDistrictWithCityCode(this.mCityCode);
+        //         }
+        //     }
+        // })
     }
 
     onGetCityName() {
@@ -634,7 +689,7 @@ export class HomePage {
         })
 
         if (city) {
-            this.mDistrictName = city.name;
+            this.mDistrictName = city.cap + " " + city.name;
         }
     }
     onGetCommuneName() {
@@ -643,7 +698,7 @@ export class HomePage {
         })
 
         if (city) {
-            this.mCommuneName = city.name;
+            this.mCommuneName = city.cap + " " + city.name;
         }
     }
 
@@ -658,10 +713,13 @@ export class HomePage {
         this.mDistrict.forEach(element => {
             array.push({
                 id: element.code,
-                name: element.name
+                name: element.cap + " " + element.name
             });
         });
-        this.mAppModule.showSelect("Chọn quận huyện", array, this.mDistrictCode, (id) => {
+
+
+
+        this.mAppModule.showModal("SelectAddressPage", { title: "Chọn quận huyện", items: array, selected: this.mDistrictCode }, (id) => {
             if (id) {
                 if (id != this.mDistrictCode) {
                     this.mCommuneCode = "-1";
@@ -672,7 +730,7 @@ export class HomePage {
                     this.mCommunes = this.mAppModule.getDistrictManager().getDistrictWithDistrictCode(this.mDistrictCode);
                 }
             }
-        })
+        });
 
     }
 
@@ -685,14 +743,22 @@ export class HomePage {
         this.mCommunes.forEach(element => {
             array.push({
                 id: element.code,
-                name: element.name
+                name: element.cap + " " + element.name
             });
         });
-        this.mAppModule.showSelect("Chọn phường xã", array, this.mCommuneCode, (id) => {
+
+        this.mAppModule.showModal("SelectAddressPage", { title: "Chọn phường xã", items: array, selected: this.mCommuneCode }, (id) => {
             if (id) {
                 this.mCommuneCode = id;
                 this.onGetCommuneName();
             }
-        })
+        });
+
+       
+
+    }
+
+    onClickAddFab(){
+        this.mAppModule.showModal("MenuShowModalPage",null);
     }
 }

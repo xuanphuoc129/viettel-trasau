@@ -1157,7 +1157,7 @@
         },
         {
             "code": "00376",
-            "name": "Thị trấn Sóc Sơn",
+            "name": "Sóc Sơn",
             "cap": "Thị trấn",
             "ma_qh": "016",
             "quan_huyen": "Huyện Sóc Sơn",
@@ -1391,7 +1391,7 @@
         },
         {
             "code": "00454",
-            "name": "Thị trấn Đông Anh",
+            "name": "Đông Anh",
             "cap": "Thị trấn",
             "ma_qh": "017",
             "quan_huyen": "Huyện Đông Anh",
@@ -1607,7 +1607,7 @@
         },
         {
             "code": "00526",
-            "name": "Thị trấn Yên Viên",
+            "name": "Yên Viên",
             "cap": "Thị trấn",
             "ma_qh": "018",
             "quan_huyen": "Huyện Gia Lâm",
@@ -1724,7 +1724,7 @@
         },
         {
             "code": "00565",
-            "name": "Thị trấn Trâu Quỳ",
+            "name": "Trâu Quỳ",
             "name_eng": "Trau Quy Commune",
             "cap": "Thị trấn",
             "ma_qh": "018",
@@ -1896,7 +1896,7 @@
         },
         {
             "code": "00640",
-            "name": "Thị trấn Văn Điển",
+            "name": "Văn Điển",
             "cap": "Thị trấn",
             "ma_qh": "020",
             "quan_huyen": "Huyện Thanh Trì",
@@ -2157,7 +2157,7 @@
         },
         {
             "code": "08973",
-            "name": "Thị trấn Chi Đông",
+            "name": "Chi Đông",
             "cap": "Thị trấn",
             "ma_qh": "250",
             "quan_huyen": "Huyện Mê Linh",
@@ -2211,7 +2211,7 @@
         },
         {
             "code": "08989",
-            "name": "Thị trấn Quang Minh",
+            "name": "Quang Minh",
             "cap": "Thị trấn",
             "ma_qh": "250",
             "quan_huyen": "Huyện Mê Linh",
@@ -2607,7 +2607,7 @@
         },
         {
             "code": "09619",
-            "name": "Thị trấn Tây Đằng",
+            "name": "Tây Đằng",
             "cap": "Thị trấn",
             "ma_qh": "271",
             "quan_huyen": "Huyện Ba Vì",
@@ -2886,7 +2886,7 @@
         },
         {
             "code": "09715",
-            "name": "Thị trấn Phúc Thọ",
+            "name": "Phúc Thọ",
             "cap": "Thị trấn",
             "ma_qh": "272",
             "quan_huyen": "Huyện Phúc Thọ",
@@ -3093,7 +3093,7 @@
         },
         {
             "code": "09784",
-            "name": "Thị trấn Phùng",
+            "name": "Phùng",
             "cap": "Thị trấn",
             "ma_qh": "273",
             "quan_huyen": "Huyện Đan Phượng",
@@ -3237,7 +3237,7 @@
         },
         {
             "code": "09832",
-            "name": "Thị trấn Trạm Trôi",
+            "name": "Trạm Trôi",
             "cap": "Thị trấn",
             "ma_qh": "274",
             "quan_huyen": "Huyện Hoài Đức",
@@ -3426,7 +3426,7 @@
         },
         {
             "code": "09895",
-            "name": "Thị trấn Quốc Oai",
+            "name": "Quốc Oai",
             "cap": "Thị trấn",
             "ma_qh": "275",
             "quan_huyen": "Huyện Quốc Oai",
@@ -3633,7 +3633,7 @@
         },
         {
             "code": "09955",
-            "name": "Thị trấn Liên Quan",
+            "name": "Liên Quan",
             "cap": "Thị trấn",
             "ma_qh": "276",
             "quan_huyen": "Huyện Thạch Thất",
@@ -3813,7 +3813,7 @@
         },
         {
             "code": "10015",
-            "name": "Thị trấn Chúc Sơn",
+            "name": "Chúc Sơn",
             "cap": "Thị trấn",
             "ma_qh": "277",
             "quan_huyen": "Huyện Chương Mỹ",
@@ -3822,7 +3822,7 @@
         },
         {
             "code": "10018",
-            "name": "Thị trấn Xuân Mai",
+            "name": "Xuân Mai",
             "cap": "Thị trấn",
             "ma_qh": "277",
             "quan_huyen": "Huyện Chương Mỹ",
@@ -4101,7 +4101,7 @@
         },
         {
             "code": "10114",
-            "name": "Thị trấn Kim Bài",
+            "name": "Kim Bài",
             "cap": "Thị trấn",
             "ma_qh": "278",
             "quan_huyen": "Huyện Thanh Oai",
@@ -4290,7 +4290,7 @@
         },
         {
             "code": "10183",
-            "name": "Thị trấn Thường Tín",
+            "name": "Thường Tín",
             "cap": "Thị trấn",
             "ma_qh": "279",
             "quan_huyen": "Huyện Thường Tín",
@@ -4551,7 +4551,7 @@
         },
         {
             "code": "10270",
-            "name": "Thị trấn Phú Minh",
+            "name": "Phú Minh",
             "cap": "Thị trấn",
             "ma_qh": "280",
             "quan_huyen": "Huyện Phú Xuyên",
@@ -4560,7 +4560,7 @@
         },
         {
             "code": "10273",
-            "name": "Thị trấn Phú Xuyên",
+            "name": "Phú Xuyên",
             "cap": "Thị trấn",
             "ma_qh": "280",
             "quan_huyen": "Huyện Phú Xuyên",
@@ -4803,7 +4803,7 @@
         },
         {
             "code": "10354",
-            "name": "Thị trấn Vân Đình",
+            "name": "Vân Đình",
             "cap": "Thị trấn",
             "ma_qh": "281",
             "quan_huyen": "Huyện Ứng Hòa",
@@ -5064,7 +5064,7 @@
         },
         {
             "code": "10441",
-            "name": "Thị trấn Đại Nghĩa",
+            "name": "Đại Nghĩa",
             "cap": "Thị trấn",
             "ma_qh": "282",
             "quan_huyen": "Huyện Mỹ Đức",
@@ -5334,7 +5334,7 @@
         },
         {
             "code": "00712",
-            "name": "Thị trấn Phó Bảng",
+            "name": "Phó Bảng",
             "cap": "Thị trấn",
             "ma_qh": "026",
             "quan_huyen": "Huyện Đồng Văn",
@@ -5361,7 +5361,7 @@
         },
         {
             "code": "00721",
-            "name": "Thị trấn Đồng Văn",
+            "name": "Đồng Văn",
             "cap": "Thị trấn",
             "ma_qh": "026",
             "quan_huyen": "Huyện Đồng Văn",
@@ -5505,7 +5505,7 @@
         },
         {
             "code": "00769",
-            "name": "Thị trấn Mèo Vạc",
+            "name": "Mèo Vạc",
             "cap": "Thị trấn",
             "ma_qh": "027",
             "quan_huyen": "Huyện Mèo Vạc",
@@ -5668,7 +5668,7 @@
         },
         {
             "code": "00820",
-            "name": "Thị trấn Yên Minh",
+            "name": "Yên Minh",
             "cap": "Thị trấn",
             "ma_qh": "028",
             "quan_huyen": "Huyện Yên Minh",
@@ -5830,7 +5830,7 @@
         },
         {
             "code": "00874",
-            "name": "Thị trấn Tam Sơn",
+            "name": "Tam Sơn",
             "cap": "Thị trấn",
             "ma_qh": "029",
             "quan_huyen": "Huyện Quản Bạ",
@@ -5974,7 +5974,7 @@
         },
         {
             "code": "00913",
-            "name": "Thị trấn Vị Xuyên",
+            "name": "Vị Xuyên",
             "cap": "Thị trấn",
             "ma_qh": "030",
             "quan_huyen": "Huyện Vị Xuyên",
@@ -5983,7 +5983,7 @@
         },
         {
             "code": "00916",
-            "name": "Thị trấn Nông Trường Việt Lâm",
+            "name": "Nông Trường Việt Lâm",
             "cap": "Thị trấn",
             "ma_qh": "030",
             "quan_huyen": "Huyện Vị Xuyên",
@@ -6190,7 +6190,7 @@
         },
         {
             "code": "00991",
-            "name": "Thị trấn Yên Phú",
+            "name": "Yên Phú",
             "cap": "Thị trấn",
             "ma_qh": "031",
             "quan_huyen": "Huyện Bắc Mê",
@@ -6280,7 +6280,7 @@
         },
         {
             "code": "01021",
-            "name": "Thị trấn Vinh Quang",
+            "name": "Vinh Quang",
             "cap": "Thị trấn",
             "ma_qh": "032",
             "quan_huyen": "Huyện Hoàng Su Phì",
@@ -6505,7 +6505,7 @@
         },
         {
             "code": "01096",
-            "name": "Thị trấn Cốc Pài",
+            "name": "Cốc Pài",
             "cap": "Thị trấn",
             "ma_qh": "033",
             "quan_huyen": "Huyện Xín Mần",
@@ -6676,7 +6676,7 @@
         },
         {
             "code": "01153",
-            "name": "Thị trấn Việt Quang",
+            "name": "Việt Quang",
             "cap": "Thị trấn",
             "ma_qh": "034",
             "quan_huyen": "Huyện Bắc Quang",
@@ -6685,7 +6685,7 @@
         },
         {
             "code": "01156",
-            "name": "Thị trấn Vĩnh Tuy",
+            "name": "Vĩnh Tuy",
             "cap": "Thị trấn",
             "ma_qh": "034",
             "quan_huyen": "Huyện Bắc Quang",
@@ -6928,7 +6928,7 @@
         },
         {
             "code": "01237",
-            "name": "Thị trấn Yên Bình",
+            "name": "Yên Bình",
             "cap": "Thị trấn",
             "ma_qh": "035",
             "quan_huyen": "Huyện Quang Bình",
@@ -7117,7 +7117,7 @@
         },
         {
             "code": "01290",
-            "name": "Thị trấn Pác Miầu",
+            "name": "Pác Miầu",
             "cap": "Thị trấn",
             "ma_qh": "042",
             "quan_huyen": "Huyện Bảo Lâm",
@@ -7246,7 +7246,7 @@
         },
         {
             "code": "01321",
-            "name": "Thị trấn Bảo Lạc",
+            "name": "Bảo Lạc",
             "cap": "Thị trấn",
             "ma_qh": "043",
             "quan_huyen": "Huyện Bảo Lạc",
@@ -7399,7 +7399,7 @@
         },
         {
             "code": "01363",
-            "name": "Thị trấn Thông Nông",
+            "name": "Thông Nông",
             "cap": "Thị trấn",
             "ma_qh": "044",
             "quan_huyen": "Huyện Thông Nông",
@@ -7498,7 +7498,7 @@
         },
         {
             "code": "01392",
-            "name": "Thị trấn Xuân Hòa",
+            "name": "Xuân Hòa",
             "cap": "Thị trấn",
             "ma_qh": "045",
             "quan_huyen": "Huyện Hà Quảng",
@@ -7670,7 +7670,7 @@
         },
         {
             "code": "01447",
-            "name": "Thị trấn Hùng Quốc",
+            "name": "Hùng Quốc",
             "cap": "Thị trấn",
             "ma_qh": "046",
             "quan_huyen": "Huyện Trà Lĩnh",
@@ -7760,7 +7760,7 @@
         },
         {
             "code": "01477",
-            "name": "Thị trấn Trùng Khánh",
+            "name": "Trùng Khánh",
             "cap": "Thị trấn",
             "ma_qh": "047",
             "quan_huyen": "Huyện Trùng Khánh",
@@ -8012,7 +8012,7 @@
         },
         {
             "code": "01558",
-            "name": "Thị trấn Thanh Nhật",
+            "name": "Thanh Nhật",
             "cap": "Thị trấn",
             "ma_qh": "048",
             "quan_huyen": "Huyện Hạ Lang",
@@ -8066,7 +8066,7 @@
         },
         {
             "code": "01576",
-            "name": "Thị trấn Quảng Uyên",
+            "name": "Quảng Uyên",
             "cap": "Thị trấn",
             "ma_qh": "049",
             "quan_huyen": "Huyện Quảng Uyên",
@@ -8219,7 +8219,7 @@
         },
         {
             "code": "01627",
-            "name": "Thị trấn Tà Lùng",
+            "name": "Tà Lùng",
             "cap": "Thị trấn",
             "ma_qh": "050",
             "quan_huyen": "Huyện Phục Hoà",
@@ -8282,7 +8282,7 @@
         },
         {
             "code": "01648",
-            "name": "Thị trấn Hoà Thuận",
+            "name": "Hoà Thuận",
             "cap": "Thị trấn",
             "ma_qh": "050",
             "quan_huyen": "Huyện Phục Hoà",
@@ -8300,7 +8300,7 @@
         },
         {
             "code": "01654",
-            "name": "Thị trấn Nước Hai",
+            "name": "Nước Hai",
             "cap": "Thị trấn",
             "ma_qh": "051",
             "quan_huyen": "Huyện Hoà An",
@@ -8489,7 +8489,7 @@
         },
         {
             "code": "01726",
-            "name": "Thị trấn Nguyên Bình",
+            "name": "Nguyên Bình",
             "cap": "Thị trấn",
             "ma_qh": "052",
             "quan_huyen": "Huyện Nguyên Bình",
@@ -8498,7 +8498,7 @@
         },
         {
             "code": "01729",
-            "name": "Thị trấn Tĩnh Túc",
+            "name": "Tĩnh Túc",
             "cap": "Thị trấn",
             "ma_qh": "052",
             "quan_huyen": "Huyện Nguyên Bình",
@@ -8669,7 +8669,7 @@
         },
         {
             "code": "01786",
-            "name": "Thị trấn Đông Khê",
+            "name": "Đông Khê",
             "cap": "Thị trấn",
             "ma_qh": "053",
             "quan_huyen": "Huyện Thạch An",
@@ -8975,7 +8975,7 @@
         },
         {
             "code": "01888",
-            "name": "Thị trấn Chợ Rã",
+            "name": "Chợ Rã",
             "cap": "Thị trấn",
             "ma_qh": "061",
             "quan_huyen": "Huyện Ba Bể",
@@ -9119,7 +9119,7 @@
         },
         {
             "code": "01936",
-            "name": "Thị trấn Nà Phặc",
+            "name": "Nà Phặc",
             "cap": "Thị trấn",
             "ma_qh": "062",
             "quan_huyen": "Huyện Ngân Sơn",
@@ -9218,7 +9218,7 @@
         },
         {
             "code": "01969",
-            "name": "Thị trấn Phủ Thông",
+            "name": "Phủ Thông",
             "cap": "Thị trấn",
             "ma_qh": "063",
             "quan_huyen": "Huyện Bạch Thông",
@@ -9371,7 +9371,7 @@
         },
         {
             "code": "02020",
-            "name": "Thị trấn Bằng Lũng",
+            "name": "Bằng Lũng",
             "cap": "Thị trấn",
             "ma_qh": "064",
             "quan_huyen": "Huyện Chợ Đồn",
@@ -9569,7 +9569,7 @@
         },
         {
             "code": "02086",
-            "name": "Thị trấn Chợ Mới",
+            "name": "Chợ Mới",
             "cap": "Thị trấn",
             "ma_qh": "065",
             "quan_huyen": "Huyện Chợ Mới",
@@ -9713,7 +9713,7 @@
         },
         {
             "code": "02134",
-            "name": "Thị trấn Yến Lạc",
+            "name": "Yến Lạc",
             "cap": "Thị trấn",
             "ma_qh": "066",
             "quan_huyen": "Huyện Na Rì",
@@ -10100,7 +10100,7 @@
         },
         {
             "code": "02221",
-            "name": "Thị trấn Na Hang",
+            "name": "Na Hang",
             "cap": "Thị trấn",
             "ma_qh": "072",
             "quan_huyen": "Huyện Na Hang",
@@ -10208,7 +10208,7 @@
         },
         {
             "code": "02287",
-            "name": "Thị trấn Vĩnh Lộc",
+            "name": "Vĩnh Lộc",
             "cap": "Thị trấn",
             "ma_qh": "073",
             "quan_huyen": "Huyện Chiêm Hóa",
@@ -10442,7 +10442,7 @@
         },
         {
             "code": "02374",
-            "name": "Thị trấn Tân Yên",
+            "name": "Tân Yên",
             "cap": "Thị trấn",
             "ma_qh": "074",
             "quan_huyen": "Huyện Hàm Yên",
@@ -10604,7 +10604,7 @@
         },
         {
             "code": "02428",
-            "name": "Thị trấn Tân Bình",
+            "name": "Tân Bình",
             "cap": "Thị trấn",
             "ma_qh": "075",
             "quan_huyen": "Huyện Yên Sơn",
@@ -10883,7 +10883,7 @@
         },
         {
             "code": "02536",
-            "name": "Thị trấn Sơn Dương",
+            "name": "Sơn Dương",
             "cap": "Thị trấn",
             "ma_qh": "076",
             "quan_huyen": "Huyện Sơn Dương",
@@ -11336,7 +11336,7 @@
         },
         {
             "code": "02683",
-            "name": "Thị trấn Bát Xát",
+            "name": "Bát Xát",
             "cap": "Thị trấn",
             "ma_qh": "082",
             "quan_huyen": "Huyện Bát Xát",
@@ -11570,7 +11570,7 @@
         },
         {
             "code": "02761",
-            "name": "Thị trấn Mường Khương",
+            "name": "Mường Khương",
             "cap": "Thị trấn",
             "ma_qh": "083",
             "quan_huyen": "Huyện Mường Khương",
@@ -11804,7 +11804,7 @@
         },
         {
             "code": "02839",
-            "name": "Thị trấn Bắc Hà",
+            "name": "Bắc Hà",
             "cap": "Thị trấn",
             "ma_qh": "085",
             "quan_huyen": "Huyện Bắc Hà",
@@ -11993,7 +11993,7 @@
         },
         {
             "code": "02902",
-            "name": "Thị trấn N.T Phong Hải",
+            "name": "N.T Phong Hải",
             "cap": "Thị trấn",
             "ma_qh": "086",
             "quan_huyen": "Huyện Bảo Thắng",
@@ -12002,7 +12002,7 @@
         },
         {
             "code": "02905",
-            "name": "Thị trấn Phố Lu",
+            "name": "Phố Lu",
             "cap": "Thị trấn",
             "ma_qh": "086",
             "quan_huyen": "Huyện Bảo Thắng",
@@ -12011,7 +12011,7 @@
         },
         {
             "code": "02908",
-            "name": "Thị trấn Tằng Loỏng",
+            "name": "Tằng Loỏng",
             "cap": "Thị trấn",
             "ma_qh": "086",
             "quan_huyen": "Huyện Bảo Thắng",
@@ -12128,7 +12128,7 @@
         },
         {
             "code": "02947",
-            "name": "Thị trấn Phố Ràng",
+            "name": "Phố Ràng",
             "cap": "Thị trấn",
             "ma_qh": "087",
             "quan_huyen": "Huyện Bảo Yên",
@@ -12290,7 +12290,7 @@
         },
         {
             "code": "03001",
-            "name": "Thị trấn Sa Pa",
+            "name": "Sa Pa",
             "cap": "Thị trấn",
             "ma_qh": "088",
             "quan_huyen": "Huyện Sa Pa",
@@ -12452,7 +12452,7 @@
         },
         {
             "code": "03055",
-            "name": "Thị trấn Khánh Yên",
+            "name": "Khánh Yên",
             "cap": "Thị trấn",
             "ma_qh": "089",
             "quan_huyen": "Huyện Văn Bàn",
@@ -12976,7 +12976,7 @@
         },
         {
             "code": "03217",
-            "name": "Thị trấn Tủa Chùa",
+            "name": "Tủa Chùa",
             "cap": "Thị trấn",
             "ma_qh": "098",
             "quan_huyen": "Huyện Tủa Chùa",
@@ -13084,7 +13084,7 @@
         },
         {
             "code": "03253",
-            "name": "Thị trấn Tuần Giáo",
+            "name": "Tuần Giáo",
             "cap": "Thị trấn",
             "ma_qh": "099",
             "quan_huyen": "Huyện Tuần Giáo",
@@ -13481,7 +13481,7 @@
         },
         {
             "code": "03203",
-            "name": "Thị trấn Điện Biên Đông",
+            "name": "Điện Biên Đông",
             "cap": "Thị trấn",
             "ma_qh": "101",
             "quan_huyen": "Huyện Điện Biên Đông",
@@ -13610,7 +13610,7 @@
         },
         {
             "code": "03256",
-            "name": "Thị trấn Mường Ảng",
+            "name": "Mường Ảng",
             "cap": "Thị trấn",
             "ma_qh": "102",
             "quan_huyen": "Huyện Mường Ảng",
@@ -13901,7 +13901,7 @@
         },
         {
             "code": "03390",
-            "name": "Thị trấn Tam Đường",
+            "name": "Tam Đường",
             "name_eng": "Tam Đường town",
             "cap": "Thị trấn",
             "ma_qh": "106",
@@ -14028,7 +14028,7 @@
         },
         {
             "code": "03433",
-            "name": "Thị trấn Mường Tè",
+            "name": "Mường Tè",
             "cap": "Thị trấn",
             "ma_qh": "107",
             "quan_huyen": "Huyện Mường Tè",
@@ -14154,7 +14154,7 @@
         },
         {
             "code": "03478",
-            "name": "Thị trấn Sìn Hồ",
+            "name": "Sìn Hồ",
             "cap": "Thị trấn",
             "ma_qh": "108",
             "quan_huyen": "Huyện Sìn Hồ",
@@ -14370,7 +14370,7 @@
         },
         {
             "code": "03549",
-            "name": "Thị trấn Phong Thổ",
+            "name": "Phong Thổ",
             "name_eng": "Phong Thổ town",
             "cap": "Thị trấn",
             "ma_qh": "109",
@@ -14515,7 +14515,7 @@
         },
         {
             "code": "03595",
-            "name": "Thị trấn Than Uyên",
+            "name": "Than Uyên",
             "cap": "Thị trấn",
             "ma_qh": "110",
             "quan_huyen": "Huyện Than Uyên",
@@ -14623,7 +14623,7 @@
         },
         {
             "code": "03598",
-            "name": "Thị trấn Tân Uyên",
+            "name": "Tân Uyên",
             "cap": "Thị trấn",
             "ma_qh": "111",
             "quan_huyen": "Huyện Tân Uyên",
@@ -14713,7 +14713,7 @@
         },
         {
             "code": "03434",
-            "name": "Thị trấn Nậm Nhùn",
+            "name": "Nậm Nhùn",
             "cap": "Thị trấn",
             "ma_qh": "112",
             "quan_huyen": "Huyện Nậm Nhùn",
@@ -15019,7 +15019,7 @@
         },
         {
             "code": "03721",
-            "name": "Thị trấn Thuận Châu",
+            "name": "Thuận Châu",
             "cap": "Thị trấn",
             "ma_qh": "119",
             "quan_huyen": "Huyện Thuận Châu",
@@ -15280,7 +15280,7 @@
         },
         {
             "code": "03808",
-            "name": "Thị trấn Ít Ong",
+            "name": "Ít Ong",
             "cap": "Thị trấn",
             "ma_qh": "120",
             "quan_huyen": "Huyện Mường La",
@@ -15424,7 +15424,7 @@
         },
         {
             "code": "03856",
-            "name": "Thị trấn Bắc Yên",
+            "name": "Bắc Yên",
             "cap": "Thị trấn",
             "ma_qh": "121",
             "quan_huyen": "Huyện Bắc Yên",
@@ -15568,7 +15568,7 @@
         },
         {
             "code": "03898",
-            "name": "Thị trấn Phù Yên",
+            "name": "Phù Yên",
             "cap": "Thị trấn",
             "ma_qh": "122",
             "quan_huyen": "Huyện Phù Yên",
@@ -15811,7 +15811,7 @@
         },
         {
             "code": "03979",
-            "name": "Thị trấn Mộc Châu",
+            "name": "Mộc Châu",
             "cap": "Thị trấn",
             "ma_qh": "123",
             "quan_huyen": "Huyện Mộc Châu",
@@ -15820,7 +15820,7 @@
         },
         {
             "code": "03982",
-            "name": "Thị trấn NT Mộc Châu",
+            "name": "NT Mộc Châu",
             "cap": "Thị trấn",
             "ma_qh": "123",
             "quan_huyen": "Huyện Mộc Châu",
@@ -15946,7 +15946,7 @@
         },
         {
             "code": "04060",
-            "name": "Thị trấn Yên Châu",
+            "name": "Yên Châu",
             "cap": "Thị trấn",
             "ma_qh": "124",
             "quan_huyen": "Huyện Yên Châu",
@@ -16081,7 +16081,7 @@
         },
         {
             "code": "04105",
-            "name": "Thị trấn Hát Lót",
+            "name": "Hát Lót",
             "cap": "Thị trấn",
             "ma_qh": "125",
             "quan_huyen": "Huyện Mai Sơn",
@@ -16279,7 +16279,7 @@
         },
         {
             "code": "04168",
-            "name": "Thị trấn Sông Mã",
+            "name": "Sông Mã",
             "cap": "Thị trấn",
             "ma_qh": "126",
             "quan_huyen": "Huyện Sông Mã",
@@ -16864,7 +16864,7 @@
         },
         {
             "code": "04303",
-            "name": "Thị trấn Yên Thế",
+            "name": "Yên Thế",
             "cap": "Thị trấn",
             "ma_qh": "135",
             "quan_huyen": "Huyện Lục Yên",
@@ -17080,7 +17080,7 @@
         },
         {
             "code": "04375",
-            "name": "Thị trấn Mậu A",
+            "name": "Mậu A",
             "cap": "Thị trấn",
             "ma_qh": "136",
             "quan_huyen": "Huyện Văn Yên",
@@ -17323,7 +17323,7 @@
         },
         {
             "code": "04456",
-            "name": "Thị trấn Mù Căng Chải",
+            "name": "Mù Căng Chải",
             "cap": "Thị trấn",
             "ma_qh": "137",
             "quan_huyen": "Huyện Mù Căng Chải",
@@ -17449,7 +17449,7 @@
         },
         {
             "code": "04498",
-            "name": "Thị trấn Cổ Phúc",
+            "name": "Cổ Phúc",
             "cap": "Thị trấn",
             "ma_qh": "138",
             "quan_huyen": "Huyện Trấn Yên",
@@ -17647,7 +17647,7 @@
         },
         {
             "code": "04585",
-            "name": "Thị trấn Trạm Tấu",
+            "name": "Trạm Tấu",
             "cap": "Thị trấn",
             "ma_qh": "139",
             "quan_huyen": "Huyện Trạm Tấu",
@@ -17755,7 +17755,7 @@
         },
         {
             "code": "04621",
-            "name": "Thị trấn NT Liên Sơn",
+            "name": "NT Liên Sơn",
             "cap": "Thị trấn",
             "ma_qh": "140",
             "quan_huyen": "Huyện Văn Chấn",
@@ -17764,7 +17764,7 @@
         },
         {
             "code": "04624",
-            "name": "Thị trấn NT Nghĩa Lộ",
+            "name": "NT Nghĩa Lộ",
             "cap": "Thị trấn",
             "ma_qh": "140",
             "quan_huyen": "Huyện Văn Chấn",
@@ -17773,7 +17773,7 @@
         },
         {
             "code": "04627",
-            "name": "Thị trấn NT Trần Phú",
+            "name": "NT Trần Phú",
             "cap": "Thị trấn",
             "ma_qh": "140",
             "quan_huyen": "Huyện Văn Chấn",
@@ -18043,7 +18043,7 @@
         },
         {
             "code": "04714",
-            "name": "Thị trấn Yên Bình",
+            "name": "Yên Bình",
             "cap": "Thị trấn",
             "ma_qh": "141",
             "quan_huyen": "Huyện Yên Bình",
@@ -18052,7 +18052,7 @@
         },
         {
             "code": "04717",
-            "name": "Thị trấn Thác Bà",
+            "name": "Thác Bà",
             "cap": "Thị trấn",
             "ma_qh": "141",
             "quan_huyen": "Huyện Yên Bình",
@@ -18403,7 +18403,7 @@
         },
         {
             "code": "04831",
-            "name": "Thị trấn Đà Bắc",
+            "name": "Đà Bắc",
             "cap": "Thị trấn",
             "ma_qh": "150",
             "quan_huyen": "Huyện Đà Bắc",
@@ -18583,7 +18583,7 @@
         },
         {
             "code": "04894",
-            "name": "Thị trấn Kỳ Sơn",
+            "name": "Kỳ Sơn",
             "cap": "Thị trấn",
             "ma_qh": "151",
             "quan_huyen": "Huyện Kỳ Sơn",
@@ -18673,7 +18673,7 @@
         },
         {
             "code": "04924",
-            "name": "Thị trấn Lương Sơn",
+            "name": "Lương Sơn",
             "cap": "Thị trấn",
             "ma_qh": "152",
             "quan_huyen": "Huyện Lương Sơn",
@@ -18853,7 +18853,7 @@
         },
         {
             "code": "04978",
-            "name": "Thị trấn Bo",
+            "name": "Bo",
             "cap": "Thị trấn",
             "ma_qh": "153",
             "quan_huyen": "Huyện Kim Bôi",
@@ -19105,7 +19105,7 @@
         },
         {
             "code": "05089",
-            "name": "Thị trấn Cao Phong",
+            "name": "Cao Phong",
             "cap": "Thị trấn",
             "ma_qh": "154",
             "quan_huyen": "Huyện Cao Phong",
@@ -19222,7 +19222,7 @@
         },
         {
             "code": "05128",
-            "name": "Thị trấn Mường Khến",
+            "name": "Mường Khến",
             "cap": "Thị trấn",
             "ma_qh": "155",
             "quan_huyen": "Huyện Tân Lạc",
@@ -19447,7 +19447,7 @@
         },
         {
             "code": "05200",
-            "name": "Thị trấn Mai Châu",
+            "name": "Mai Châu",
             "cap": "Thị trấn",
             "ma_qh": "156",
             "quan_huyen": "Huyện Mai Châu",
@@ -19645,7 +19645,7 @@
         },
         {
             "code": "05266",
-            "name": "Thị trấn Vụ Bản",
+            "name": "Vụ Bản",
             "cap": "Thị trấn",
             "ma_qh": "157",
             "quan_huyen": "Huyện Lạc Sơn",
@@ -19906,7 +19906,7 @@
         },
         {
             "code": "05353",
-            "name": "Thị trấn Hàng Trạm",
+            "name": "Hàng Trạm",
             "cap": "Thị trấn",
             "ma_qh": "158",
             "quan_huyen": "Huyện Yên Thủy",
@@ -20023,7 +20023,7 @@
         },
         {
             "code": "04981",
-            "name": "Thị trấn Thanh Hà",
+            "name": "Thanh Hà",
             "cap": "Thị trấn",
             "ma_qh": "159",
             "quan_huyen": "Huyện Lạc Thủy",
@@ -20041,7 +20041,7 @@
         },
         {
             "code": "05392",
-            "name": "Thị trấn Chi Nê",
+            "name": "Chi Nê",
             "cap": "Thị trấn",
             "ma_qh": "159",
             "quan_huyen": "Huyện Lạc Thủy",
@@ -20545,7 +20545,7 @@
         },
         {
             "code": "05536",
-            "name": "Thị trấn Chợ Chu",
+            "name": "Chợ Chu",
             "cap": "Thị trấn",
             "ma_qh": "167",
             "quan_huyen": "Huyện Định Hóa",
@@ -20761,7 +20761,7 @@
         },
         {
             "code": "05608",
-            "name": "Thị trấn Giang Tiên",
+            "name": "Giang Tiên",
             "cap": "Thị trấn",
             "ma_qh": "168",
             "quan_huyen": "Huyện Phú Lương",
@@ -20770,7 +20770,7 @@
         },
         {
             "code": "05611",
-            "name": "Thị trấn Đu",
+            "name": "Đu",
             "cap": "Thị trấn",
             "ma_qh": "168",
             "quan_huyen": "Huyện Phú Lương",
@@ -20896,7 +20896,7 @@
         },
         {
             "code": "05656",
-            "name": "Thị trấn Sông Cầu",
+            "name": "Sông Cầu",
             "cap": "Thị trấn",
             "ma_qh": "169",
             "quan_huyen": "Huyện Đồng Hỷ",
@@ -20905,7 +20905,7 @@
         },
         {
             "code": "05662",
-            "name": "Thị trấn Trại Cau",
+            "name": "Trại Cau",
             "cap": "Thị trấn",
             "ma_qh": "169",
             "quan_huyen": "Huyện Đồng Hỷ",
@@ -21031,7 +21031,7 @@
         },
         {
             "code": "05716",
-            "name": "Thị trấn Đình Cả",
+            "name": "Đình Cả",
             "cap": "Thị trấn",
             "ma_qh": "170",
             "quan_huyen": "Huyện Võ Nhai",
@@ -21166,7 +21166,7 @@
         },
         {
             "code": "05761",
-            "name": "Thị trấn Hùng Sơn",
+            "name": "Hùng Sơn",
             "cap": "Thị trấn",
             "ma_qh": "171",
             "quan_huyen": "Huyện Đại Từ",
@@ -21175,7 +21175,7 @@
         },
         {
             "code": "05764",
-            "name": "Thị trấn Quân Chu",
+            "name": "Quân Chu",
             "cap": "Thị trấn",
             "ma_qh": "171",
             "quan_huyen": "Huyện Đại Từ",
@@ -21598,7 +21598,7 @@
         },
         {
             "code": "05908",
-            "name": "Thị trấn Hương Sơn",
+            "name": "Hương Sơn",
             "cap": "Thị trấn",
             "ma_qh": "173",
             "quan_huyen": "Huyện Phú Bình",
@@ -21850,7 +21850,7 @@
         },
         {
             "code": "05995",
-            "name": "Thị trấn Thất Khê",
+            "name": "Thất Khê",
             "cap": "Thị trấn",
             "ma_qh": "180",
             "quan_huyen": "Huyện Tràng Định",
@@ -22057,7 +22057,7 @@
         },
         {
             "code": "06064",
-            "name": "Thị trấn Bình Gia",
+            "name": "Bình Gia",
             "cap": "Thị trấn",
             "ma_qh": "181",
             "quan_huyen": "Huyện Bình Gia",
@@ -22237,7 +22237,7 @@
         },
         {
             "code": "06124",
-            "name": "Thị trấn Na Sầm",
+            "name": "Na Sầm",
             "cap": "Thị trấn",
             "ma_qh": "182",
             "quan_huyen": "Huyện Văn Lãng",
@@ -22417,7 +22417,7 @@
         },
         {
             "code": "06184",
-            "name": "Thị trấn Đồng Đăng",
+            "name": "Đồng Đăng",
             "cap": "Thị trấn",
             "ma_qh": "183",
             "quan_huyen": "Huyện Cao Lộc",
@@ -22426,7 +22426,7 @@
         },
         {
             "code": "06187",
-            "name": "Thị trấn Cao Lộc",
+            "name": "Cao Lộc",
             "cap": "Thị trấn",
             "ma_qh": "183",
             "quan_huyen": "Huyện Cao Lộc",
@@ -22624,7 +22624,7 @@
         },
         {
             "code": "06253",
-            "name": "Thị trấn Văn Quan",
+            "name": "Văn Quan",
             "cap": "Thị trấn",
             "ma_qh": "184",
             "quan_huyen": "Huyện Văn Quan",
@@ -22840,7 +22840,7 @@
         },
         {
             "code": "06325",
-            "name": "Thị trấn Bắc Sơn",
+            "name": "Bắc Sơn",
             "cap": "Thị trấn",
             "ma_qh": "185",
             "quan_huyen": "Huyện Bắc Sơn",
@@ -23020,7 +23020,7 @@
         },
         {
             "code": "06385",
-            "name": "Thị trấn Hữu Lũng",
+            "name": "Hữu Lũng",
             "cap": "Thị trấn",
             "ma_qh": "186",
             "quan_huyen": "Huyện Hữu Lũng",
@@ -23254,7 +23254,7 @@
         },
         {
             "code": "06463",
-            "name": "Thị trấn Đồng Mỏ",
+            "name": "Đồng Mỏ",
             "cap": "Thị trấn",
             "ma_qh": "187",
             "quan_huyen": "Huyện Chi Lăng",
@@ -23263,7 +23263,7 @@
         },
         {
             "code": "06466",
-            "name": "Thị trấn Chi Lăng",
+            "name": "Chi Lăng",
             "cap": "Thị trấn",
             "ma_qh": "187",
             "quan_huyen": "Huyện Chi Lăng",
@@ -23443,7 +23443,7 @@
         },
         {
             "code": "06526",
-            "name": "Thị trấn Na Dương",
+            "name": "Na Dương",
             "cap": "Thị trấn",
             "ma_qh": "188",
             "quan_huyen": "Huyện Lộc Bình",
@@ -23452,7 +23452,7 @@
         },
         {
             "code": "06529",
-            "name": "Thị trấn Lộc Bình",
+            "name": "Lộc Bình",
             "cap": "Thị trấn",
             "ma_qh": "188",
             "quan_huyen": "Huyện Lộc Bình",
@@ -23704,7 +23704,7 @@
         },
         {
             "code": "06613",
-            "name": "Thị trấn Đình Lập",
+            "name": "Đình Lập",
             "cap": "Thị trấn",
             "ma_qh": "189",
             "quan_huyen": "Huyện Đình Lập",
@@ -23713,7 +23713,7 @@
         },
         {
             "code": "06616",
-            "name": "Thị trấn NT Thái Bình",
+            "name": "NT Thái Bình",
             "cap": "Thị trấn",
             "ma_qh": "189",
             "quan_huyen": "Huyện Đình Lập",
@@ -24388,7 +24388,7 @@
         },
         {
             "code": "06838",
-            "name": "Thị trấn Bình Liêu",
+            "name": "Bình Liêu",
             "cap": "Thị trấn",
             "ma_qh": "198",
             "quan_huyen": "Huyện Bình Liêu",
@@ -24460,7 +24460,7 @@
         },
         {
             "code": "06862",
-            "name": "Thị trấn Tiên Yên",
+            "name": "Tiên Yên",
             "cap": "Thị trấn",
             "ma_qh": "199",
             "quan_huyen": "Huyện Tiên Yên",
@@ -24569,7 +24569,7 @@
         },
         {
             "code": "06895",
-            "name": "Thị trấn Đầm Hà",
+            "name": "Đầm Hà",
             "cap": "Thị trấn",
             "ma_qh": "200",
             "quan_huyen": "Huyện Đầm Hà",
@@ -24660,7 +24660,7 @@
         },
         {
             "code": "06922",
-            "name": "Thị trấn Quảng Hà",
+            "name": "Quảng Hà",
             "cap": "Thị trấn",
             "ma_qh": "201",
             "quan_huyen": "Huyện Hải Hà",
@@ -24804,7 +24804,7 @@
         },
         {
             "code": "06970",
-            "name": "Thị trấn Ba Chẽ",
+            "name": "Ba Chẽ",
             "cap": "Thị trấn",
             "ma_qh": "202",
             "quan_huyen": "Huyện Ba Chẽ",
@@ -24876,7 +24876,7 @@
         },
         {
             "code": "06994",
-            "name": "Thị trấn Cái Rồng",
+            "name": "Cái Rồng",
             "cap": "Thị trấn",
             "ma_qh": "203",
             "quan_huyen": "Huyện Vân Đồn",
@@ -24984,7 +24984,7 @@
         },
         {
             "code": "07030",
-            "name": "Thị trấn Trới",
+            "name": "Trới",
             "cap": "Thị trấn",
             "ma_qh": "204",
             "quan_huyen": "Huyện Hoành Bồ",
@@ -25461,7 +25461,7 @@
         },
         {
             "code": "07192",
-            "name": "Thị trấn Cô Tô",
+            "name": "Cô Tô",
             "cap": "Thị trấn",
             "ma_qh": "207",
             "quan_huyen": "Huyện Cô Tô",
@@ -25632,7 +25632,7 @@
         },
         {
             "code": "07234",
-            "name": "Thị trấn Cầu Gồ",
+            "name": "Cầu Gồ",
             "cap": "Thị trấn",
             "ma_qh": "215",
             "quan_huyen": "Huyện Yên Thế",
@@ -25641,7 +25641,7 @@
         },
         {
             "code": "07237",
-            "name": "Thị trấn Bố Hạ",
+            "name": "Bố Hạ",
             "cap": "Thị trấn",
             "ma_qh": "215",
             "quan_huyen": "Huyện Yên Thế",
@@ -25821,7 +25821,7 @@
         },
         {
             "code": "07297",
-            "name": "Thị trấn Cao Thượng",
+            "name": "Cao Thượng",
             "cap": "Thị trấn",
             "ma_qh": "216",
             "quan_huyen": "Huyện Tân Yên",
@@ -25830,7 +25830,7 @@
         },
         {
             "code": "07300",
-            "name": "Thị trấn Nhã Nam",
+            "name": "Nhã Nam",
             "cap": "Thị trấn",
             "ma_qh": "216",
             "quan_huyen": "Huyện Tân Yên",
@@ -26037,7 +26037,7 @@
         },
         {
             "code": "07369",
-            "name": "Thị trấn Kép",
+            "name": "Kép",
             "cap": "Thị trấn",
             "ma_qh": "217",
             "quan_huyen": "Huyện Lạng Giang",
@@ -26046,7 +26046,7 @@
         },
         {
             "code": "07375",
-            "name": "Thị trấn Vôi",
+            "name": "Vôi",
             "cap": "Thị trấn",
             "ma_qh": "217",
             "quan_huyen": "Huyện Lạng Giang",
@@ -26244,7 +26244,7 @@
         },
         {
             "code": "07444",
-            "name": "Thị trấn Đồi Ngô",
+            "name": "Đồi Ngô",
             "cap": "Thị trấn",
             "ma_qh": "218",
             "quan_huyen": "Huyện Lục Nam",
@@ -26253,7 +26253,7 @@
         },
         {
             "code": "07447",
-            "name": "Thị trấn Lục Nam",
+            "name": "Lục Nam",
             "cap": "Thị trấn",
             "ma_qh": "218",
             "quan_huyen": "Huyện Lục Nam",
@@ -26487,7 +26487,7 @@
         },
         {
             "code": "07525",
-            "name": "Thị trấn Chũ",
+            "name": "Chũ",
             "cap": "Thị trấn",
             "ma_qh": "219",
             "quan_huyen": "Huyện Lục Ngạn",
@@ -26757,7 +26757,7 @@
         },
         {
             "code": "07615",
-            "name": "Thị trấn An Châu",
+            "name": "An Châu",
             "cap": "Thị trấn",
             "ma_qh": "220",
             "quan_huyen": "Huyện Sơn Động",
@@ -26766,7 +26766,7 @@
         },
         {
             "code": "07616",
-            "name": "Thị trấn Thanh Sơn",
+            "name": "Thanh Sơn",
             "cap": "Thị trấn",
             "ma_qh": "220",
             "quan_huyen": "Huyện Sơn Động",
@@ -26964,7 +26964,7 @@
         },
         {
             "code": "07681",
-            "name": "Thị trấn Neo",
+            "name": "Neo",
             "cap": "Thị trấn",
             "ma_qh": "221",
             "quan_huyen": "Huyện Yên Dũng",
@@ -26973,7 +26973,7 @@
         },
         {
             "code": "07682",
-            "name": "Thị trấn Tân Dân",
+            "name": "Tân Dân",
             "cap": "Thị trấn",
             "ma_qh": "221",
             "quan_huyen": "Huyện Yên Dũng",
@@ -27153,7 +27153,7 @@
         },
         {
             "code": "07753",
-            "name": "Thị trấn  Bích Động",
+            "name": " Bích Động",
             "cap": "Thị trấn",
             "ma_qh": "222",
             "quan_huyen": "Huyện Việt Yên",
@@ -27162,7 +27162,7 @@
         },
         {
             "code": "07756",
-            "name": "Thị trấn Nếnh",
+            "name": "Nếnh",
             "cap": "Thị trấn",
             "ma_qh": "222",
             "quan_huyen": "Huyện Việt Yên",
@@ -27324,7 +27324,7 @@
         },
         {
             "code": "07810",
-            "name": "Thị trấn Thắng",
+            "name": "Thắng",
             "cap": "Thị trấn",
             "ma_qh": "223",
             "quan_huyen": "Huyện Hiệp Hòa",
@@ -27855,7 +27855,7 @@
         },
         {
             "code": "07969",
-            "name": "Thị trấn Đoan Hùng",
+            "name": "Đoan Hùng",
             "cap": "Thị trấn",
             "ma_qh": "230",
             "quan_huyen": "Huyện Đoan Hùng",
@@ -28107,7 +28107,7 @@
         },
         {
             "code": "08053",
-            "name": "Thị trấn Hạ Hoà",
+            "name": "Hạ Hoà",
             "cap": "Thị trấn",
             "ma_qh": "231",
             "quan_huyen": "Huyện Hạ Hoà",
@@ -28404,7 +28404,7 @@
         },
         {
             "code": "08152",
-            "name": "Thị trấn Thanh Ba",
+            "name": "Thanh Ba",
             "cap": "Thị trấn",
             "ma_qh": "232",
             "quan_huyen": "Huyện Thanh Ba",
@@ -28647,7 +28647,7 @@
         },
         {
             "code": "08230",
-            "name": "Thị trấn Phong Châu",
+            "name": "Phong Châu",
             "cap": "Thị trấn",
             "ma_qh": "233",
             "quan_huyen": "Huyện Phù Ninh",
@@ -28818,7 +28818,7 @@
         },
         {
             "code": "08290",
-            "name": "Thị trấn Yên Lập",
+            "name": "Yên Lập",
             "cap": "Thị trấn",
             "ma_qh": "234",
             "quan_huyen": "Huyện Yên Lập",
@@ -28971,7 +28971,7 @@
         },
         {
             "code": "08341",
-            "name": "Thị trấn Sông Thao",
+            "name": "Sông Thao",
             "cap": "Thị trấn",
             "ma_qh": "235",
             "quan_huyen": "Huyện Cẩm Khê",
@@ -29250,7 +29250,7 @@
         },
         {
             "code": "08434",
-            "name": "Thị trấn Hưng Hoá",
+            "name": "Hưng Hoá",
             "cap": "Thị trấn",
             "ma_qh": "236",
             "quan_huyen": "Huyện Tam Nông",
@@ -29430,7 +29430,7 @@
         },
         {
             "code": "08494",
-            "name": "Thị trấn Lâm Thao",
+            "name": "Lâm Thao",
             "cap": "Thị trấn",
             "ma_qh": "237",
             "quan_huyen": "Huyện Lâm Thao",
@@ -29448,7 +29448,7 @@
         },
         {
             "code": "08498",
-            "name": "Thị trấn Hùng Sơn",
+            "name": "Hùng Sơn",
             "name_eng": "Hung Son town",
             "cap": "Thị trấn",
             "ma_qh": "237",
@@ -29557,7 +29557,7 @@
         },
         {
             "code": "08542",
-            "name": "Thị trấn Thanh Sơn",
+            "name": "Thanh Sơn",
             "cap": "Thị trấn",
             "ma_qh": "238",
             "quan_huyen": "Huyện Thanh Sơn",
@@ -29800,7 +29800,7 @@
         },
         {
             "code": "08674",
-            "name": "Thị trấn Thanh Thủy",
+            "name": "Thanh Thủy",
             "cap": "Thị trấn",
             "ma_qh": "239",
             "quan_huyen": "Huyện Thanh Thuỷ",
@@ -30224,7 +30224,7 @@
         },
         {
             "code": "08761",
-            "name": "Thị trấn Lập Thạch",
+            "name": "Lập Thạch",
             "cap": "Thị trấn",
             "ma_qh": "246",
             "quan_huyen": "Huyện Lập Thạch",
@@ -30278,7 +30278,7 @@
         },
         {
             "code": "08789",
-            "name": "Thị trấn Hoa Sơn",
+            "name": "Hoa Sơn",
             "cap": "Thị trấn",
             "ma_qh": "246",
             "quan_huyen": "Huyện Lập Thạch",
@@ -30404,7 +30404,7 @@
         },
         {
             "code": "08869",
-            "name": "Thị trấn Hợp Hòa",
+            "name": "Hợp Hòa",
             "cap": "Thị trấn",
             "ma_qh": "247",
             "quan_huyen": "Huyện Tam Dương",
@@ -30521,7 +30521,7 @@
         },
         {
             "code": "08908",
-            "name": "Thị trấn Tam Đảo",
+            "name": "Tam Đảo",
             "cap": "Thị trấn",
             "ma_qh": "248",
             "quan_huyen": "Huyện Tam Đảo",
@@ -30602,7 +30602,7 @@
         },
         {
             "code": "08935",
-            "name": "Thị trấn Hương Canh",
+            "name": "Hương Canh",
             "cap": "Thị trấn",
             "ma_qh": "249",
             "quan_huyen": "Huyện Bình Xuyên",
@@ -30611,7 +30611,7 @@
         },
         {
             "code": "08936",
-            "name": "Thị trấn Gia Khánh",
+            "name": "Gia Khánh",
             "cap": "Thị trấn",
             "ma_qh": "249",
             "quan_huyen": "Huyện Bình Xuyên",
@@ -30701,7 +30701,7 @@
         },
         {
             "code": "08968",
-            "name": "Thị trấn Thanh Lãng",
+            "name": "Thanh Lãng",
             "cap": "Thị trấn",
             "ma_qh": "249",
             "quan_huyen": "Huyện Bình Xuyên",
@@ -30719,7 +30719,7 @@
         },
         {
             "code": "09025",
-            "name": "Thị trấn Yên Lạc",
+            "name": "Yên Lạc",
             "cap": "Thị trấn",
             "ma_qh": "251",
             "quan_huyen": "Huyện Yên Lạc",
@@ -30872,7 +30872,7 @@
         },
         {
             "code": "09076",
-            "name": "Thị trấn Vĩnh Tường",
+            "name": "Vĩnh Tường",
             "cap": "Thị trấn",
             "ma_qh": "252",
             "quan_huyen": "Huyện Vĩnh Tường",
@@ -31079,7 +31079,7 @@
         },
         {
             "code": "09145",
-            "name": "Thị trấn Tứ Trưng",
+            "name": "Tứ Trưng",
             "cap": "Thị trấn",
             "ma_qh": "252",
             "quan_huyen": "Huyện Vĩnh Tường",
@@ -31223,7 +31223,7 @@
         },
         {
             "code": "08824",
-            "name": "Thị trấn Tam Sơn",
+            "name": "Tam Sơn",
             "cap": "Thị trấn",
             "ma_qh": "253",
             "quan_huyen": "Huyện Sông Lô",
@@ -31457,7 +31457,7 @@
         },
         {
             "code": "09193",
-            "name": "Thị trấn Chờ",
+            "name": "Chờ",
             "cap": "Thị trấn",
             "ma_qh": "258",
             "quan_huyen": "Huyện Yên Phong",
@@ -31583,7 +31583,7 @@
         },
         {
             "code": "09247",
-            "name": "Thị trấn Phố Mới",
+            "name": "Phố Mới",
             "cap": "Thị trấn",
             "ma_qh": "259",
             "quan_huyen": "Huyện Quế Võ",
@@ -31772,7 +31772,7 @@
         },
         {
             "code": "09319",
-            "name": "Thị trấn Lim",
+            "name": "Lim",
             "cap": "Thị trấn",
             "ma_qh": "260",
             "quan_huyen": "Huyện Tiên Du",
@@ -32006,7 +32006,7 @@
         },
         {
             "code": "09400",
-            "name": "Thị trấn Hồ",
+            "name": "Hồ",
             "cap": "Thị trấn",
             "ma_qh": "262",
             "quan_huyen": "Huyện Thuận Thành",
@@ -32168,7 +32168,7 @@
         },
         {
             "code": "09454",
-            "name": "Thị trấn Gia Bình",
+            "name": "Gia Bình",
             "cap": "Thị trấn",
             "ma_qh": "263",
             "quan_huyen": "Huyện Gia Bình",
@@ -32294,7 +32294,7 @@
         },
         {
             "code": "09496",
-            "name": "Thị trấn Thứa",
+            "name": "Thứa",
             "cap": "Thị trấn",
             "ma_qh": "264",
             "quan_huyen": "Huyện Lương Tài",
@@ -32789,7 +32789,7 @@
         },
         {
             "code": "10606",
-            "name": "Thị trấn Nam Sách",
+            "name": "Nam Sách",
             "cap": "Thị trấn",
             "ma_qh": "291",
             "quan_huyen": "Huyện Nam Sách",
@@ -32960,7 +32960,7 @@
         },
         {
             "code": "10675",
-            "name": "Thị trấn Kinh Môn",
+            "name": "Kinh Môn",
             "cap": "Thị trấn",
             "ma_qh": "292",
             "quan_huyen": "Huyện Kinh Môn",
@@ -33041,7 +33041,7 @@
         },
         {
             "code": "10702",
-            "name": "Thị trấn Minh Tân",
+            "name": "Minh Tân",
             "cap": "Thị trấn",
             "ma_qh": "292",
             "quan_huyen": "Huyện Kinh Môn",
@@ -33077,7 +33077,7 @@
         },
         {
             "code": "10714",
-            "name": "Thị trấn Phú Thứ",
+            "name": "Phú Thứ",
             "cap": "Thị trấn",
             "ma_qh": "292",
             "quan_huyen": "Huyện Kinh Môn",
@@ -33185,7 +33185,7 @@
         },
         {
             "code": "10750",
-            "name": "Thị trấn Phú Thái",
+            "name": "Phú Thái",
             "cap": "Thị trấn",
             "ma_qh": "293",
             "quan_huyen": "Huyện Kim Thành",
@@ -33374,7 +33374,7 @@
         },
         {
             "code": "10813",
-            "name": "Thị trấn Thanh Hà",
+            "name": "Thanh Hà",
             "cap": "Thị trấn",
             "ma_qh": "294",
             "quan_huyen": "Huyện Thanh Hà",
@@ -33599,7 +33599,7 @@
         },
         {
             "code": "10888",
-            "name": "Thị trấn Cẩm Giàng",
+            "name": "Cẩm Giàng",
             "cap": "Thị trấn",
             "ma_qh": "295",
             "quan_huyen": "Huyện Cẩm Giàng",
@@ -33608,7 +33608,7 @@
         },
         {
             "code": "10891",
-            "name": "Thị trấn Lai Cách",
+            "name": "Lai Cách",
             "cap": "Thị trấn",
             "ma_qh": "295",
             "quan_huyen": "Huyện Cẩm Giàng",
@@ -33770,7 +33770,7 @@
         },
         {
             "code": "10945",
-            "name": "Thị trấn Kẻ Sặt",
+            "name": "Kẻ Sặt",
             "cap": "Thị trấn",
             "ma_qh": "296",
             "quan_huyen": "Huyện Bình Giang",
@@ -33932,7 +33932,7 @@
         },
         {
             "code": "10999",
-            "name": "Thị trấn Gia Lộc",
+            "name": "Gia Lộc",
             "cap": "Thị trấn",
             "ma_qh": "297",
             "quan_huyen": "Huyện Gia Lộc",
@@ -34139,7 +34139,7 @@
         },
         {
             "code": "11074",
-            "name": "Thị trấn Tứ Kỳ",
+            "name": "Tứ Kỳ",
             "cap": "Thị trấn",
             "ma_qh": "298",
             "quan_huyen": "Huyện Tứ Kỳ",
@@ -34382,7 +34382,7 @@
         },
         {
             "code": "11155",
-            "name": "Thị trấn Ninh Giang",
+            "name": "Ninh Giang",
             "cap": "Thị trấn",
             "ma_qh": "299",
             "quan_huyen": "Huyện Ninh Giang",
@@ -34634,7 +34634,7 @@
         },
         {
             "code": "11239",
-            "name": "Thị trấn Thanh Miện",
+            "name": "Thanh Miện",
             "cap": "Thị trấn",
             "ma_qh": "300",
             "quan_huyen": "Huyện Thanh Miện",
@@ -35435,7 +35435,7 @@
         },
         {
             "code": "11470",
-            "name": "Thị trấn Núi Đèo",
+            "name": "Núi Đèo",
             "cap": "Thị trấn",
             "ma_qh": "311",
             "quan_huyen": "Huyện Thuỷ Nguyên",
@@ -35444,7 +35444,7 @@
         },
         {
             "code": "11473",
-            "name": "Thị trấn Minh Đức",
+            "name": "Minh Đức",
             "cap": "Thị trấn",
             "ma_qh": "311",
             "quan_huyen": "Huyện Thuỷ Nguyên",
@@ -35768,7 +35768,7 @@
         },
         {
             "code": "11581",
-            "name": "Thị trấn An Dương",
+            "name": "An Dương",
             "cap": "Thị trấn",
             "ma_qh": "312",
             "quan_huyen": "Huyện An Dương",
@@ -35912,7 +35912,7 @@
         },
         {
             "code": "11629",
-            "name": "Thị trấn An Lão",
+            "name": "An Lão",
             "cap": "Thị trấn",
             "ma_qh": "313",
             "quan_huyen": "Huyện An Lão",
@@ -35993,7 +35993,7 @@
         },
         {
             "code": "11656",
-            "name": "Thị trấn Trường Sơn",
+            "name": "Trường Sơn",
             "cap": "Thị trấn",
             "ma_qh": "313",
             "quan_huyen": "Huyện An Lão",
@@ -36065,7 +36065,7 @@
         },
         {
             "code": "11680",
-            "name": "Thị trấn Núi Đối",
+            "name": "Núi Đối",
             "cap": "Thị trấn",
             "ma_qh": "314",
             "quan_huyen": "Huyện Kiến Thuỵ",
@@ -36227,7 +36227,7 @@
         },
         {
             "code": "11755",
-            "name": "Thị trấn Tiên Lãng",
+            "name": "Tiên Lãng",
             "cap": "Thị trấn",
             "ma_qh": "315",
             "quan_huyen": "Huyện Tiên Lãng",
@@ -36434,7 +36434,7 @@
         },
         {
             "code": "11824",
-            "name": "Thị trấn Vĩnh Bảo",
+            "name": "Vĩnh Bảo",
             "cap": "Thị trấn",
             "ma_qh": "316",
             "quan_huyen": "Huyện Vĩnh Bảo",
@@ -36704,7 +36704,7 @@
         },
         {
             "code": "11914",
-            "name": "Thị trấn Cát Bà",
+            "name": "Cát Bà",
             "cap": "Thị trấn",
             "ma_qh": "317",
             "quan_huyen": "Huyện Cát Hải",
@@ -36713,7 +36713,7 @@
         },
         {
             "code": "11917",
-            "name": "Thị trấn Cát Hải",
+            "name": "Cát Hải",
             "cap": "Thị trấn",
             "ma_qh": "317",
             "quan_huyen": "Huyện Cát Hải",
@@ -36965,7 +36965,7 @@
         },
         {
             "code": "11986",
-            "name": "Thị trấn Như Quỳnh",
+            "name": "Như Quỳnh",
             "cap": "Thị trấn",
             "ma_qh": "325",
             "quan_huyen": "Huyện Văn Lâm",
@@ -37064,7 +37064,7 @@
         },
         {
             "code": "12019",
-            "name": "Thị trấn Văn Giang",
+            "name": "Văn Giang",
             "cap": "Thị trấn",
             "ma_qh": "326",
             "quan_huyen": "Huyện Văn Giang",
@@ -37163,7 +37163,7 @@
         },
         {
             "code": "12052",
-            "name": "Thị trấn Yên Mỹ",
+            "name": "Yên Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "327",
             "quan_huyen": "Huyện Yên Mỹ",
@@ -37316,7 +37316,7 @@
         },
         {
             "code": "12103",
-            "name": "Thị trấn Bần Yên Nhân",
+            "name": "Bần Yên Nhân",
             "cap": "Thị trấn",
             "ma_qh": "328",
             "quan_huyen": "Huyện Mỹ Hào",
@@ -37433,7 +37433,7 @@
         },
         {
             "code": "12142",
-            "name": "Thị trấn Ân Thi",
+            "name": "Ân Thi",
             "cap": "Thị trấn",
             "ma_qh": "329",
             "quan_huyen": "Huyện Ân Thi",
@@ -37622,7 +37622,7 @@
         },
         {
             "code": "12205",
-            "name": "Thị trấn Khoái Châu",
+            "name": "Khoái Châu",
             "cap": "Thị trấn",
             "ma_qh": "330",
             "quan_huyen": "Huyện Khoái Châu",
@@ -37847,7 +37847,7 @@
         },
         {
             "code": "12280",
-            "name": "Thị trấn Lương Bằng",
+            "name": "Lương Bằng",
             "cap": "Thị trấn",
             "ma_qh": "331",
             "quan_huyen": "Huyện Kim Động",
@@ -38000,7 +38000,7 @@
         },
         {
             "code": "12337",
-            "name": "Thị trấn Vương",
+            "name": "Vương",
             "cap": "Thị trấn",
             "ma_qh": "332",
             "quan_huyen": "Huyện Tiên Lữ",
@@ -38135,7 +38135,7 @@
         },
         {
             "code": "12391",
-            "name": "Thị trấn Trần Cao",
+            "name": "Trần Cao",
             "cap": "Thị trấn",
             "ma_qh": "333",
             "quan_huyen": "Huyện Phù Cừ",
@@ -38432,7 +38432,7 @@
         },
         {
             "code": "12472",
-            "name": "Thị trấn Quỳnh Côi",
+            "name": "Quỳnh Côi",
             "cap": "Thị trấn",
             "ma_qh": "338",
             "quan_huyen": "Huyện Quỳnh Phụ",
@@ -38585,7 +38585,7 @@
         },
         {
             "code": "12523",
-            "name": "Thị trấn An Bài",
+            "name": "An Bài",
             "name_eng": "An Bai town",
             "cap": "Thị trấn",
             "ma_qh": "338",
@@ -38775,7 +38775,7 @@
         },
         {
             "code": "12586",
-            "name": "Thị trấn Hưng Hà",
+            "name": "Hưng Hà",
             "cap": "Thị trấn",
             "ma_qh": "339",
             "quan_huyen": "Huyện Hưng Hà",
@@ -38856,7 +38856,7 @@
         },
         {
             "code": "12613",
-            "name": "Thị trấn Hưng Nhân",
+            "name": "Hưng Nhân",
             "name_eng": "Hung Nhan town",
             "cap": "Thị trấn",
             "ma_qh": "339",
@@ -39093,7 +39093,7 @@
         },
         {
             "code": "12688",
-            "name": "Thị trấn Đông Hưng",
+            "name": "Đông Hưng",
             "cap": "Thị trấn",
             "ma_qh": "340",
             "quan_huyen": "Huyện Đông Hưng",
@@ -39489,7 +39489,7 @@
         },
         {
             "code": "12826",
-            "name": "Thị trấn Diêm Điền",
+            "name": "Diêm Điền",
             "cap": "Thị trấn",
             "ma_qh": "341",
             "quan_huyen": "Huyện Thái Thụy",
@@ -39921,7 +39921,7 @@
         },
         {
             "code": "12970",
-            "name": "Thị trấn Tiền Hải",
+            "name": "Tiền Hải",
             "cap": "Thị trấn",
             "ma_qh": "342",
             "quan_huyen": "Huyện Tiền Hải",
@@ -40236,7 +40236,7 @@
         },
         {
             "code": "13075",
-            "name": "Thị trấn Thanh Nê",
+            "name": "Thanh Nê",
             "cap": "Thị trấn",
             "ma_qh": "343",
             "quan_huyen": "Huyện Kiến Xương",
@@ -40569,7 +40569,7 @@
         },
         {
             "code": "13192",
-            "name": "Thị trấn Vũ Thư",
+            "name": "Vũ Thư",
             "cap": "Thị trấn",
             "ma_qh": "344",
             "quan_huyen": "Huyện Vũ Thư",
@@ -41028,7 +41028,7 @@
         },
         {
             "code": "13321",
-            "name": "Thị trấn Đồng Văn",
+            "name": "Đồng Văn",
             "cap": "Thị trấn",
             "ma_qh": "349",
             "quan_huyen": "Huyện Duy Tiên",
@@ -41037,7 +41037,7 @@
         },
         {
             "code": "13324",
-            "name": "Thị trấn Hòa Mạc",
+            "name": "Hòa Mạc",
             "cap": "Thị trấn",
             "ma_qh": "349",
             "quan_huyen": "Huyện Duy Tiên",
@@ -41190,7 +41190,7 @@
         },
         {
             "code": "13384",
-            "name": "Thị trấn Quế",
+            "name": "Quế",
             "cap": "Thị trấn",
             "ma_qh": "350",
             "quan_huyen": "Huyện Kim Bảng",
@@ -41316,7 +41316,7 @@
         },
         {
             "code": "13429",
-            "name": "Thị trấn Ba Sao",
+            "name": "Ba Sao",
             "cap": "Thị trấn",
             "ma_qh": "350",
             "quan_huyen": "Huyện Kim Bảng",
@@ -41352,7 +41352,7 @@
         },
         {
             "code": "13441",
-            "name": "Thị trấn Kiện Khê",
+            "name": "Kiện Khê",
             "cap": "Thị trấn",
             "ma_qh": "351",
             "quan_huyen": "Huyện Thanh Liêm",
@@ -41505,7 +41505,7 @@
         },
         {
             "code": "13501",
-            "name": "Thị trấn Bình Mỹ",
+            "name": "Bình Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "352",
             "quan_huyen": "Huyện Bình Lục",
@@ -41676,7 +41676,7 @@
         },
         {
             "code": "13564",
-            "name": "Thị trấn Vĩnh Trụ",
+            "name": "Vĩnh Trụ",
             "cap": "Thị trấn",
             "ma_qh": "353",
             "quan_huyen": "Huyện Lý Nhân",
@@ -42108,7 +42108,7 @@
         },
         {
             "code": "13708",
-            "name": "Thị trấn Mỹ Lộc",
+            "name": "Mỹ Lộc",
             "cap": "Thị trấn",
             "ma_qh": "358",
             "quan_huyen": "Huyện Mỹ Lộc",
@@ -42207,7 +42207,7 @@
         },
         {
             "code": "13741",
-            "name": "Thị trấn Gôi",
+            "name": "Gôi",
             "cap": "Thị trấn",
             "ma_qh": "359",
             "quan_huyen": "Huyện Vụ Bản",
@@ -42369,7 +42369,7 @@
         },
         {
             "code": "13795",
-            "name": "Thị trấn Lâm",
+            "name": "Lâm",
             "cap": "Thị trấn",
             "ma_qh": "360",
             "quan_huyen": "Huyện Ý Yên",
@@ -42657,7 +42657,7 @@
         },
         {
             "code": "13891",
-            "name": "Thị trấn Liễu Đề",
+            "name": "Liễu Đề",
             "cap": "Thị trấn",
             "ma_qh": "361",
             "quan_huyen": "Huyện Nghĩa Hưng",
@@ -42666,7 +42666,7 @@
         },
         {
             "code": "13894",
-            "name": "Thị trấn Rạng Đông",
+            "name": "Rạng Đông",
             "cap": "Thị trấn",
             "ma_qh": "361",
             "quan_huyen": "Huyện Nghĩa Hưng",
@@ -42792,7 +42792,7 @@
         },
         {
             "code": "13936",
-            "name": "Thị trấn Quỹ Nhất",
+            "name": "Quỹ Nhất",
             "cap": "Thị trấn",
             "ma_qh": "361",
             "quan_huyen": "Huyện Nghĩa Hưng",
@@ -42882,7 +42882,7 @@
         },
         {
             "code": "13966",
-            "name": "Thị trấn Nam Giang",
+            "name": "Nam Giang",
             "cap": "Thị trấn",
             "ma_qh": "362",
             "quan_huyen": "Huyện Nam Trực",
@@ -43062,7 +43062,7 @@
         },
         {
             "code": "14026",
-            "name": "Thị trấn Cổ Lễ",
+            "name": "Cổ Lễ",
             "cap": "Thị trấn",
             "ma_qh": "363",
             "quan_huyen": "Huyện Trực Ninh",
@@ -43152,7 +43152,7 @@
         },
         {
             "code": "14056",
-            "name": "Thị trấn Cát Thành",
+            "name": "Cát Thành",
             "name_eng": "Cat Thanh town",
             "cap": "Thị trấn",
             "ma_qh": "363",
@@ -43252,7 +43252,7 @@
         },
         {
             "code": "14089",
-            "name": "Thị trấn Xuân Trường",
+            "name": "Xuân Trường",
             "cap": "Thị trấn",
             "ma_qh": "364",
             "quan_huyen": "Huyện Xuân Trường",
@@ -43432,7 +43432,7 @@
         },
         {
             "code": "14149",
-            "name": "Thị trấn Ngô Đồng",
+            "name": "Ngô Đồng",
             "cap": "Thị trấn",
             "ma_qh": "365",
             "quan_huyen": "Huyện Giao Thủy",
@@ -43441,7 +43441,7 @@
         },
         {
             "code": "14152",
-            "name": "Thị trấn Quất Lâm",
+            "name": "Quất Lâm",
             "cap": "Thị trấn",
             "ma_qh": "365",
             "quan_huyen": "Huyện Giao Thủy",
@@ -43630,7 +43630,7 @@
         },
         {
             "code": "14215",
-            "name": "Thị trấn Yên Định",
+            "name": "Yên Định",
             "cap": "Thị trấn",
             "ma_qh": "366",
             "quan_huyen": "Huyện Hải Hậu",
@@ -43639,7 +43639,7 @@
         },
         {
             "code": "14218",
-            "name": "Thị trấn Cồn",
+            "name": "Cồn",
             "cap": "Thị trấn",
             "ma_qh": "366",
             "quan_huyen": "Huyện Hải Hậu",
@@ -43648,7 +43648,7 @@
         },
         {
             "code": "14221",
-            "name": "Thị trấn Thịnh Long",
+            "name": "Thịnh Long",
             "cap": "Thị trấn",
             "ma_qh": "366",
             "quan_huyen": "Huyện Hải Hậu",
@@ -44152,7 +44152,7 @@
         },
         {
             "code": "14383",
-            "name": "Thị trấn Nho Quan",
+            "name": "Nho Quan",
             "cap": "Thị trấn",
             "ma_qh": "372",
             "quan_huyen": "Huyện Nho Quan",
@@ -44395,7 +44395,7 @@
         },
         {
             "code": "14464",
-            "name": "Thị trấn Me",
+            "name": "Me",
             "cap": "Thị trấn",
             "ma_qh": "373",
             "quan_huyen": "Huyện Gia Viễn",
@@ -44584,7 +44584,7 @@
         },
         {
             "code": "14527",
-            "name": "Thị trấn Thiên Tôn",
+            "name": "Thiên Tôn",
             "cap": "Thị trấn",
             "ma_qh": "374",
             "quan_huyen": "Huyện Hoa Lư",
@@ -44683,7 +44683,7 @@
         },
         {
             "code": "14560",
-            "name": "Thị trấn Yên Ninh",
+            "name": "Yên Ninh",
             "cap": "Thị trấn",
             "ma_qh": "375",
             "quan_huyen": "Huyện Yên Khánh",
@@ -44854,7 +44854,7 @@
         },
         {
             "code": "14620",
-            "name": "Thị trấn Phát Diệm",
+            "name": "Phát Diệm",
             "cap": "Thị trấn",
             "ma_qh": "376",
             "quan_huyen": "Huyện Kim Sơn",
@@ -44863,7 +44863,7 @@
         },
         {
             "code": "14623",
-            "name": "Thị trấn Bình Minh",
+            "name": "Bình Minh",
             "cap": "Thị trấn",
             "ma_qh": "376",
             "quan_huyen": "Huyện Kim Sơn",
@@ -45097,7 +45097,7 @@
         },
         {
             "code": "14701",
-            "name": "Thị trấn Yên Thịnh",
+            "name": "Yên Thịnh",
             "cap": "Thị trấn",
             "ma_qh": "377",
             "quan_huyen": "Huyện Yên Mô",
@@ -45755,7 +45755,7 @@
         },
         {
             "code": "14845",
-            "name": "Thị trấn Mường Lát",
+            "name": "Mường Lát",
             "cap": "Thị trấn",
             "ma_qh": "384",
             "quan_huyen": "Huyện Mường Lát",
@@ -45836,7 +45836,7 @@
         },
         {
             "code": "14869",
-            "name": "Thị trấn Quan Hóa",
+            "name": "Quan Hóa",
             "cap": "Thị trấn",
             "ma_qh": "385",
             "quan_huyen": "Huyện Quan Hóa",
@@ -45998,7 +45998,7 @@
         },
         {
             "code": "14923",
-            "name": "Thị trấn Cành Nàng",
+            "name": "Cành Nàng",
             "cap": "Thị trấn",
             "ma_qh": "386",
             "quan_huyen": "Huyện Bá Thước",
@@ -46205,7 +46205,7 @@
         },
         {
             "code": "14992",
-            "name": "Thị trấn Quan Sơn",
+            "name": "Quan Sơn",
             "cap": "Thị trấn",
             "ma_qh": "387",
             "quan_huyen": "Huyện Quan Sơn",
@@ -46322,7 +46322,7 @@
         },
         {
             "code": "15028",
-            "name": "Thị trấn Lang Chánh",
+            "name": "Lang Chánh",
             "cap": "Thị trấn",
             "ma_qh": "388",
             "quan_huyen": "Huyện Lang Chánh",
@@ -46619,7 +46619,7 @@
         },
         {
             "code": "15127",
-            "name": "Thị trấn Cẩm Thủy",
+            "name": "Cẩm Thủy",
             "cap": "Thị trấn",
             "ma_qh": "390",
             "quan_huyen": "Huyện Cẩm Thủy",
@@ -46799,7 +46799,7 @@
         },
         {
             "code": "15187",
-            "name": "Thị trấn Kim Tân",
+            "name": "Kim Tân",
             "cap": "Thị trấn",
             "ma_qh": "391",
             "quan_huyen": "Huyện Thạch Thành",
@@ -46808,7 +46808,7 @@
         },
         {
             "code": "15190",
-            "name": "Thị trấn Vân Du",
+            "name": "Vân Du",
             "cap": "Thị trấn",
             "ma_qh": "391",
             "quan_huyen": "Huyện Thạch Thành",
@@ -47051,7 +47051,7 @@
         },
         {
             "code": "15271",
-            "name": "Thị trấn Hà Trung",
+            "name": "Hà Trung",
             "cap": "Thị trấn",
             "ma_qh": "392",
             "quan_huyen": "Huyện Hà Trung",
@@ -47276,7 +47276,7 @@
         },
         {
             "code": "15346",
-            "name": "Thị trấn Vĩnh Lộc",
+            "name": "Vĩnh Lộc",
             "cap": "Thị trấn",
             "ma_qh": "393",
             "quan_huyen": "Huyện Vĩnh Lộc",
@@ -47420,7 +47420,7 @@
         },
         {
             "code": "15394",
-            "name": "Thị trấn Quán Lào",
+            "name": "Quán Lào",
             "cap": "Thị trấn",
             "ma_qh": "394",
             "quan_huyen": "Huyện Yên Định",
@@ -47429,7 +47429,7 @@
         },
         {
             "code": "15397",
-            "name": "Thị trấn Thống Nhất",
+            "name": "Thống Nhất",
             "cap": "Thị trấn",
             "ma_qh": "394",
             "quan_huyen": "Huyện Yên Định",
@@ -47681,7 +47681,7 @@
         },
         {
             "code": "15481",
-            "name": "Thị trấn Thọ Xuân",
+            "name": "Thọ Xuân",
             "cap": "Thị trấn",
             "ma_qh": "395",
             "quan_huyen": "Huyện Thọ Xuân",
@@ -47690,7 +47690,7 @@
         },
         {
             "code": "15484",
-            "name": "Thị trấn Lam Sơn",
+            "name": "Lam Sơn",
             "cap": "Thị trấn",
             "ma_qh": "395",
             "quan_huyen": "Huyện Thọ Xuân",
@@ -47699,7 +47699,7 @@
         },
         {
             "code": "15487",
-            "name": "Thị trấn Sao Vàng",
+            "name": "Sao Vàng",
             "cap": "Thị trấn",
             "ma_qh": "395",
             "quan_huyen": "Huyện Thọ Xuân",
@@ -48050,7 +48050,7 @@
         },
         {
             "code": "15604",
-            "name": "Thị trấn Thường Xuân",
+            "name": "Thường Xuân",
             "cap": "Thị trấn",
             "ma_qh": "396",
             "quan_huyen": "Huyện Thường Xuân",
@@ -48203,7 +48203,7 @@
         },
         {
             "code": "15664",
-            "name": "Thị trấn Triệu Sơn",
+            "name": "Triệu Sơn",
             "cap": "Thị trấn",
             "ma_qh": "397",
             "quan_huyen": "Huyện Triệu Sơn",
@@ -48527,7 +48527,7 @@
         },
         {
             "code": "15772",
-            "name": "Thị trấn Vạn Hà",
+            "name": "Vạn Hà",
             "cap": "Thị trấn",
             "ma_qh": "398",
             "quan_huyen": "Huyện Thiệu Hóa",
@@ -48779,7 +48779,7 @@
         },
         {
             "code": "15865",
-            "name": "Thị trấn Bút Sơn",
+            "name": "Bút Sơn",
             "cap": "Thị trấn",
             "ma_qh": "399",
             "quan_huyen": "Huyện Hoằng Hóa",
@@ -49166,7 +49166,7 @@
         },
         {
             "code": "16012",
-            "name": "Thị trấn Hậu Lộc",
+            "name": "Hậu Lộc",
             "cap": "Thị trấn",
             "ma_qh": "400",
             "quan_huyen": "Huyện Hậu Lộc",
@@ -49409,7 +49409,7 @@
         },
         {
             "code": "16093",
-            "name": "Thị trấn Nga Sơn",
+            "name": "Nga Sơn",
             "cap": "Thị trấn",
             "ma_qh": "401",
             "quan_huyen": "Huyện Nga Sơn",
@@ -49652,7 +49652,7 @@
         },
         {
             "code": "16174",
-            "name": "Thị trấn Yên Cát",
+            "name": "Yên Cát",
             "cap": "Thị trấn",
             "ma_qh": "402",
             "quan_huyen": "Huyện Như Xuân",
@@ -49814,7 +49814,7 @@
         },
         {
             "code": "16228",
-            "name": "Thị trấn Bến Sung",
+            "name": "Bến Sung",
             "cap": "Thị trấn",
             "ma_qh": "403",
             "quan_huyen": "Huyện Như Thanh",
@@ -49967,7 +49967,7 @@
         },
         {
             "code": "16279",
-            "name": "Thị trấn Nông Cống",
+            "name": "Nông Cống",
             "cap": "Thị trấn",
             "ma_qh": "404",
             "quan_huyen": "Huyện Nông Cống",
@@ -50255,7 +50255,7 @@
         },
         {
             "code": "16378",
-            "name": "Thị trấn Rừng Thông",
+            "name": "Rừng Thông",
             "cap": "Thị trấn",
             "ma_qh": "405",
             "quan_huyen": "Huyện Đông Sơn",
@@ -50390,7 +50390,7 @@
         },
         {
             "code": "16438",
-            "name": "Thị trấn Quảng Xương",
+            "name": "Quảng Xương",
             "cap": "Thị trấn",
             "ma_qh": "406",
             "quan_huyen": "Huyện Quảng Xương",
@@ -50660,7 +50660,7 @@
         },
         {
             "code": "16561",
-            "name": "Thị trấn Tĩnh Gia",
+            "name": "Tĩnh Gia",
             "cap": "Thị trấn",
             "ma_qh": "407",
             "quan_huyen": "Huyện Tĩnh Gia",
@@ -51346,7 +51346,7 @@
         },
         {
             "code": "16738",
-            "name": "Thị trấn Kim Sơn",
+            "name": "Kim Sơn",
             "cap": "Thị trấn",
             "ma_qh": "415",
             "quan_huyen": "Huyện Quế Phong",
@@ -51473,7 +51473,7 @@
         },
         {
             "code": "16777",
-            "name": "Thị trấn Tân Lạc",
+            "name": "Tân Lạc",
             "cap": "Thị trấn",
             "ma_qh": "416",
             "quan_huyen": "Huyện Quỳ Châu",
@@ -51581,7 +51581,7 @@
         },
         {
             "code": "16813",
-            "name": "Thị trấn Mường Xén",
+            "name": "Mường Xén",
             "cap": "Thị trấn",
             "ma_qh": "417",
             "quan_huyen": "Huyện Kỳ Sơn",
@@ -51770,7 +51770,7 @@
         },
         {
             "code": "16876",
-            "name": "Thị trấn Hòa Bình",
+            "name": "Hòa Bình",
             "cap": "Thị trấn",
             "ma_qh": "418",
             "quan_huyen": "Huyện Tương Dương",
@@ -51932,7 +51932,7 @@
         },
         {
             "code": "16941",
-            "name": "Thị trấn Nghĩa Đàn",
+            "name": "Nghĩa Đàn",
             "cap": "Thị trấn",
             "ma_qh": "419",
             "quan_huyen": "Huyện Nghĩa Đàn",
@@ -52157,7 +52157,7 @@
         },
         {
             "code": "17035",
-            "name": "Thị trấn Quỳ Hợp",
+            "name": "Quỳ Hợp",
             "cap": "Thị trấn",
             "ma_qh": "420",
             "quan_huyen": "Huyện Quỳ Hợp",
@@ -52346,7 +52346,7 @@
         },
         {
             "code": "17098",
-            "name": "Thị trấn Cầu Giát",
+            "name": "Cầu Giát",
             "cap": "Thị trấn",
             "ma_qh": "421",
             "quan_huyen": "Huyện Quỳnh Lưu",
@@ -52643,7 +52643,7 @@
         },
         {
             "code": "17227",
-            "name": "Thị trấn Con Cuông",
+            "name": "Con Cuông",
             "cap": "Thị trấn",
             "ma_qh": "422",
             "quan_huyen": "Huyện Con Cuông",
@@ -52760,7 +52760,7 @@
         },
         {
             "code": "17266",
-            "name": "Thị trấn Tân Kỳ",
+            "name": "Tân Kỳ",
             "cap": "Thị trấn",
             "ma_qh": "423",
             "quan_huyen": "Huyện Tân Kỳ",
@@ -52959,7 +52959,7 @@
         },
         {
             "code": "17329",
-            "name": "Thị trấn Anh Sơn",
+            "name": "Anh Sơn",
             "cap": "Thị trấn",
             "ma_qh": "424",
             "quan_huyen": "Huyện Anh Sơn",
@@ -53148,7 +53148,7 @@
         },
         {
             "code": "17389",
-            "name": "Thị trấn Diễn Châu",
+            "name": "Diễn Châu",
             "cap": "Thị trấn",
             "ma_qh": "425",
             "quan_huyen": "Huyện Diễn Châu",
@@ -53499,7 +53499,7 @@
         },
         {
             "code": "17506",
-            "name": "Thị trấn Yên Thành",
+            "name": "Yên Thành",
             "cap": "Thị trấn",
             "ma_qh": "426",
             "quan_huyen": "Huyện Yên Thành",
@@ -53850,7 +53850,7 @@
         },
         {
             "code": "17617",
-            "name": "Thị trấn Đô Lương",
+            "name": "Đô Lương",
             "cap": "Thị trấn",
             "ma_qh": "427",
             "quan_huyen": "Huyện Đô Lương",
@@ -54147,7 +54147,7 @@
         },
         {
             "code": "17713",
-            "name": "Thị trấn Thanh Chương",
+            "name": "Thanh Chương",
             "cap": "Thị trấn",
             "ma_qh": "428",
             "quan_huyen": "Huyện Thanh Chương",
@@ -54507,7 +54507,7 @@
         },
         {
             "code": "17827",
-            "name": "Thị trấn Quán Hành",
+            "name": "Quán Hành",
             "cap": "Thị trấn",
             "ma_qh": "429",
             "quan_huyen": "Huyện Nghi Lộc",
@@ -54777,7 +54777,7 @@
         },
         {
             "code": "17929",
-            "name": "Thị trấn Nam Đàn",
+            "name": "Nam Đàn",
             "cap": "Thị trấn",
             "ma_qh": "430",
             "quan_huyen": "Huyện Nam Đàn",
@@ -54993,7 +54993,7 @@
         },
         {
             "code": "18001",
-            "name": "Thị trấn Hưng Nguyên",
+            "name": "Hưng Nguyên",
             "cap": "Thị trấn",
             "ma_qh": "431",
             "quan_huyen": "Huyện Hưng Nguyên",
@@ -55489,7 +55489,7 @@
         },
         {
             "code": "18133",
-            "name": "Thị trấn Phố Châu",
+            "name": "Phố Châu",
             "cap": "Thị trấn",
             "ma_qh": "439",
             "quan_huyen": "Huyện Hương Sơn",
@@ -55498,7 +55498,7 @@
         },
         {
             "code": "18136",
-            "name": "Thị trấn  Tây Sơn",
+            "name": " Tây Sơn",
             "cap": "Thị trấn",
             "ma_qh": "439",
             "quan_huyen": "Huyện Hương Sơn",
@@ -55777,7 +55777,7 @@
         },
         {
             "code": "18229",
-            "name": "Thị trấn Đức Thọ",
+            "name": "Đức Thọ",
             "cap": "Thị trấn",
             "ma_qh": "440",
             "quan_huyen": "Huyện Đức Thọ",
@@ -56029,7 +56029,7 @@
         },
         {
             "code": "18313",
-            "name": "Thị trấn Vũ Quang",
+            "name": "Vũ Quang",
             "cap": "Thị trấn",
             "ma_qh": "441",
             "quan_huyen": "Huyện Vũ Quang",
@@ -56137,7 +56137,7 @@
         },
         {
             "code": "18349",
-            "name": "Thị trấn Nghi Xuân",
+            "name": "Nghi Xuân",
             "cap": "Thị trấn",
             "ma_qh": "442",
             "quan_huyen": "Huyện Nghi Xuân",
@@ -56146,7 +56146,7 @@
         },
         {
             "code": "18352",
-            "name": "Thị trấn Xuân An",
+            "name": "Xuân An",
             "cap": "Thị trấn",
             "ma_qh": "442",
             "quan_huyen": "Huyện Nghi Xuân",
@@ -56308,7 +56308,7 @@
         },
         {
             "code": "18406",
-            "name": "Thị trấn Nghèn",
+            "name": "Nghèn",
             "cap": "Thị trấn",
             "ma_qh": "443",
             "quan_huyen": "Huyện Can Lộc",
@@ -56515,7 +56515,7 @@
         },
         {
             "code": "18496",
-            "name": "Thị trấn Hương Khê",
+            "name": "Hương Khê",
             "cap": "Thị trấn",
             "ma_qh": "444",
             "quan_huyen": "Huyện Hương Khê",
@@ -56713,7 +56713,7 @@
         },
         {
             "code": "18562",
-            "name": "Thị trấn Thạch Hà",
+            "name": "Thạch Hà",
             "cap": "Thị trấn",
             "ma_qh": "445",
             "quan_huyen": "Huyện Thạch Hà",
@@ -56992,7 +56992,7 @@
         },
         {
             "code": "18673",
-            "name": "Thị trấn Cẩm Xuyên",
+            "name": "Cẩm Xuyên",
             "cap": "Thị trấn",
             "ma_qh": "446",
             "quan_huyen": "Huyện Cẩm Xuyên",
@@ -57001,7 +57001,7 @@
         },
         {
             "code": "18676",
-            "name": "Thị trấn Thiên Cầm",
+            "name": "Thiên Cầm",
             "cap": "Thị trấn",
             "ma_qh": "446",
             "quan_huyen": "Huyện Cẩm Xuyên",
@@ -57793,7 +57793,7 @@
         },
         {
             "code": "18901",
-            "name": "Thị trấn Quy Đạt",
+            "name": "Quy Đạt",
             "cap": "Thị trấn",
             "ma_qh": "452",
             "quan_huyen": "Huyện Minh Hóa",
@@ -57937,7 +57937,7 @@
         },
         {
             "code": "18949",
-            "name": "Thị trấn Đồng Lê",
+            "name": "Đồng Lê",
             "cap": "Thị trấn",
             "ma_qh": "453",
             "quan_huyen": "Huyện Tuyên Hóa",
@@ -58279,7 +58279,7 @@
         },
         {
             "code": "19111",
-            "name": "Thị trấn Hoàn Lão",
+            "name": "Hoàn Lão",
             "cap": "Thị trấn",
             "ma_qh": "455",
             "quan_huyen": "Huyện Bố Trạch",
@@ -58288,7 +58288,7 @@
         },
         {
             "code": "19114",
-            "name": "Thị trấn NT Việt Trung",
+            "name": "NT Việt Trung",
             "cap": "Thị trấn",
             "ma_qh": "455",
             "quan_huyen": "Huyện Bố Trạch",
@@ -58549,7 +58549,7 @@
         },
         {
             "code": "19201",
-            "name": "Thị trấn Quán Hàu",
+            "name": "Quán Hàu",
             "cap": "Thị trấn",
             "ma_qh": "456",
             "quan_huyen": "Huyện Quảng Ninh",
@@ -58684,7 +58684,7 @@
         },
         {
             "code": "19246",
-            "name": "Thị trấn NT Lệ Ninh",
+            "name": "NT Lệ Ninh",
             "cap": "Thị trấn",
             "ma_qh": "457",
             "quan_huyen": "Huyện Lệ Thủy",
@@ -58693,7 +58693,7 @@
         },
         {
             "code": "19249",
-            "name": "Thị trấn Kiến Giang",
+            "name": "Kiến Giang",
             "cap": "Thị trấn",
             "ma_qh": "457",
             "quan_huyen": "Huyện Lệ Thủy",
@@ -59206,7 +59206,7 @@
         },
         {
             "code": "19363",
-            "name": "Thị trấn Hồ Xá",
+            "name": "Hồ Xá",
             "cap": "Thị trấn",
             "ma_qh": "464",
             "quan_huyen": "Huyện Vĩnh Linh",
@@ -59215,7 +59215,7 @@
         },
         {
             "code": "19366",
-            "name": "Thị trấn Bến Quan",
+            "name": "Bến Quan",
             "cap": "Thị trấn",
             "ma_qh": "464",
             "quan_huyen": "Huyện Vĩnh Linh",
@@ -59359,7 +59359,7 @@
         },
         {
             "code": "19414",
-            "name": "Thị trấn Cửa Tùng",
+            "name": "Cửa Tùng",
             "cap": "Thị trấn",
             "ma_qh": "464",
             "quan_huyen": "Huyện Vĩnh Linh",
@@ -59404,7 +59404,7 @@
         },
         {
             "code": "19429",
-            "name": "Thị trấn Khe Sanh",
+            "name": "Khe Sanh",
             "cap": "Thị trấn",
             "ma_qh": "465",
             "quan_huyen": "Huyện Hướng Hóa",
@@ -59413,7 +59413,7 @@
         },
         {
             "code": "19432",
-            "name": "Thị trấn Lao Bảo",
+            "name": "Lao Bảo",
             "cap": "Thị trấn",
             "ma_qh": "465",
             "quan_huyen": "Huyện Hướng Hóa",
@@ -59602,7 +59602,7 @@
         },
         {
             "code": "19495",
-            "name": "Thị trấn Gio Linh",
+            "name": "Gio Linh",
             "cap": "Thị trấn",
             "ma_qh": "466",
             "quan_huyen": "Huyện Gio Linh",
@@ -59611,7 +59611,7 @@
         },
         {
             "code": "19496",
-            "name": "Thị trấn Cửa Việt",
+            "name": "Cửa Việt",
             "name_eng": "Cua Viet town",
             "cap": "Thị trấn",
             "ma_qh": "466",
@@ -59792,7 +59792,7 @@
         },
         {
             "code": "19555",
-            "name": "Thị trấn Krông Klang",
+            "name": "Krông Klang",
             "cap": "Thị trấn",
             "ma_qh": "467",
             "quan_huyen": "Huyện Đa Krông",
@@ -59918,7 +59918,7 @@
         },
         {
             "code": "19597",
-            "name": "Thị trấn Cam Lộ",
+            "name": "Cam Lộ",
             "cap": "Thị trấn",
             "ma_qh": "468",
             "quan_huyen": "Huyện Cam Lộ",
@@ -60170,7 +60170,7 @@
         },
         {
             "code": "19681",
-            "name": "Thị trấn Hải Lăng",
+            "name": "Hải Lăng",
             "cap": "Thị trấn",
             "ma_qh": "470",
             "quan_huyen": "Huyện Hải Lăng",
@@ -60593,7 +60593,7 @@
         },
         {
             "code": "19819",
-            "name": "Thị trấn Phong Điền",
+            "name": "Phong Điền",
             "cap": "Thị trấn",
             "ma_qh": "476",
             "quan_huyen": "Huyện Phong Điền",
@@ -60737,7 +60737,7 @@
         },
         {
             "code": "19867",
-            "name": "Thị trấn Sịa",
+            "name": "Sịa",
             "cap": "Thị trấn",
             "ma_qh": "477",
             "quan_huyen": "Huyện Quảng Điền",
@@ -60836,7 +60836,7 @@
         },
         {
             "code": "19900",
-            "name": "Thị trấn Thuận An",
+            "name": "Thuận An",
             "cap": "Thị trấn",
             "ma_qh": "478",
             "quan_huyen": "Huyện Phú Vang",
@@ -60962,7 +60962,7 @@
         },
         {
             "code": "19942",
-            "name": "Thị trấn Phú Đa",
+            "name": "Phú Đa",
             "cap": "Thị trấn",
             "ma_qh": "478",
             "quan_huyen": "Huyện Phú Vang",
@@ -61268,7 +61268,7 @@
         },
         {
             "code": "20044",
-            "name": "Thị trấn A Lưới",
+            "name": "A Lưới",
             "cap": "Thị trấn",
             "ma_qh": "481",
             "quan_huyen": "Huyện A Lưới",
@@ -61457,7 +61457,7 @@
         },
         {
             "code": "20107",
-            "name": "Thị trấn Phú Lộc",
+            "name": "Phú Lộc",
             "cap": "Thị trấn",
             "ma_qh": "482",
             "quan_huyen": "Huyện Phú Lộc",
@@ -61466,7 +61466,7 @@
         },
         {
             "code": "20110",
-            "name": "Thị trấn Lăng Cô",
+            "name": "Lăng Cô",
             "cap": "Thị trấn",
             "ma_qh": "482",
             "quan_huyen": "Huyện Phú Lộc",
@@ -61619,7 +61619,7 @@
         },
         {
             "code": "20161",
-            "name": "Thị trấn Khe Tre",
+            "name": "Khe Tre",
             "cap": "Thị trấn",
             "ma_qh": "483",
             "quan_huyen": "Huyện Nam Đông",
@@ -62558,7 +62558,7 @@
         },
         {
             "code": "20467",
-            "name": "Thị trấn P Rao",
+            "name": "P Rao",
             "cap": "Thị trấn",
             "ma_qh": "505",
             "quan_huyen": "Huyện Đông Giang",
@@ -63005,7 +63005,7 @@
         },
         {
             "code": "20599",
-            "name": "Thị trấn Nam Phước",
+            "name": "Nam Phước",
             "cap": "Thị trấn",
             "ma_qh": "508",
             "quan_huyen": "Huyện Duy Xuyên",
@@ -63131,7 +63131,7 @@
         },
         {
             "code": "20641",
-            "name": "Thị trấn Đông Phú",
+            "name": "Đông Phú",
             "cap": "Thị trấn",
             "ma_qh": "509",
             "quan_huyen": "Huyện Quế Sơn",
@@ -63257,7 +63257,7 @@
         },
         {
             "code": "20695",
-            "name": "Thị trấn Thạnh Mỹ",
+            "name": "Thạnh Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "510",
             "quan_huyen": "Huyện Nam Giang",
@@ -63365,7 +63365,7 @@
         },
         {
             "code": "20722",
-            "name": "Thị trấn Khâm Đức",
+            "name": "Khâm Đức",
             "cap": "Thị trấn",
             "ma_qh": "511",
             "quan_huyen": "Huyện Phước Sơn",
@@ -63473,7 +63473,7 @@
         },
         {
             "code": "20755",
-            "name": "Thị trấn Tân An",
+            "name": "Tân An",
             "cap": "Thị trấn",
             "ma_qh": "512",
             "quan_huyen": "Huyện Hiệp Đức",
@@ -63581,7 +63581,7 @@
         },
         {
             "code": "20791",
-            "name": "Thị trấn Hà Lam",
+            "name": "Hà Lam",
             "cap": "Thị trấn",
             "ma_qh": "513",
             "quan_huyen": "Huyện Thăng Bình",
@@ -63779,7 +63779,7 @@
         },
         {
             "code": "20854",
-            "name": "Thị trấn Tiên Kỳ",
+            "name": "Tiên Kỳ",
             "cap": "Thị trấn",
             "ma_qh": "514",
             "quan_huyen": "Huyện Tiên Phước",
@@ -63914,7 +63914,7 @@
         },
         {
             "code": "20899",
-            "name": "Thị trấn Trà My",
+            "name": "Trà My",
             "cap": "Thị trấn",
             "ma_qh": "515",
             "quan_huyen": "Huyện Bắc Trà My",
@@ -64121,7 +64121,7 @@
         },
         {
             "code": "20965",
-            "name": "Thị trấn Núi Thành",
+            "name": "Núi Thành",
             "cap": "Thị trấn",
             "ma_qh": "517",
             "quan_huyen": "Huyện Núi Thành",
@@ -64278,7 +64278,7 @@
         },
         {
             "code": "20364",
-            "name": "Thị trấn Phú Thịnh",
+            "name": "Phú Thịnh",
             "cap": "Thị trấn",
             "ma_qh": "518",
             "quan_huyen": "Huyện Phú Ninh",
@@ -64873,7 +64873,7 @@
         },
         {
             "code": "21115",
-            "name": "Thị trấn Trà Xuân",
+            "name": "Trà Xuân",
             "cap": "Thị trấn",
             "ma_qh": "525",
             "quan_huyen": "Huyện Trà Bồng",
@@ -65143,7 +65143,7 @@
         },
         {
             "code": "21235",
-            "name": "Thị trấn La Hà",
+            "name": "La Hà",
             "cap": "Thị trấn",
             "ma_qh": "528",
             "quan_huyen": "Huyện Tư Nghĩa",
@@ -65152,7 +65152,7 @@
         },
         {
             "code": "21238",
-            "name": "Thị trấn Sông Vệ",
+            "name": "Sông Vệ",
             "cap": "Thị trấn",
             "ma_qh": "528",
             "quan_huyen": "Huyện Tư Nghĩa",
@@ -65278,7 +65278,7 @@
         },
         {
             "code": "21289",
-            "name": "Thị trấn Di Lăng",
+            "name": "Di Lăng",
             "cap": "Thị trấn",
             "ma_qh": "529",
             "quan_huyen": "Huyện Sơn Hà",
@@ -65530,7 +65530,7 @@
         },
         {
             "code": "21364",
-            "name": "Thị trấn Chợ Chùa",
+            "name": "Chợ Chùa",
             "cap": "Thị trấn",
             "ma_qh": "532",
             "quan_huyen": "Huyện Nghĩa Hành",
@@ -65638,7 +65638,7 @@
         },
         {
             "code": "21400",
-            "name": "Thị trấn Mộ Đức",
+            "name": "Mộ Đức",
             "cap": "Thị trấn",
             "ma_qh": "533",
             "quan_huyen": "Huyện Mộ Đức",
@@ -65755,7 +65755,7 @@
         },
         {
             "code": "21439",
-            "name": "Thị trấn Đức Phổ",
+            "name": "Đức Phổ",
             "cap": "Thị trấn",
             "ma_qh": "534",
             "quan_huyen": "Huyện Đức Phổ",
@@ -65890,7 +65890,7 @@
         },
         {
             "code": "21484",
-            "name": "Thị trấn Ba Tơ",
+            "name": "Ba Tơ",
             "cap": "Thị trấn",
             "ma_qh": "535",
             "quan_huyen": "Huyện Ba Tơ",
@@ -66286,7 +66286,7 @@
         },
         {
             "code": "21609",
-            "name": "Thị trấn An Lão",
+            "name": "An Lão",
             "cap": "Thị trấn",
             "ma_qh": "542",
             "quan_huyen": "Huyện An Lão",
@@ -66376,7 +66376,7 @@
         },
         {
             "code": "21637",
-            "name": "Thị trấn  Tam Quan",
+            "name": " Tam Quan",
             "cap": "Thị trấn",
             "ma_qh": "543",
             "quan_huyen": "Huyện Hoài Nhơn",
@@ -66385,7 +66385,7 @@
         },
         {
             "code": "21640",
-            "name": "Thị trấn Bồng Sơn",
+            "name": "Bồng Sơn",
             "cap": "Thị trấn",
             "ma_qh": "543",
             "quan_huyen": "Huyện Hoài Nhơn",
@@ -66529,7 +66529,7 @@
         },
         {
             "code": "21688",
-            "name": "Thị trấn Tăng Bạt Hổ",
+            "name": "Tăng Bạt Hổ",
             "cap": "Thị trấn",
             "ma_qh": "544",
             "quan_huyen": "Huyện Hoài Ân",
@@ -66664,7 +66664,7 @@
         },
         {
             "code": "21730",
-            "name": "Thị trấn Phù Mỹ",
+            "name": "Phù Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "545",
             "quan_huyen": "Huyện Phù Mỹ",
@@ -66673,7 +66673,7 @@
         },
         {
             "code": "21733",
-            "name": "Thị trấn Bình Dương",
+            "name": "Bình Dương",
             "cap": "Thị trấn",
             "ma_qh": "545",
             "quan_huyen": "Huyện Phù Mỹ",
@@ -66835,7 +66835,7 @@
         },
         {
             "code": "21786",
-            "name": "Thị trấn Vĩnh Thạnh",
+            "name": "Vĩnh Thạnh",
             "name_eng": "Vinh Thanh commune",
             "cap": "Thị trấn",
             "ma_qh": "546",
@@ -66919,7 +66919,7 @@
         },
         {
             "code": "21808",
-            "name": "Thị trấn Phú Phong",
+            "name": "Phú Phong",
             "cap": "Thị trấn",
             "ma_qh": "547",
             "quan_huyen": "Huyện Tây Sơn",
@@ -67054,7 +67054,7 @@
         },
         {
             "code": "21853",
-            "name": "Thị trấn Ngô Mây",
+            "name": "Ngô Mây",
             "cap": "Thị trấn",
             "ma_qh": "548",
             "quan_huyen": "Huyện Phù Cát",
@@ -67351,7 +67351,7 @@
         },
         {
             "code": "21952",
-            "name": "Thị trấn Tuy Phước",
+            "name": "Tuy Phước",
             "cap": "Thị trấn",
             "ma_qh": "550",
             "quan_huyen": "Huyện Tuy Phước",
@@ -67360,7 +67360,7 @@
         },
         {
             "code": "21955",
-            "name": "Thị trấn Diêu Trì",
+            "name": "Diêu Trì",
             "cap": "Thị trấn",
             "ma_qh": "550",
             "quan_huyen": "Huyện Tuy Phước",
@@ -67468,7 +67468,7 @@
         },
         {
             "code": "21994",
-            "name": "Thị trấn Vân Canh",
+            "name": "Vân Canh",
             "cap": "Thị trấn",
             "ma_qh": "551",
             "quan_huyen": "Huyện Vân Canh",
@@ -67802,7 +67802,7 @@
         },
         {
             "code": "22081",
-            "name": "Thị trấn La Hai",
+            "name": "La Hai",
             "cap": "Thị trấn",
             "ma_qh": "558",
             "quan_huyen": "Huyện Đồng Xuân",
@@ -67901,7 +67901,7 @@
         },
         {
             "code": "22114",
-            "name": "Thị trấn Chí Thạnh",
+            "name": "Chí Thạnh",
             "cap": "Thị trấn",
             "ma_qh": "559",
             "quan_huyen": "Huyện Tuy An",
@@ -68045,7 +68045,7 @@
         },
         {
             "code": "22165",
-            "name": "Thị trấn Củng Sơn",
+            "name": "Củng Sơn",
             "cap": "Thị trấn",
             "ma_qh": "560",
             "quan_huyen": "Huyện Sơn Hòa",
@@ -68171,7 +68171,7 @@
         },
         {
             "code": "22207",
-            "name": "Thị trấn Hai Riêng",
+            "name": "Hai Riêng",
             "cap": "Thị trấn",
             "ma_qh": "561",
             "quan_huyen": "Huyện Sông Hinh",
@@ -68299,7 +68299,7 @@
         },
         {
             "code": "22255",
-            "name": "Thị trấn Phú Thứ",
+            "name": "Phú Thứ",
             "cap": "Thị trấn",
             "ma_qh": "562",
             "quan_huyen": "Huyện Tây Hoà",
@@ -68470,7 +68470,7 @@
         },
         {
             "code": "22258",
-            "name": "Thị trấn Hoà Vinh",
+            "name": "Hoà Vinh",
             "cap": "Thị trấn",
             "ma_qh": "564",
             "quan_huyen": "Huyện Đông Hòa",
@@ -68479,7 +68479,7 @@
         },
         {
             "code": "22261",
-            "name": "Thị trấn Hoà Hiệp Trung",
+            "name": "Hoà Hiệp Trung",
             "cap": "Thị trấn",
             "ma_qh": "564",
             "quan_huyen": "Huyện Đông Hòa",
@@ -68974,7 +68974,7 @@
         },
         {
             "code": "22453",
-            "name": "Thị trấn Cam Đức",
+            "name": "Cam Đức",
             "cap": "Thị trấn",
             "ma_qh": "570",
             "quan_huyen": "Huyện Cam Lâm",
@@ -69046,7 +69046,7 @@
         },
         {
             "code": "22489",
-            "name": "Thị trấn Vạn Giã",
+            "name": "Vạn Giã",
             "cap": "Thị trấn",
             "ma_qh": "571",
             "quan_huyen": "Huyện Vạn Ninh",
@@ -69406,7 +69406,7 @@
         },
         {
             "code": "22609",
-            "name": "Thị trấn Khánh Vĩnh",
+            "name": "Khánh Vĩnh",
             "cap": "Thị trấn",
             "ma_qh": "573",
             "quan_huyen": "Huyện Khánh Vĩnh",
@@ -69532,7 +69532,7 @@
         },
         {
             "code": "22651",
-            "name": "Thị trấn Diên Khánh",
+            "name": "Diên Khánh",
             "cap": "Thị trấn",
             "ma_qh": "574",
             "quan_huyen": "Huyện Diên Khánh",
@@ -69703,7 +69703,7 @@
         },
         {
             "code": "22714",
-            "name": "Thị trấn Tô Hạp",
+            "name": "Tô Hạp",
             "cap": "Thị trấn",
             "ma_qh": "575",
             "quan_huyen": "Huyện Khánh Sơn",
@@ -69775,7 +69775,7 @@
         },
         {
             "code": "22736",
-            "name": "Thị trấn Trường Sa",
+            "name": "Trường Sa",
             "cap": "Thị trấn",
             "ma_qh": "576",
             "quan_huyen": "Huyện Trường Sa",
@@ -70027,7 +70027,7 @@
         },
         {
             "code": "22810",
-            "name": "Thị trấn Tân Sơn",
+            "name": "Tân Sơn",
             "cap": "Thị trấn",
             "ma_qh": "585",
             "quan_huyen": "Huyện Ninh Sơn",
@@ -70099,7 +70099,7 @@
         },
         {
             "code": "22834",
-            "name": "Thị trấn Khánh Hải",
+            "name": "Khánh Hải",
             "cap": "Thị trấn",
             "ma_qh": "586",
             "quan_huyen": "Huyện Ninh Hải",
@@ -70181,7 +70181,7 @@
         },
         {
             "code": "22870",
-            "name": "Thị trấn Phước Dân",
+            "name": "Phước Dân",
             "cap": "Thị trấn",
             "ma_qh": "587",
             "quan_huyen": "Huyện Ninh Phước",
@@ -70635,7 +70635,7 @@
         },
         {
             "code": "22969",
-            "name": "Thị trấn Liên Hương",
+            "name": "Liên Hương",
             "cap": "Thị trấn",
             "ma_qh": "595",
             "quan_huyen": "Huyện Tuy Phong",
@@ -70644,7 +70644,7 @@
         },
         {
             "code": "22972",
-            "name": "Thị trấn Phan Rí Cửa",
+            "name": "Phan Rí Cửa",
             "cap": "Thị trấn",
             "ma_qh": "595",
             "quan_huyen": "Huyện Tuy Phong",
@@ -70743,7 +70743,7 @@
         },
         {
             "code": "23005",
-            "name": "Thị trấn Chợ Lầu",
+            "name": "Chợ Lầu",
             "cap": "Thị trấn",
             "ma_qh": "596",
             "quan_huyen": "Huyện Bắc Bình",
@@ -70824,7 +70824,7 @@
         },
         {
             "code": "23032",
-            "name": "Thị trấn Lương Sơn",
+            "name": "Lương Sơn",
             "cap": "Thị trấn",
             "ma_qh": "596",
             "quan_huyen": "Huyện Bắc Bình",
@@ -70905,7 +70905,7 @@
         },
         {
             "code": "23059",
-            "name": "Thị trấn Ma Lâm",
+            "name": "Ma Lâm",
             "cap": "Thị trấn",
             "ma_qh": "597",
             "quan_huyen": "Huyện Hàm Thuận Bắc",
@@ -70914,7 +70914,7 @@
         },
         {
             "code": "23062",
-            "name": "Thị trấn Phú Long",
+            "name": "Phú Long",
             "cap": "Thị trấn",
             "ma_qh": "597",
             "quan_huyen": "Huyện Hàm Thuận Bắc",
@@ -71058,7 +71058,7 @@
         },
         {
             "code": "23110",
-            "name": "Thị trấn Thuận Nam",
+            "name": "Thuận Nam",
             "cap": "Thị trấn",
             "ma_qh": "598",
             "quan_huyen": "Huyện Hàm Thuận Nam",
@@ -71175,7 +71175,7 @@
         },
         {
             "code": "23149",
-            "name": "Thị trấn Lạc Tánh",
+            "name": "Lạc Tánh",
             "cap": "Thị trấn",
             "ma_qh": "599",
             "quan_huyen": "Huyện Tánh Linh",
@@ -71301,7 +71301,7 @@
         },
         {
             "code": "23191",
-            "name": "Thị trấn Võ Xu",
+            "name": "Võ Xu",
             "cap": "Thị trấn",
             "ma_qh": "600",
             "quan_huyen": "Huyện Đức Linh",
@@ -71310,7 +71310,7 @@
         },
         {
             "code": "23194",
-            "name": "Thị trấn Đức Tài",
+            "name": "Đức Tài",
             "cap": "Thị trấn",
             "ma_qh": "600",
             "quan_huyen": "Huyện Đức Linh",
@@ -71418,7 +71418,7 @@
         },
         {
             "code": "23230",
-            "name": "Thị trấn Tân Minh",
+            "name": "Tân Minh",
             "cap": "Thị trấn",
             "ma_qh": "601",
             "quan_huyen": "Huyện Hàm Tân",
@@ -71427,7 +71427,7 @@
         },
         {
             "code": "23236",
-            "name": "Thị trấn Tân Nghĩa",
+            "name": "Tân Nghĩa",
             "cap": "Thị trấn",
             "ma_qh": "601",
             "quan_huyen": "Huyện Hàm Tân",
@@ -71724,7 +71724,7 @@
         },
         {
             "code": "23341",
-            "name": "Thị trấn Đắk Glei",
+            "name": "Đắk Glei",
             "cap": "Thị trấn",
             "ma_qh": "610",
             "quan_huyen": "Huyện Đắk Glei",
@@ -71832,7 +71832,7 @@
         },
         {
             "code": "23377",
-            "name": "Thị trấn Plei Kần",
+            "name": "Plei Kần",
             "cap": "Thị trấn",
             "ma_qh": "611",
             "quan_huyen": "Huyện Ngọc Hồi",
@@ -71904,7 +71904,7 @@
         },
         {
             "code": "23401",
-            "name": "Thị trấn Đắk Tô",
+            "name": "Đắk Tô",
             "cap": "Thị trấn",
             "ma_qh": "612",
             "quan_huyen": "Huyện Đắk Tô",
@@ -72068,7 +72068,7 @@
         },
         {
             "code": "23479",
-            "name": "Thị trấn Đắk Rve",
+            "name": "Đắk Rve",
             "cap": "Thị trấn",
             "ma_qh": "614",
             "quan_huyen": "Huyện Kon Rẫy",
@@ -72131,7 +72131,7 @@
         },
         {
             "code": "23500",
-            "name": "Thị trấn Đắk Hà",
+            "name": "Đắk Hà",
             "cap": "Thị trấn",
             "ma_qh": "615",
             "quan_huyen": "Huyện Đắk Hà",
@@ -72230,7 +72230,7 @@
         },
         {
             "code": "23527",
-            "name": "Thị trấn Sa Thầy",
+            "name": "Sa Thầy",
             "cap": "Thị trấn",
             "ma_qh": "616",
             "quan_huyen": "Huyện Sa Thầy",
@@ -72835,7 +72835,7 @@
         },
         {
             "code": "23638",
-            "name": "Thị trấn KBang",
+            "name": "KBang",
             "cap": "Thị trấn",
             "ma_qh": "625",
             "quan_huyen": "Huyện KBang",
@@ -72962,7 +72962,7 @@
         },
         {
             "code": "23677",
-            "name": "Thị trấn Đăk Đoa",
+            "name": "Đăk Đoa",
             "cap": "Thị trấn",
             "ma_qh": "626",
             "quan_huyen": "Huyện Đăk Đoa",
@@ -73117,7 +73117,7 @@
         },
         {
             "code": "23722",
-            "name": "Thị trấn Phú Hòa",
+            "name": "Phú Hòa",
             "cap": "Thị trấn",
             "ma_qh": "627",
             "quan_huyen": "Huyện Chư Păh",
@@ -73153,7 +73153,7 @@
         },
         {
             "code": "23734",
-            "name": "Thị trấn Ia Ly",
+            "name": "Ia Ly",
             "cap": "Thị trấn",
             "ma_qh": "627",
             "quan_huyen": "Huyện Chư Păh",
@@ -73252,7 +73252,7 @@
         },
         {
             "code": "23764",
-            "name": "Thị trấn Ia Kha",
+            "name": "Ia Kha",
             "cap": "Thị trấn",
             "ma_qh": "628",
             "quan_huyen": "Huyện Ia Grai",
@@ -73372,7 +73372,7 @@
         },
         {
             "code": "23794",
-            "name": "Thị trấn Kon Dơng",
+            "name": "Kon Dơng",
             "cap": "Thị trấn",
             "ma_qh": "629",
             "quan_huyen": "Huyện Mang Yang",
@@ -73480,7 +73480,7 @@
         },
         {
             "code": "23824",
-            "name": "Thị trấn Kông Chro",
+            "name": "Kông Chro",
             "cap": "Thị trấn",
             "ma_qh": "630",
             "quan_huyen": "Huyện Kông Chro",
@@ -73609,7 +73609,7 @@
         },
         {
             "code": "23857",
-            "name": "Thị trấn Chư Ty",
+            "name": "Chư Ty",
             "cap": "Thị trấn",
             "ma_qh": "631",
             "quan_huyen": "Huyện Đức Cơ",
@@ -73699,7 +73699,7 @@
         },
         {
             "code": "23887",
-            "name": "Thị trấn Chư Prông",
+            "name": "Chư Prông",
             "cap": "Thị trấn",
             "ma_qh": "632",
             "quan_huyen": "Huyện Chư Prông",
@@ -73879,7 +73879,7 @@
         },
         {
             "code": "23941",
-            "name": "Thị trấn Chư Sê",
+            "name": "Chư Sê",
             "cap": "Thị trấn",
             "ma_qh": "633",
             "quan_huyen": "Huyện Chư Sê",
@@ -74034,7 +74034,7 @@
         },
         {
             "code": "23995",
-            "name": "Thị trấn Đak Pơ",
+            "name": "Đak Pơ",
             "cap": "Thị trấn",
             "ma_qh": "634",
             "quan_huyen": "Huyện Đăk Pơ",
@@ -74169,7 +74169,7 @@
         },
         {
             "code": "24076",
-            "name": "Thị trấn Phú Túc",
+            "name": "Phú Túc",
             "cap": "Thị trấn",
             "ma_qh": "637",
             "quan_huyen": "Huyện Krông Pa",
@@ -74295,7 +74295,7 @@
         },
         {
             "code": "24043",
-            "name": "Thị trấn Phú Thiện",
+            "name": "Phú Thiện",
             "cap": "Thị trấn",
             "ma_qh": "638",
             "quan_huyen": "Huyện Phú Thiện",
@@ -74386,7 +74386,7 @@
         },
         {
             "code": "23942",
-            "name": "Thị trấn Nhơn Hoà",
+            "name": "Nhơn Hoà",
             "cap": "Thị trấn",
             "ma_qh": "639",
             "quan_huyen": "Huyện Chư Pưh",
@@ -74766,7 +74766,7 @@
         },
         {
             "code": "24181",
-            "name": "Thị trấn Ea Drăng",
+            "name": "Ea Drăng",
             "cap": "Thị trấn",
             "ma_qh": "645",
             "quan_huyen": "Huyện Ea H'leo",
@@ -74875,7 +74875,7 @@
         },
         {
             "code": "24211",
-            "name": "Thị trấn Ea Súp",
+            "name": "Ea Súp",
             "cap": "Thị trấn",
             "ma_qh": "646",
             "quan_huyen": "Huyện Ea Súp",
@@ -75030,7 +75030,7 @@
         },
         {
             "code": "24256",
-            "name": "Thị trấn Ea Pốk",
+            "name": "Ea Pốk",
             "cap": "Thị trấn",
             "ma_qh": "648",
             "quan_huyen": "Huyện Cư M'gar",
@@ -75039,7 +75039,7 @@
         },
         {
             "code": "24259",
-            "name": "Thị trấn Quảng Phú",
+            "name": "Quảng Phú",
             "cap": "Thị trấn",
             "ma_qh": "648",
             "quan_huyen": "Huyện Cư M'gar",
@@ -75247,7 +75247,7 @@
         },
         {
             "code": "24343",
-            "name": "Thị trấn Krông Năng",
+            "name": "Krông Năng",
             "cap": "Thị trấn",
             "ma_qh": "650",
             "quan_huyen": "Huyện Krông Năng",
@@ -75357,7 +75357,7 @@
         },
         {
             "code": "24373",
-            "name": "Thị trấn Ea Kar",
+            "name": "Ea Kar",
             "cap": "Thị trấn",
             "ma_qh": "651",
             "quan_huyen": "Huyện Ea Kar",
@@ -75366,7 +75366,7 @@
         },
         {
             "code": "24376",
-            "name": "Thị trấn Ea Knốp",
+            "name": "Ea Knốp",
             "cap": "Thị trấn",
             "ma_qh": "651",
             "quan_huyen": "Huyện Ea Kar",
@@ -75504,7 +75504,7 @@
         },
         {
             "code": "24412",
-            "name": "Thị trấn M'Đrắk",
+            "name": "M'Đrắk",
             "cap": "Thị trấn",
             "ma_qh": "652",
             "quan_huyen": "Huyện M'Đrắk",
@@ -75621,7 +75621,7 @@
         },
         {
             "code": "24448",
-            "name": "Thị trấn Krông Kmar",
+            "name": "Krông Kmar",
             "cap": "Thị trấn",
             "ma_qh": "653",
             "quan_huyen": "Huyện Krông Bông",
@@ -75747,7 +75747,7 @@
         },
         {
             "code": "24490",
-            "name": "Thị trấn Phước An",
+            "name": "Phước An",
             "cap": "Thị trấn",
             "ma_qh": "654",
             "quan_huyen": "Huyện Krông Pắc",
@@ -75891,7 +75891,7 @@
         },
         {
             "code": "24538",
-            "name": "Thị trấn Buôn Trấp",
+            "name": "Buôn Trấp",
             "cap": "Thị trấn",
             "ma_qh": "655",
             "quan_huyen": "Huyện Krông A Na",
@@ -75963,7 +75963,7 @@
         },
         {
             "code": "24580",
-            "name": "Thị trấn Liên Sơn",
+            "name": "Liên Sơn",
             "cap": "Thị trấn",
             "ma_qh": "656",
             "quan_huyen": "Huyện Lắk",
@@ -76276,7 +76276,7 @@
         },
         {
             "code": "24640",
-            "name": "Thị trấn Ea T'Ling",
+            "name": "Ea T'Ling",
             "cap": "Thị trấn",
             "ma_qh": "662",
             "quan_huyen": "Huyện Cư Jút",
@@ -76348,7 +76348,7 @@
         },
         {
             "code": "24664",
-            "name": "Thị trấn Đắk Mil",
+            "name": "Đắk Mil",
             "cap": "Thị trấn",
             "ma_qh": "663",
             "quan_huyen": "Huyện Đắk Mil",
@@ -76439,7 +76439,7 @@
         },
         {
             "code": "24688",
-            "name": "Thị trấn Đắk Mâm",
+            "name": "Đắk Mâm",
             "cap": "Thị trấn",
             "ma_qh": "664",
             "quan_huyen": "Huyện Krông Nô",
@@ -76549,7 +76549,7 @@
         },
         {
             "code": "24717",
-            "name": "Thị trấn Đức An",
+            "name": "Đức An",
             "cap": "Thị trấn",
             "ma_qh": "665",
             "quan_huyen": "Huyện Đắk Song",
@@ -76632,7 +76632,7 @@
         },
         {
             "code": "24733",
-            "name": "Thị trấn Kiến Đức",
+            "name": "Kiến Đức",
             "cap": "Thị trấn",
             "ma_qh": "666",
             "quan_huyen": "Huyện Đắk R'Lấp",
@@ -77101,7 +77101,7 @@
         },
         {
             "code": "24846",
-            "name": "Thị trấn Lạc Dương",
+            "name": "Lạc Dương",
             "name_eng": "Lac Duong Commune",
             "cap": "Thị trấn",
             "ma_qh": "675",
@@ -77157,7 +77157,7 @@
         },
         {
             "code": "24868",
-            "name": "Thị trấn Nam Ban",
+            "name": "Nam Ban",
             "cap": "Thị trấn",
             "ma_qh": "676",
             "quan_huyen": "Huyện Lâm Hà",
@@ -77166,7 +77166,7 @@
         },
         {
             "code": "24871",
-            "name": "Thị trấn Đinh Văn",
+            "name": "Đinh Văn",
             "cap": "Thị trấn",
             "ma_qh": "676",
             "quan_huyen": "Huyện Lâm Hà",
@@ -77301,7 +77301,7 @@
         },
         {
             "code": "24928",
-            "name": "Thị trấn D'Ran",
+            "name": "D'Ran",
             "cap": "Thị trấn",
             "ma_qh": "677",
             "quan_huyen": "Huyện Đơn Dương",
@@ -77310,7 +77310,7 @@
         },
         {
             "code": "24931",
-            "name": "Thị trấn Thạnh Mỹ",
+            "name": "Thạnh Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "677",
             "quan_huyen": "Huyện Đơn Dương",
@@ -77391,7 +77391,7 @@
         },
         {
             "code": "24958",
-            "name": "Thị trấn Liên Nghĩa",
+            "name": "Liên Nghĩa",
             "cap": "Thị trấn",
             "ma_qh": "678",
             "quan_huyen": "Huyện Đức Trọng",
@@ -77526,7 +77526,7 @@
         },
         {
             "code": "25000",
-            "name": "Thị trấn Di Linh",
+            "name": "Di Linh",
             "cap": "Thị trấn",
             "ma_qh": "679",
             "quan_huyen": "Huyện Di Linh",
@@ -77697,7 +77697,7 @@
         },
         {
             "code": "25054",
-            "name": "Thị trấn Lộc Thắng",
+            "name": "Lộc Thắng",
             "cap": "Thị trấn",
             "ma_qh": "680",
             "quan_huyen": "Huyện Bảo Lâm",
@@ -77823,7 +77823,7 @@
         },
         {
             "code": "25096",
-            "name": "Thị trấn Đạ M'ri",
+            "name": "Đạ M'ri",
             "cap": "Thị trấn",
             "ma_qh": "681",
             "quan_huyen": "Huyện Đạ Huoai",
@@ -77832,7 +77832,7 @@
         },
         {
             "code": "25099",
-            "name": "Thị trấn Ma Đa Guôi",
+            "name": "Ma Đa Guôi",
             "cap": "Thị trấn",
             "ma_qh": "681",
             "quan_huyen": "Huyện Đạ Huoai",
@@ -77913,7 +77913,7 @@
         },
         {
             "code": "25126",
-            "name": "Thị trấn Đạ Tẻh",
+            "name": "Đạ Tẻh",
             "cap": "Thị trấn",
             "ma_qh": "682",
             "quan_huyen": "Huyện Đạ Tẻh",
@@ -78012,7 +78012,7 @@
         },
         {
             "code": "25159",
-            "name": "Thị trấn Cát Tiên",
+            "name": "Cát Tiên",
             "cap": "Thị trấn",
             "ma_qh": "683",
             "quan_huyen": "Huyện Cát Tiên",
@@ -78372,7 +78372,7 @@
         },
         {
             "code": "25270",
-            "name": "Thị trấn Lộc Ninh",
+            "name": "Lộc Ninh",
             "cap": "Thị trấn",
             "ma_qh": "692",
             "quan_huyen": "Huyện Lộc Ninh",
@@ -78518,7 +78518,7 @@
         },
         {
             "code": "25308",
-            "name": "Thị trấn Thanh Bình",
+            "name": "Thanh Bình",
             "name_eng": "Thanh Binh town",
             "cap": "Thị trấn",
             "ma_qh": "693",
@@ -78701,7 +78701,7 @@
         },
         {
             "code": "25363",
-            "name": "Thị trấn Tân Phú",
+            "name": "Tân Phú",
             "cap": "Thị trấn",
             "ma_qh": "695",
             "quan_huyen": "Huyện Đồng Phú",
@@ -78800,7 +78800,7 @@
         },
         {
             "code": "25396",
-            "name": "Thị trấn Đức Phong",
+            "name": "Đức Phong",
             "cap": "Thị trấn",
             "ma_qh": "696",
             "quan_huyen": "Huyện Bù Đăng",
@@ -78945,7 +78945,7 @@
         },
         {
             "code": "25432",
-            "name": "Thị trấn Chơn Thành",
+            "name": "Chơn Thành",
             "cap": "Thị trấn",
             "ma_qh": "697",
             "quan_huyen": "Huyện Chơn Thành",
@@ -79207,7 +79207,7 @@
         },
         {
             "code": "25486",
-            "name": "Thị trấn Tân Biên",
+            "name": "Tân Biên",
             "cap": "Thị trấn",
             "ma_qh": "705",
             "quan_huyen": "Huyện Tân Biên",
@@ -79297,7 +79297,7 @@
         },
         {
             "code": "25516",
-            "name": "Thị trấn Tân Châu",
+            "name": "Tân Châu",
             "cap": "Thị trấn",
             "ma_qh": "706",
             "quan_huyen": "Huyện Tân Châu",
@@ -79405,7 +79405,7 @@
         },
         {
             "code": "25552",
-            "name": "Thị trấn Dương Minh Châu",
+            "name": "Dương Minh Châu",
             "cap": "Thị trấn",
             "ma_qh": "707",
             "quan_huyen": "Huyện Dương Minh Châu",
@@ -79504,7 +79504,7 @@
         },
         {
             "code": "25585",
-            "name": "Thị trấn Châu Thành",
+            "name": "Châu Thành",
             "cap": "Thị trấn",
             "ma_qh": "708",
             "quan_huyen": "Huyện Châu Thành",
@@ -79639,7 +79639,7 @@
         },
         {
             "code": "25630",
-            "name": "Thị trấn Hòa Thành",
+            "name": "Hòa Thành",
             "cap": "Thị trấn",
             "ma_qh": "709",
             "quan_huyen": "Huyện Hòa Thành",
@@ -79711,7 +79711,7 @@
         },
         {
             "code": "25654",
-            "name": "Thị trấn Gò Dầu",
+            "name": "Gò Dầu",
             "cap": "Thị trấn",
             "ma_qh": "710",
             "quan_huyen": "Huyện Gò Dầu",
@@ -79792,7 +79792,7 @@
         },
         {
             "code": "25681",
-            "name": "Thị trấn Bến Cầu",
+            "name": "Bến Cầu",
             "cap": "Thị trấn",
             "ma_qh": "711",
             "quan_huyen": "Huyện Bến Cầu",
@@ -79873,7 +79873,7 @@
         },
         {
             "code": "25708",
-            "name": "Thị trấn Trảng Bàng",
+            "name": "Trảng Bàng",
             "cap": "Thị trấn",
             "ma_qh": "712",
             "quan_huyen": "Huyện Trảng Bàng",
@@ -80161,7 +80161,7 @@
         },
         {
             "code": "25777",
-            "name": "Thị trấn Dầu Tiếng",
+            "name": "Dầu Tiếng",
             "cap": "Thị trấn",
             "ma_qh": "720",
             "quan_huyen": "Huyện Dầu Tiếng",
@@ -80341,7 +80341,7 @@
         },
         {
             "code": "25858",
-            "name": "Thị trấn Phước Vĩnh",
+            "name": "Phước Vĩnh",
             "cap": "Thị trấn",
             "ma_qh": "722",
             "quan_huyen": "Huyện Phú Giáo",
@@ -81201,7 +81201,7 @@
         },
         {
             "code": "26116",
-            "name": "Thị trấn Tân Phú",
+            "name": "Tân Phú",
             "cap": "Thị trấn",
             "ma_qh": "734",
             "quan_huyen": "Huyện Tân Phú",
@@ -81363,7 +81363,7 @@
         },
         {
             "code": "26170",
-            "name": "Thị trấn Vĩnh An",
+            "name": "Vĩnh An",
             "cap": "Thị trấn",
             "ma_qh": "735",
             "quan_huyen": "Huyện Vĩnh Cửu",
@@ -81471,7 +81471,7 @@
         },
         {
             "code": "26206",
-            "name": "Thị trấn Định Quán",
+            "name": "Định Quán",
             "cap": "Thị trấn",
             "ma_qh": "736",
             "quan_huyen": "Huyện Định Quán",
@@ -81597,7 +81597,7 @@
         },
         {
             "code": "26248",
-            "name": "Thị trấn Trảng Bom",
+            "name": "Trảng Bom",
             "cap": "Thị trấn",
             "ma_qh": "737",
             "quan_huyen": "Huyện Trảng Bom",
@@ -81957,7 +81957,7 @@
         },
         {
             "code": "26368",
-            "name": "Thị trấn Long Thành",
+            "name": "Long Thành",
             "cap": "Thị trấn",
             "ma_qh": "740",
             "quan_huyen": "Huyện Long Thành",
@@ -82092,7 +82092,7 @@
         },
         {
             "code": "26425",
-            "name": "Thị trấn Gia Ray",
+            "name": "Gia Ray",
             "cap": "Thị trấn",
             "ma_qh": "741",
             "quan_huyen": "Huyện Xuân Lộc",
@@ -82602,7 +82602,7 @@
         },
         {
             "code": "26575",
-            "name": "Thị trấn Ngãi Giao",
+            "name": "Ngãi Giao",
             "cap": "Thị trấn",
             "ma_qh": "750",
             "quan_huyen": "Huyện Châu Đức",
@@ -82737,7 +82737,7 @@
         },
         {
             "code": "26620",
-            "name": "Thị trấn Phước Bửu",
+            "name": "Phước Bửu",
             "cap": "Thị trấn",
             "ma_qh": "751",
             "quan_huyen": "Huyện Xuyên Mộc",
@@ -82854,7 +82854,7 @@
         },
         {
             "code": "26659",
-            "name": "Thị trấn Long Điền",
+            "name": "Long Điền",
             "cap": "Thị trấn",
             "ma_qh": "752",
             "quan_huyen": "Huyện Long Điền",
@@ -82863,7 +82863,7 @@
         },
         {
             "code": "26662",
-            "name": "Thị trấn Long Hải",
+            "name": "Long Hải",
             "cap": "Thị trấn",
             "ma_qh": "752",
             "quan_huyen": "Huyện Long Điền",
@@ -82917,7 +82917,7 @@
         },
         {
             "code": "26680",
-            "name": "Thị trấn Đất Đỏ",
+            "name": "Đất Đỏ",
             "cap": "Thị trấn",
             "ma_qh": "753",
             "quan_huyen": "Huyện Đất Đỏ",
@@ -82953,7 +82953,7 @@
         },
         {
             "code": "26692",
-            "name": "Thị trấn Phước Hải",
+            "name": "Phước Hải",
             "cap": "Thị trấn",
             "ma_qh": "753",
             "quan_huyen": "Huyện Đất Đỏ",
@@ -82989,7 +82989,7 @@
         },
         {
             "code": "26704",
-            "name": "Thị trấn Phú Mỹ",
+            "name": "Phú Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "754",
             "quan_huyen": "Huyện Tân Thành",
@@ -85410,7 +85410,7 @@
         },
         {
             "code": "27496",
-            "name": "Thị trấn Củ Chi",
+            "name": "Củ Chi",
             "cap": "Thị trấn",
             "ma_qh": "783",
             "quan_huyen": "Huyện Củ Chi",
@@ -85599,7 +85599,7 @@
         },
         {
             "code": "27559",
-            "name": "Thị trấn Hóc Môn",
+            "name": "Hóc Môn",
             "cap": "Thị trấn",
             "ma_qh": "784",
             "quan_huyen": "Huyện Hóc Môn",
@@ -85707,7 +85707,7 @@
         },
         {
             "code": "27595",
-            "name": "Thị trấn Tân Túc",
+            "name": "Tân Túc",
             "cap": "Thị trấn",
             "ma_qh": "785",
             "quan_huyen": "Huyện Bình Chánh",
@@ -85851,7 +85851,7 @@
         },
         {
             "code": "27643",
-            "name": "Thị trấn Nhà Bè",
+            "name": "Nhà Bè",
             "cap": "Thị trấn",
             "ma_qh": "786",
             "quan_huyen": "Huyện Nhà Bè",
@@ -85914,7 +85914,7 @@
         },
         {
             "code": "27664",
-            "name": "Thị trấn Cần Thạnh",
+            "name": "Cần Thạnh",
             "cap": "Thị trấn",
             "ma_qh": "787",
             "quan_huyen": "Huyện Cần Giờ",
@@ -86175,7 +86175,7 @@
         },
         {
             "code": "27721",
-            "name": "Thị trấn Tân Hưng",
+            "name": "Tân Hưng",
             "cap": "Thị trấn",
             "ma_qh": "796",
             "quan_huyen": "Huyện Tân Hưng",
@@ -86283,7 +86283,7 @@
         },
         {
             "code": "27757",
-            "name": "Thị trấn Vĩnh Hưng",
+            "name": "Vĩnh Hưng",
             "cap": "Thị trấn",
             "ma_qh": "797",
             "quan_huyen": "Huyện Vĩnh Hưng",
@@ -86436,7 +86436,7 @@
         },
         {
             "code": "27826",
-            "name": "Thị trấn Tân Thạnh",
+            "name": "Tân Thạnh",
             "cap": "Thị trấn",
             "ma_qh": "799",
             "quan_huyen": "Huyện Tân Thạnh",
@@ -86553,7 +86553,7 @@
         },
         {
             "code": "27865",
-            "name": "Thị trấn Thạnh Hóa",
+            "name": "Thạnh Hóa",
             "cap": "Thị trấn",
             "ma_qh": "800",
             "quan_huyen": "Huyện Thạnh Hóa",
@@ -86652,7 +86652,7 @@
         },
         {
             "code": "27898",
-            "name": "Thị trấn Đông Thành",
+            "name": "Đông Thành",
             "cap": "Thị trấn",
             "ma_qh": "801",
             "quan_huyen": "Huyện Đức Huệ",
@@ -86751,7 +86751,7 @@
         },
         {
             "code": "27931",
-            "name": "Thị trấn Hậu Nghĩa",
+            "name": "Hậu Nghĩa",
             "cap": "Thị trấn",
             "ma_qh": "802",
             "quan_huyen": "Huyện Đức Hòa",
@@ -86760,7 +86760,7 @@
         },
         {
             "code": "27934",
-            "name": "Thị trấn Hiệp Hòa",
+            "name": "Hiệp Hòa",
             "cap": "Thị trấn",
             "ma_qh": "802",
             "quan_huyen": "Huyện Đức Hòa",
@@ -86769,7 +86769,7 @@
         },
         {
             "code": "27937",
-            "name": "Thị trấn Đức Hòa",
+            "name": "Đức Hòa",
             "cap": "Thị trấn",
             "ma_qh": "802",
             "quan_huyen": "Huyện Đức Hòa",
@@ -86931,7 +86931,7 @@
         },
         {
             "code": "27991",
-            "name": "Thị trấn Bến Lức",
+            "name": "Bến Lức",
             "cap": "Thị trấn",
             "ma_qh": "803",
             "quan_huyen": "Huyện Bến Lức",
@@ -87066,7 +87066,7 @@
         },
         {
             "code": "28036",
-            "name": "Thị trấn Thủ Thừa",
+            "name": "Thủ Thừa",
             "cap": "Thị trấn",
             "ma_qh": "804",
             "quan_huyen": "Huyện Thủ Thừa",
@@ -87183,7 +87183,7 @@
         },
         {
             "code": "28075",
-            "name": "Thị trấn Tân Trụ",
+            "name": "Tân Trụ",
             "cap": "Thị trấn",
             "ma_qh": "805",
             "quan_huyen": "Huyện Tân Trụ",
@@ -87282,7 +87282,7 @@
         },
         {
             "code": "28108",
-            "name": "Thị trấn Cần Đước",
+            "name": "Cần Đước",
             "cap": "Thị trấn",
             "ma_qh": "806",
             "quan_huyen": "Huyện Cần Đước",
@@ -87435,7 +87435,7 @@
         },
         {
             "code": "28159",
-            "name": "Thị trấn Cần Giuộc",
+            "name": "Cần Giuộc",
             "cap": "Thị trấn",
             "ma_qh": "807",
             "quan_huyen": "Huyện Cần Giuộc",
@@ -87588,7 +87588,7 @@
         },
         {
             "code": "28210",
-            "name": "Thị trấn Tầm Vu",
+            "name": "Tầm Vu",
             "cap": "Thị trấn",
             "ma_qh": "808",
             "quan_huyen": "Huyện Châu Thành",
@@ -88110,7 +88110,7 @@
         },
         {
             "code": "28321",
-            "name": "Thị trấn Mỹ Phước",
+            "name": "Mỹ Phước",
             "cap": "Thị trấn",
             "ma_qh": "818",
             "quan_huyen": "Huyện Tân Phước",
@@ -88227,7 +88227,7 @@
         },
         {
             "code": "28360",
-            "name": "Thị trấn Cái Bè",
+            "name": "Cái Bè",
             "cap": "Thị trấn",
             "ma_qh": "819",
             "quan_huyen": "Huyện Cái Bè",
@@ -88596,7 +88596,7 @@
         },
         {
             "code": "28519",
-            "name": "Thị trấn Tân Hiệp",
+            "name": "Tân Hiệp",
             "cap": "Thị trấn",
             "ma_qh": "821",
             "quan_huyen": "Huyện Châu Thành",
@@ -88803,7 +88803,7 @@
         },
         {
             "code": "28594",
-            "name": "Thị trấn Chợ Gạo",
+            "name": "Chợ Gạo",
             "cap": "Thị trấn",
             "ma_qh": "822",
             "quan_huyen": "Huyện Chợ Gạo",
@@ -88974,7 +88974,7 @@
         },
         {
             "code": "28651",
-            "name": "Thị trấn Vĩnh Bình",
+            "name": "Vĩnh Bình",
             "cap": "Thị trấn",
             "ma_qh": "823",
             "quan_huyen": "Huyện Gò Công Tây",
@@ -89091,7 +89091,7 @@
         },
         {
             "code": "28702",
-            "name": "Thị trấn Tân Hòa",
+            "name": "Tân Hòa",
             "cap": "Thị trấn",
             "ma_qh": "824",
             "quan_huyen": "Huyện Gò Công Đông",
@@ -89127,7 +89127,7 @@
         },
         {
             "code": "28720",
-            "name": "Thị trấn Vàm Láng",
+            "name": "Vàm Láng",
             "cap": "Thị trấn",
             "ma_qh": "824",
             "quan_huyen": "Huyện Gò Công Đông",
@@ -89415,7 +89415,7 @@
         },
         {
             "code": "28801",
-            "name": "Thị trấn Châu Thành",
+            "name": "Châu Thành",
             "cap": "Thị trấn",
             "ma_qh": "831",
             "quan_huyen": "Huyện Châu Thành",
@@ -89613,7 +89613,7 @@
         },
         {
             "code": "28870",
-            "name": "Thị trấn Chợ Lách",
+            "name": "Chợ Lách",
             "cap": "Thị trấn",
             "ma_qh": "832",
             "quan_huyen": "Huyện Chợ Lách",
@@ -89712,7 +89712,7 @@
         },
         {
             "code": "28903",
-            "name": "Thị trấn Mỏ Cày",
+            "name": "Mỏ Cày",
             "cap": "Thị trấn",
             "ma_qh": "833",
             "quan_huyen": "Huyện Mỏ Cày Nam",
@@ -89865,7 +89865,7 @@
         },
         {
             "code": "28984",
-            "name": "Thị trấn Giồng Trôm",
+            "name": "Giồng Trôm",
             "cap": "Thị trấn",
             "ma_qh": "834",
             "quan_huyen": "Huyện Giồng Trôm",
@@ -90063,7 +90063,7 @@
         },
         {
             "code": "29050",
-            "name": "Thị trấn Bình Đại",
+            "name": "Bình Đại",
             "cap": "Thị trấn",
             "ma_qh": "835",
             "quan_huyen": "Huyện Bình Đại",
@@ -90243,7 +90243,7 @@
         },
         {
             "code": "29110",
-            "name": "Thị trấn Ba Tri",
+            "name": "Ba Tri",
             "cap": "Thị trấn",
             "ma_qh": "836",
             "quan_huyen": "Huyện Ba Tri",
@@ -90459,7 +90459,7 @@
         },
         {
             "code": "29182",
-            "name": "Thị trấn Thạnh Phú",
+            "name": "Thạnh Phú",
             "cap": "Thị trấn",
             "ma_qh": "837",
             "quan_huyen": "Huyện Thạnh Phú",
@@ -90828,7 +90828,7 @@
         },
         {
             "code": "29266",
-            "name": "Thị trấn Càng Long",
+            "name": "Càng Long",
             "cap": "Thị trấn",
             "ma_qh": "844",
             "quan_huyen": "Huyện Càng Long",
@@ -90954,7 +90954,7 @@
         },
         {
             "code": "29308",
-            "name": "Thị trấn Cầu Kè",
+            "name": "Cầu Kè",
             "cap": "Thị trấn",
             "ma_qh": "845",
             "quan_huyen": "Huyện Cầu Kè",
@@ -91053,7 +91053,7 @@
         },
         {
             "code": "29341",
-            "name": "Thị trấn Tiểu Cần",
+            "name": "Tiểu Cần",
             "cap": "Thị trấn",
             "ma_qh": "846",
             "quan_huyen": "Huyện Tiểu Cần",
@@ -91062,7 +91062,7 @@
         },
         {
             "code": "29344",
-            "name": "Thị trấn Cầu Quan",
+            "name": "Cầu Quan",
             "cap": "Thị trấn",
             "ma_qh": "846",
             "quan_huyen": "Huyện Tiểu Cần",
@@ -91152,7 +91152,7 @@
         },
         {
             "code": "29374",
-            "name": "Thị trấn Châu Thành",
+            "name": "Châu Thành",
             "cap": "Thị trấn",
             "ma_qh": "847",
             "quan_huyen": "Huyện Châu Thành",
@@ -91278,7 +91278,7 @@
         },
         {
             "code": "29416",
-            "name": "Thị trấn Cầu Ngang",
+            "name": "Cầu Ngang",
             "cap": "Thị trấn",
             "ma_qh": "848",
             "quan_huyen": "Huyện Cầu Ngang",
@@ -91287,7 +91287,7 @@
         },
         {
             "code": "29419",
-            "name": "Thị trấn Mỹ Long",
+            "name": "Mỹ Long",
             "cap": "Thị trấn",
             "ma_qh": "848",
             "quan_huyen": "Huyện Cầu Ngang",
@@ -91413,7 +91413,7 @@
         },
         {
             "code": "29461",
-            "name": "Thị trấn Trà Cú",
+            "name": "Trà Cú",
             "cap": "Thị trấn",
             "ma_qh": "849",
             "quan_huyen": "Huyện Trà Cú",
@@ -91422,7 +91422,7 @@
         },
         {
             "code": "29462",
-            "name": "Thị trấn Định An",
+            "name": "Định An",
             "cap": "Thị trấn",
             "ma_qh": "849",
             "quan_huyen": "Huyện Trà Cú",
@@ -91584,7 +91584,7 @@
         },
         {
             "code": "29513",
-            "name": "Thị trấn Long Thành",
+            "name": "Long Thành",
             "cap": "Thị trấn",
             "ma_qh": "850",
             "quan_huyen": "Huyện Duyên Hải",
@@ -91791,7 +91791,7 @@
         },
         {
             "code": "29575",
-            "name": "Thị trấn Long Hồ",
+            "name": "Long Hồ",
             "cap": "Thị trấn",
             "ma_qh": "857",
             "quan_huyen": "Huyện Long Hồ",
@@ -91926,7 +91926,7 @@
         },
         {
             "code": "29620",
-            "name": "Thị trấn Cái Nhum",
+            "name": "Cái Nhum",
             "cap": "Thị trấn",
             "ma_qh": "858",
             "quan_huyen": "Huyện Mang Thít",
@@ -92043,7 +92043,7 @@
         },
         {
             "code": "29659",
-            "name": "Thị trấn Vũng Liêm",
+            "name": "Vũng Liêm",
             "cap": "Thị trấn",
             "ma_qh": "859",
             "quan_huyen": "Huyện  Vũng Liêm",
@@ -92223,7 +92223,7 @@
         },
         {
             "code": "29719",
-            "name": "Thị trấn Tam Bình",
+            "name": "Tam Bình",
             "cap": "Thị trấn",
             "ma_qh": "860",
             "quan_huyen": "Huyện Tam Bình",
@@ -92448,7 +92448,7 @@
         },
         {
             "code": "29821",
-            "name": "Thị trấn Trà Ôn",
+            "name": "Trà Ôn",
             "cap": "Thị trấn",
             "ma_qh": "862",
             "quan_huyen": "Huyện Trà Ôn",
@@ -92956,7 +92956,7 @@
         },
         {
             "code": "29926",
-            "name": "Thị trấn Sa Rài",
+            "name": "Sa Rài",
             "cap": "Thị trấn",
             "ma_qh": "869",
             "quan_huyen": "Huyện Tân Hồng",
@@ -93136,7 +93136,7 @@
         },
         {
             "code": "30001",
-            "name": "Thị trấn Tràm Chim",
+            "name": "Tràm Chim",
             "cap": "Thị trấn",
             "ma_qh": "871",
             "quan_huyen": "Huyện Tam Nông",
@@ -93244,7 +93244,7 @@
         },
         {
             "code": "30037",
-            "name": "Thị trấn Mỹ An",
+            "name": "Mỹ An",
             "cap": "Thị trấn",
             "ma_qh": "872",
             "quan_huyen": "Huyện Tháp Mười",
@@ -93361,7 +93361,7 @@
         },
         {
             "code": "30076",
-            "name": "Thị trấn Mỹ Thọ",
+            "name": "Mỹ Thọ",
             "cap": "Thị trấn",
             "ma_qh": "873",
             "quan_huyen": "Huyện Cao Lãnh",
@@ -93523,7 +93523,7 @@
         },
         {
             "code": "30130",
-            "name": "Thị trấn Thanh Bình",
+            "name": "Thanh Bình",
             "cap": "Thị trấn",
             "ma_qh": "874",
             "quan_huyen": "Huyện Thanh Bình",
@@ -93640,7 +93640,7 @@
         },
         {
             "code": "30169",
-            "name": "Thị trấn Lấp Vò",
+            "name": "Lấp Vò",
             "cap": "Thị trấn",
             "ma_qh": "875",
             "quan_huyen": "Huyện Lấp Vò",
@@ -93757,7 +93757,7 @@
         },
         {
             "code": "30208",
-            "name": "Thị trấn Lai Vung",
+            "name": "Lai Vung",
             "cap": "Thị trấn",
             "ma_qh": "876",
             "quan_huyen": "Huyện Lai Vung",
@@ -93865,7 +93865,7 @@
         },
         {
             "code": "30244",
-            "name": "Thị trấn Cái Tàu Hạ",
+            "name": "Cái Tàu Hạ",
             "cap": "Thị trấn",
             "ma_qh": "877",
             "quan_huyen": "Huyện Châu Thành",
@@ -94155,7 +94155,7 @@
         },
         {
             "code": "30337",
-            "name": "Thị trấn An Phú",
+            "name": "An Phú",
             "cap": "Thị trấn",
             "ma_qh": "886",
             "quan_huyen": "Huyện An Phú",
@@ -94408,7 +94408,7 @@
         },
         {
             "code": "30406",
-            "name": "Thị trấn Phú Mỹ",
+            "name": "Phú Mỹ",
             "cap": "Thị trấn",
             "ma_qh": "888",
             "quan_huyen": "Huyện Phú Tân",
@@ -94417,7 +94417,7 @@
         },
         {
             "code": "30409",
-            "name": "Thị trấn Chợ Vàm",
+            "name": "Chợ Vàm",
             "cap": "Thị trấn",
             "ma_qh": "888",
             "quan_huyen": "Huyện Phú Tân",
@@ -94570,7 +94570,7 @@
         },
         {
             "code": "30463",
-            "name": "Thị trấn Cái Dầu",
+            "name": "Cái Dầu",
             "cap": "Thị trấn",
             "ma_qh": "889",
             "quan_huyen": "Huyện Châu Phú",
@@ -94687,7 +94687,7 @@
         },
         {
             "code": "30502",
-            "name": "Thị trấn Nhà Bàng",
+            "name": "Nhà Bàng",
             "cap": "Thị trấn",
             "ma_qh": "890",
             "quan_huyen": "Huyện Tịnh Biên",
@@ -94696,7 +94696,7 @@
         },
         {
             "code": "30505",
-            "name": "Thị trấn Chi Lăng",
+            "name": "Chi Lăng",
             "cap": "Thị trấn",
             "ma_qh": "890",
             "quan_huyen": "Huyện Tịnh Biên",
@@ -94741,7 +94741,7 @@
         },
         {
             "code": "30520",
-            "name": "Thị trấn Tịnh Biên",
+            "name": "Tịnh Biên",
             "cap": "Thị trấn",
             "ma_qh": "890",
             "quan_huyen": "Huyện Tịnh Biên",
@@ -94813,7 +94813,7 @@
         },
         {
             "code": "30544",
-            "name": "Thị trấn Tri Tôn",
+            "name": "Tri Tôn",
             "cap": "Thị trấn",
             "ma_qh": "891",
             "quan_huyen": "Huyện Tri Tôn",
@@ -94822,7 +94822,7 @@
         },
         {
             "code": "30547",
-            "name": "Thị trấn Ba Chúc",
+            "name": "Ba Chúc",
             "cap": "Thị trấn",
             "ma_qh": "891",
             "quan_huyen": "Huyện Tri Tôn",
@@ -94948,7 +94948,7 @@
         },
         {
             "code": "30589",
-            "name": "Thị trấn An Châu",
+            "name": "An Châu",
             "cap": "Thị trấn",
             "ma_qh": "892",
             "quan_huyen": "Huyện Châu Thành",
@@ -95065,7 +95065,7 @@
         },
         {
             "code": "30628",
-            "name": "Thị trấn Chợ Mới",
+            "name": "Chợ Mới",
             "cap": "Thị trấn",
             "ma_qh": "893",
             "quan_huyen": "Huyện Chợ Mới",
@@ -95074,7 +95074,7 @@
         },
         {
             "code": "30631",
-            "name": "Thị trấn Mỹ Luông",
+            "name": "Mỹ Luông",
             "cap": "Thị trấn",
             "ma_qh": "893",
             "quan_huyen": "Huyện Chợ Mới",
@@ -95227,7 +95227,7 @@
         },
         {
             "code": "30682",
-            "name": "Thị trấn Núi Sập",
+            "name": "Núi Sập",
             "cap": "Thị trấn",
             "ma_qh": "894",
             "quan_huyen": "Huyện Thoại Sơn",
@@ -95236,7 +95236,7 @@
         },
         {
             "code": "30685",
-            "name": "Thị trấn Phú Hoà",
+            "name": "Phú Hoà",
             "cap": "Thị trấn",
             "ma_qh": "894",
             "quan_huyen": "Huyện Thoại Sơn",
@@ -95552,7 +95552,7 @@
         },
         {
             "code": "30787",
-            "name": "Thị trấn Kiên Lương",
+            "name": "Kiên Lương",
             "cap": "Thị trấn",
             "ma_qh": "902",
             "quan_huyen": "Huyện Kiên Lương",
@@ -95624,7 +95624,7 @@
         },
         {
             "code": "30817",
-            "name": "Thị trấn Hòn Đất",
+            "name": "Hòn Đất",
             "cap": "Thị trấn",
             "ma_qh": "903",
             "quan_huyen": "Huyện Hòn Đất",
@@ -95633,7 +95633,7 @@
         },
         {
             "code": "30820",
-            "name": "Thị trấn Sóc Sơn",
+            "name": "Sóc Sơn",
             "cap": "Thị trấn",
             "ma_qh": "903",
             "quan_huyen": "Huyện Hòn Đất",
@@ -95752,7 +95752,7 @@
         },
         {
             "code": "30850",
-            "name": "Thị trấn Tân Hiệp",
+            "name": "Tân Hiệp",
             "cap": "Thị trấn",
             "ma_qh": "904",
             "quan_huyen": "Huyện Tân Hiệp",
@@ -95851,7 +95851,7 @@
         },
         {
             "code": "30880",
-            "name": "Thị trấn Minh Lương",
+            "name": "Minh Lương",
             "cap": "Thị trấn",
             "ma_qh": "905",
             "quan_huyen": "Huyện Châu Thành",
@@ -96116,7 +96116,7 @@
         },
         {
             "code": "30952",
-            "name": "Thị trấn Gò Quao",
+            "name": "Gò Quao",
             "cap": "Thị trấn",
             "ma_qh": "907",
             "quan_huyen": "Huyện Gò Quao",
@@ -96215,7 +96215,7 @@
         },
         {
             "code": "30985",
-            "name": "Thị trấn Thứ Ba",
+            "name": "Thứ Ba",
             "cap": "Thị trấn",
             "ma_qh": "908",
             "quan_huyen": "Huyện An Biên",
@@ -96296,7 +96296,7 @@
         },
         {
             "code": "31018",
-            "name": "Thị trấn Thứ Mười Một",
+            "name": "Thứ Mười Một",
             "cap": "Thị trấn",
             "ma_qh": "909",
             "quan_huyen": "Huyện An Minh",
@@ -96396,7 +96396,7 @@
         },
         {
             "code": "31051",
-            "name": "Thị trấn Vĩnh Thuận",
+            "name": "Vĩnh Thuận",
             "cap": "Thị trấn",
             "ma_qh": "910",
             "quan_huyen": "Huyện Vĩnh Thuận",
@@ -96468,7 +96468,7 @@
         },
         {
             "code": "31078",
-            "name": "Thị trấn Dương Đông",
+            "name": "Dương Đông",
             "cap": "Thị trấn",
             "ma_qh": "911",
             "quan_huyen": "Huyện Phú Quốc",
@@ -96477,7 +96477,7 @@
         },
         {
             "code": "31081",
-            "name": "Thị trấn An Thới",
+            "name": "An Thới",
             "cap": "Thị trấn",
             "ma_qh": "911",
             "quan_huyen": "Huyện Phú Quốc",
@@ -97101,7 +97101,7 @@
         },
         {
             "code": "31231",
-            "name": "Thị trấn Thanh An",
+            "name": "Thanh An",
             "cap": "Thị trấn",
             "ma_qh": "924",
             "quan_huyen": "Huyện Vĩnh Thạnh",
@@ -97110,7 +97110,7 @@
         },
         {
             "code": "31232",
-            "name": "Thị trấn Vĩnh Thạnh",
+            "name": "Vĩnh Thạnh",
             "cap": "Thị trấn",
             "ma_qh": "924",
             "quan_huyen": "Huyện Vĩnh Thạnh",
@@ -97227,7 +97227,7 @@
         },
         {
             "code": "31261",
-            "name": "Thị trấn Cờ Đỏ",
+            "name": "Cờ Đỏ",
             "cap": "Thị trấn",
             "ma_qh": "925",
             "quan_huyen": "Huyện Cờ Đỏ",
@@ -97281,7 +97281,7 @@
         },
         {
             "code": "31299",
-            "name": "Thị trấn Phong Điền",
+            "name": "Phong Điền",
             "cap": "Thị trấn",
             "ma_qh": "926",
             "quan_huyen": "Huyện Phong Điền",
@@ -97344,7 +97344,7 @@
         },
         {
             "code": "31258",
-            "name": "Thị trấn Thới Lai",
+            "name": "Thới Lai",
             "cap": "Thị trấn",
             "ma_qh": "927",
             "quan_huyen": "Huyện Thới Lai",
@@ -97601,7 +97601,7 @@
         },
         {
             "code": "31342",
-            "name": "Thị trấn Một Ngàn",
+            "name": "Một Ngàn",
             "cap": "Thị trấn",
             "ma_qh": "932",
             "quan_huyen": "Huyện Châu Thành A",
@@ -97619,7 +97619,7 @@
         },
         {
             "code": "31346",
-            "name": "Thị trấn Bảy Ngàn",
+            "name": "Bảy Ngàn",
             "cap": "Thị trấn",
             "ma_qh": "932",
             "quan_huyen": "Huyện Châu Thành A",
@@ -97655,7 +97655,7 @@
         },
         {
             "code": "31359",
-            "name": "Thị trấn Rạch Gòi",
+            "name": "Rạch Gòi",
             "cap": "Thị trấn",
             "ma_qh": "932",
             "quan_huyen": "Huyện Châu Thành A",
@@ -97673,7 +97673,7 @@
         },
         {
             "code": "31362",
-            "name": "Thị trấn Cái Tắc",
+            "name": "Cái Tắc",
             "cap": "Thị trấn",
             "ma_qh": "932",
             "quan_huyen": "Huyện Châu Thành A",
@@ -97745,7 +97745,7 @@
         },
         {
             "code": "31381",
-            "name": "Thị trấn Mái Dầm",
+            "name": "Mái Dầm",
             "cap": "Thị trấn",
             "ma_qh": "933",
             "quan_huyen": "Huyện Châu Thành",
@@ -97772,7 +97772,7 @@
         },
         {
             "code": "31393",
-            "name": "Thị trấn Kinh Cùng",
+            "name": "Kinh Cùng",
             "cap": "Thị trấn",
             "ma_qh": "934",
             "quan_huyen": "Huyện Phụng Hiệp",
@@ -97781,7 +97781,7 @@
         },
         {
             "code": "31396",
-            "name": "Thị trấn Cây Dương",
+            "name": "Cây Dương",
             "cap": "Thị trấn",
             "ma_qh": "934",
             "quan_huyen": "Huyện Phụng Hiệp",
@@ -97880,7 +97880,7 @@
         },
         {
             "code": "31433",
-            "name": "Thị trấn Búng Tàu",
+            "name": "Búng Tàu",
             "cap": "Thị trấn",
             "ma_qh": "934",
             "quan_huyen": "Huyện Phụng Hiệp",
@@ -97907,7 +97907,7 @@
         },
         {
             "code": "31441",
-            "name": "Thị trấn Nàng Mau",
+            "name": "Nàng Mau",
             "cap": "Thị trấn",
             "ma_qh": "935",
             "quan_huyen": "Huyện Vị Thuỷ",
@@ -98243,7 +98243,7 @@
         },
         {
             "code": "31569",
-            "name": "Thị trấn Châu Thành",
+            "name": "Châu Thành",
             "cap": "Thị trấn",
             "ma_qh": "942",
             "quan_huyen": "Huyện Châu Thành",
@@ -98315,7 +98315,7 @@
         },
         {
             "code": "31528",
-            "name": "Thị trấn Kế Sách",
+            "name": "Kế Sách",
             "cap": "Thị trấn",
             "ma_qh": "943",
             "quan_huyen": "Huyện Kế Sách",
@@ -98324,7 +98324,7 @@
         },
         {
             "code": "31531",
-            "name": "Thị trấn An Lạc Thôn",
+            "name": "An Lạc Thôn",
             "cap": "Thị trấn",
             "ma_qh": "943",
             "quan_huyen": "Huyện Kế Sách",
@@ -98432,7 +98432,7 @@
         },
         {
             "code": "31567",
-            "name": "Thị trấn Huỳnh Hữu Nghĩa",
+            "name": "Huỳnh Hữu Nghĩa",
             "cap": "Thị trấn",
             "ma_qh": "944",
             "quan_huyen": "Huyện Mỹ Tú",
@@ -98513,7 +98513,7 @@
         },
         {
             "code": "31615",
-            "name": "Thị trấn Cù Lao Dung",
+            "name": "Cù Lao Dung",
             "cap": "Thị trấn",
             "ma_qh": "945",
             "quan_huyen": "Huyện Cù Lao Dung",
@@ -98585,7 +98585,7 @@
         },
         {
             "code": "31639",
-            "name": "Thị trấn Long Phú",
+            "name": "Long Phú",
             "cap": "Thị trấn",
             "ma_qh": "946",
             "quan_huyen": "Huyện Long Phú",
@@ -98603,7 +98603,7 @@
         },
         {
             "code": "31645",
-            "name": "Thị trấn Đại Ngãi",
+            "name": "Đại Ngãi",
             "cap": "Thị trấn",
             "ma_qh": "946",
             "quan_huyen": "Huyện Long Phú",
@@ -98684,7 +98684,7 @@
         },
         {
             "code": "31684",
-            "name": "Thị trấn Mỹ Xuyên",
+            "name": "Mỹ Xuyên",
             "cap": "Thị trấn",
             "ma_qh": "947",
             "quan_huyen": "Huyện Mỹ Xuyên",
@@ -98855,7 +98855,7 @@
         },
         {
             "code": "31756",
-            "name": "Thị trấn Phú Lộc",
+            "name": "Phú Lộc",
             "cap": "Thị trấn",
             "ma_qh": "949",
             "quan_huyen": "Huyện Thạnh Trị",
@@ -98864,7 +98864,7 @@
         },
         {
             "code": "31757",
-            "name": "Thị trấn Hưng Lợi",
+            "name": "Hưng Lợi",
             "cap": "Thị trấn",
             "ma_qh": "949",
             "quan_huyen": "Huyện Thạnh Trị",
@@ -99044,7 +99044,7 @@
         },
         {
             "code": "31673",
-            "name": "Thị trấn Trần Đề",
+            "name": "Trần Đề",
             "cap": "Thị trấn",
             "ma_qh": "951",
             "quan_huyen": "Huyện Trần Đề",
@@ -99071,7 +99071,7 @@
         },
         {
             "code": "31679",
-            "name": "Thị trấn Lịch Hội Thượng",
+            "name": "Lịch Hội Thượng",
             "cap": "Thị trấn",
             "ma_qh": "951",
             "quan_huyen": "Huyện Trần Đề",
@@ -99224,7 +99224,7 @@
         },
         {
             "code": "31843",
-            "name": "Thị trấn Ngan Dừa",
+            "name": "Ngan Dừa",
             "cap": "Thị trấn",
             "ma_qh": "956",
             "quan_huyen": "Huyện Hồng Dân",
@@ -99305,7 +99305,7 @@
         },
         {
             "code": "31867",
-            "name": "Thị trấn Phước Long",
+            "name": "Phước Long",
             "cap": "Thị trấn",
             "ma_qh": "957",
             "quan_huyen": "Huyện Phước Long",
@@ -99395,7 +99395,7 @@
         },
         {
             "code": "31900",
-            "name": "Thị trấn Châu Hưng",
+            "name": "Châu Hưng",
             "cap": "Thị trấn",
             "ma_qh": "958",
             "quan_huyen": "Huyện Vĩnh Lợi",
@@ -99539,7 +99539,7 @@
         },
         {
             "code": "31972",
-            "name": "Thị trấn Gành Hào",
+            "name": "Gành Hào",
             "cap": "Thị trấn",
             "ma_qh": "960",
             "quan_huyen": "Huyện Đông Hải",
@@ -99638,7 +99638,7 @@
         },
         {
             "code": "31891",
-            "name": "Thị trấn Hòa Bình",
+            "name": "Hòa Bình",
             "cap": "Thị trấn",
             "ma_qh": "961",
             "quan_huyen": "Huyện Hoà Bình",
@@ -99863,7 +99863,7 @@
         },
         {
             "code": "32044",
-            "name": "Thị trấn U Minh",
+            "name": "U Minh",
             "cap": "Thị trấn",
             "ma_qh": "966",
             "quan_huyen": "Huyện U Minh",
@@ -99935,7 +99935,7 @@
         },
         {
             "code": "32065",
-            "name": "Thị trấn Thới Bình",
+            "name": "Thới Bình",
             "cap": "Thị trấn",
             "ma_qh": "967",
             "quan_huyen": "Huyện Thới Bình",
@@ -100045,7 +100045,7 @@
         },
         {
             "code": "32095",
-            "name": "Thị trấn Trần Văn Thời",
+            "name": "Trần Văn Thời",
             "cap": "Thị trấn",
             "ma_qh": "968",
             "quan_huyen": "Huyện Trần Văn Thời",
@@ -100054,7 +100054,7 @@
         },
         {
             "code": "32098",
-            "name": "Thị trấn Sông Đốc",
+            "name": "Sông Đốc",
             "cap": "Thị trấn",
             "ma_qh": "968",
             "quan_huyen": "Huyện Trần Văn Thời",
@@ -100164,7 +100164,7 @@
         },
         {
             "code": "32128",
-            "name": "Thị trấn Cái Nước",
+            "name": "Cái Nước",
             "cap": "Thị trấn",
             "ma_qh": "969",
             "quan_huyen": "Huyện Cái Nước",
@@ -100266,7 +100266,7 @@
         },
         {
             "code": "32152",
-            "name": "Thị trấn Đầm Dơi",
+            "name": "Đầm Dơi",
             "cap": "Thị trấn",
             "ma_qh": "970",
             "quan_huyen": "Huyện Đầm Dơi",
@@ -100486,7 +100486,7 @@
         },
         {
             "code": "32212",
-            "name": "Thị trấn Cái Đôi Vàm",
+            "name": "Cái Đôi Vàm",
             "cap": "Thị trấn",
             "ma_qh": "972",
             "quan_huyen": "Huyện Phú Tân",
@@ -100605,7 +100605,7 @@
         },
         {
             "code": "32244",
-            "name": "Thị trấn Rạch Gốc",
+            "name": "Rạch Gốc",
             "cap": "Thị trấn",
             "ma_qh": "973",
             "quan_huyen": "Huyện Ngọc Hiển",

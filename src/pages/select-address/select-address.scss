@@ -1,0 +1,78 @@
+page-select-address {
+    .select-item{
+        padding: 10px 16px;
+        &.selected{
+            color: #32bfbd;
+        }
+    }
+    .backdrop{
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 1;
+    }
+    .select-item:hover{
+        background: rgba($color: #32bfbd, $alpha: .3);
+    }
+    
+    .f-maxwidth-container{
+        max-height: calc(100% - 50px);
+        height: 100%;
+        overflow: hidden;
+        max-width: 560px;
+        width: 100%;
+        border-radius: 5px;
+        position: relative;
+        background: white;
+        z-index: 10;
+        .f-content{
+            margin-top: 50px;
+            padding-bottom: 10px;
+            height: calc(100% - 50px);
+            overflow: scroll;
+        }
+        .btn-close{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 50px;
+            overflow: hidden;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            z-index: 2;
+            .button{
+                color: black;
+            }
+        }
+        .f-title{
+            background: #f8f8f8;
+            padding: 10px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 50px;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            z-index: 1;
+        }
+    }
+    .scroll-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 0 10px !important;
+    }
+    ion-content.content{
+        background: rgba($color: #000000, $alpha: .4);
+    }
+}

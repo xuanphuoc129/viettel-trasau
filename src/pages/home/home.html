@@ -1,4 +1,4 @@
-<ion-content>
+<ion-content no-bounce>
   <div class="block1 a1-relative">
     <div class="bg-img a1-relative" [ngStyle]="{'background-image': 'url('+bg_url+')'}">
       <img src="{{girl_url}}" alt="" class="a1-absolute girl-img">
@@ -60,6 +60,8 @@
 
 
   <div class="block2" id="block2ID">
+    <div class="yellow-bg-top"></div>
+
     <div class="vt-ht iCielBrandonText-Bold" text-center>
       Chọn hình thức
     </div>
@@ -237,7 +239,7 @@
 
             </div>
 
-            <div class="goicuoc border-radius white-bg box-shadow" margin-top>
+            <div class="goicuoc border-radius white-bg box-shadow" margin-top [hidden]="mHinhThucSelected.id == 1">
               <div padding-bottom padding-top class="blue-color">Gói cước</div>
 
               <div [hidden]="!mGoiCuocSelected || mGoiCuocSelected.name.length == 0">
@@ -267,10 +269,10 @@
               <div style="padding-left: 5px" padding-bottom class="blue-color">Liên hệ</div>
 
               <ion-row align-items-center id="nameID">
-                <ion-col col-12 col-sm-2>
-                  Họ và tên (*):
+                <ion-col col-12 col-sm-12>
+                  Họ và tên <span style="color:red">(*)</span>
                 </ion-col>
-                <ion-col col-12 col-sm-9>
+                <ion-col col-12 col-sm-12>
                   <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.name.length > 0" (click)="onClickShowInputName()"
                     tappable>{{
                     mCustomer.name || 'Nhập họ & tên'}}</div>
@@ -288,10 +290,10 @@
               </ion-row>
 
               <ion-row align-items-center id="phoneID">
-                <ion-col col-12 col-sm-2>
-                  Điện thoại (*):
+                <ion-col col-12 col-sm-12>
+                  Điện thoại <span style="color:red">(*)</span>
                 </ion-col>
-                <ion-col col-12 col-sm-9>
+                <ion-col col-12 col-sm-6>
 
                   <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.phone.length > 0" (click)="onClickShowInputPhone()"
                     tappable>{{
@@ -302,6 +304,10 @@
                     <ion-input (focus)="scrollToPhone()" type="number" placeholder="Nhập số điện thoại" [(ngModel)]="mCustomer.phone"></ion-input>
                   </ion-item>
                 </ion-col>
+
+                <ion-col col-12 col-sm-6>
+                  <div class="green-color">Nhân viên Viettel sẽ liên lạc theo số điện thoại này</div>
+                </ion-col>
               </ion-row>
 
               <ion-row class="no-margin">
@@ -311,57 +317,102 @@
                 </ion-col>
               </ion-row>
 
+              <ion-row align-items-center [hidden]="mHinhThucSelected.id == 2">
+                <ion-col col-12 col-sm-12>
+                  Loại hình khách hàng
+                </ion-col>
+
+                <ion-col col-6 col-sm-6 (click)="onClickTypePerson(1)" tappable>
+                  <div class="a3-container a3-items-center">
+                    <div class="f-circle a3-container-center" [class.selected]="mTypePerson == 1">
+                      <ion-icon name="checkmark" [hidden]="mTypePerson == 2"></ion-icon>
+                    </div>
+                    <div class="f-text" [class.selected]="mTypePerson == 1">Cá nhân</div>
+                  </div>
+                </ion-col>
+
+                <ion-col col-6 col-sm-6 (click)="onClickTypePerson(2)" tappable>
+                  <div class="a3-container a3-items-center">
+                    <div class="f-circle a3-container-center" [class.selected]="mTypePerson == 2">
+                      <ion-icon name="checkmark" [hidden]="mTypePerson == 1"></ion-icon>
+                    </div>
+                    <div class="f-text" [class.selected]="mTypePerson == 2">Doanh nghiệp</div>
+                  </div>
+
+                </ion-col>
+
+              </ion-row>
+
+              <!-- ========= -->
+              <ion-row align-items-center [hidden]="mHinhThucSelected.id == 2">
+                <ion-col col-12 col-sm-12>
+                  Số lượng sim đăng ký
+                </ion-col>
+
+                <ion-col col-12 col-sm-12>
+                  <div *ngIf="isIosMobile" class="fake-input hastext" (click)="onClickShowInputNumberSim()" tappable>{{mNumberSim}}</div>
+                  <ion-item *ngIf="!isIosMobile" no-padding no-border class="item-input">
+                    <ion-input type="number" [(ngModel)]="mNumberSim"></ion-input>
+                  </ion-item>
+                </ion-col>
+              </ion-row>
+
 
               <ion-row align-items-center>
-                <ion-col col-12 col-sm-2>
-                  Địa chỉ (*):
+                <ion-col col-12 col-sm-12>
+                  Địa chỉ <span style="color:red">(*)</span>
+                </ion-col>
+              </ion-row>
+
+              <ion-row>
+                <ion-col col-12 col-sm-4 class="a1-relative">
+                  <div (click)="onClickCity()" tappable class="fake-select" [class.has-text]="mCityName.length > 0">
+                    {{mCityName || 'Tỉnh/thành phố'}}
+                  </div>
+
+                  <div class="a1-absolute fake-select-arrow">
+                    <ion-icon name="md-arrow-dropdown"></ion-icon>
+                  </div>
+                </ion-col>
+                <ion-col col-12 col-sm-4 class="a1-relative">
+                  <div tappable (click)="onClickDistrict()" class="fake-select" [class.has-text]="mDistrictName.length > 0">
+                    {{mDistrictName || 'Quận/huyện'}}
+                  </div>
+                  <div class="a1-absolute fake-select-arrow">
+                    <ion-icon name="md-arrow-dropdown"></ion-icon>
+                  </div>
+                </ion-col>
+                <ion-col col-12 col-sm-4 class="a1-relative">
+                  <div tappable (click)="onClickCommune()" class="fake-select" [class.has-text]="mCommuneName.length > 0">
+                    {{mCommuneName || 'Phường/xã'}}
+                  </div>
+
+                  <div class="a1-absolute fake-select-arrow">
+                    <ion-icon name="md-arrow-dropdown"></ion-icon>
+                  </div>
                 </ion-col>
 
-                <ion-col col-12 col-sm-9>
-                  <ion-row>
-                    <ion-col col-6 col-sm-4 style="padding-left: 0">
-                      <div (click)="onClickCity()" tappable class="fake-select" [class.has-text]="mCityName.length > 0">
-                        {{mCityName || 'Tỉnh/thành phố'}}
-                      </div>
-                    </ion-col>
-                    <ion-col class="padding-xs right" col-6 col-sm-4>
-                      <div tappable (click)="onClickDistrict()" class="fake-select" [class.has-text]="mDistrictName.length > 0">
-                        {{mDistrictName || 'Quận/huyện'}}
-                      </div>
-                    </ion-col>
-                    <ion-col class="padding-xs left" col-6 col-sm-4 style="padding-right: 8px">
-                      <div tappable (click)="onClickCommune()" class="fake-select" [class.has-text]="mCommuneName.length > 0">
-                        {{mCommuneName || 'Phường/xã'}}
-                      </div>
-                    </ion-col>
-                  </ion-row>
+
+              </ion-row>
+
+              <ion-row align-items-center>
+                <ion-col col-12 col-sm-12>
+                  Địa chỉ chi tiết:
                 </ion-col>
 
-                <ion-col col-12 col-sm-9 offset-sm-2>
+                <ion-col col-12 col-sm-12>
 
                   <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.address.length > 0" (click)="onClickShowInputAddress()"
                     tappable>{{
-                    mCustomer.address || 'số nhà, tên đường, tổ/thôn'}}</div>
+                    mCustomer.address || 'Số nhà, tên đường, tổ/thôn'}}</div>
 
                   <ion-item *ngIf="!isIosMobile" no-padding no-border class="item-input">
-                    <ion-input (focus)="scrollToAddress()" type="text" placeholder="số nhà, tên đường, tổ/thôn"
+                    <ion-input (focus)="scrollToAddress()" type="text" placeholder="Số nhà, tên đường, tổ/thôn"
                       [(ngModel)]="mCustomer.address"></ion-input>
                   </ion-item>
                 </ion-col>
-
               </ion-row>
 
-              <!-- <ion-row align-items-center id="addressID">
-                <ion-col col-12 col-sm-2>
-                </ion-col>
-
-              </ion-row> -->
-
-              <ion-row class="no-margin">
-                <ion-col col-12 col-sm-9 offset-sm-2>
-                  <div [hidden]="isRequireAdress" class="red-color">Chưa có địa chỉ</div>
-                </ion-col>
-              </ion-row>
 
               <!-- <ion-row align-items-center>
                 <ion-col col-12 col-sm-2>
@@ -422,7 +473,7 @@
 
             </div>
 
-            <div class="goicuoc border-radius white-bg box-shadow" margin-top>
+            <div class="goicuoc border-radius white-bg box-shadow" margin-top [hidden]="mHinhThucSelected.id == 1">
               <div padding-bottom padding-top class="blue-color">Gói cước</div>
 
               <div [hidden]="!mGoiCuocSelected || mGoiCuocSelected.name.length == 0">
@@ -453,15 +504,16 @@
 
     </div>
 
-    <div class="primary-bg"></div>
-    <div class="yellow-bg"></div>
+    <!-- <div class="primary-bg"></div> -->
+    <!-- <div class="yellow-bg"></div> -->
   </div>
 
-  <!-- <ion-fab bottom left>
-    <button ion-fab class="btn-call" (click)="onClickCall()">
-      <ion-icon name="call" class="animated pulse infinite"></ion-icon>
+  <ion-fab bottom right>
+    <button ion-fab (click)="onClickAddFab()">
+      <ion-icon name="add" class="animated pulse"></ion-icon>
     </button>
-  </ion-fab> -->
+  </ion-fab>
+
 
 
 </ion-content>

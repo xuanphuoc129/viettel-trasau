@@ -213,7 +213,7 @@
         },
         {
             "code": "024",
-            "name": "Thành phố Hà Giang",
+            "name": "Hà Giang",
             "cap": "Thành phố",
             "ma_tp": "02",
             "tinh_tp": "Tỉnh Hà Giang"
@@ -290,7 +290,7 @@
         },
         {
             "code": "040",
-            "name": "Thành phố Cao Bằng",
+            "name": "Cao Bằng",
             "cap": "Thành phố",
             "ma_tp": "04",
             "tinh_tp": "Tỉnh Cao Bằng"
@@ -381,7 +381,7 @@
         },
         {
             "code": "058",
-            "name": "Thành Phố Bắc Kạn",
+            "name": "Bắc Kạn",
             "cap": "Thành phố",
             "ma_tp": "06",
             "tinh_tp": "Tỉnh Bắc Kạn"
@@ -437,7 +437,7 @@
         },
         {
             "code": "070",
-            "name": "Thành phố Tuyên Quang",
+            "name": "Tuyên Quang",
             "cap": "Thành phố",
             "ma_tp": "08",
             "tinh_tp": "Tỉnh Tuyên Quang"
@@ -486,7 +486,7 @@
         },
         {
             "code": "080",
-            "name": "Thành phố Lào Cai",
+            "name": "Lào Cai",
             "name_eng": "Lao Cai City",
             "cap": "Thành phố",
             "ma_tp": "10",
@@ -550,7 +550,7 @@
         },
         {
             "code": "094",
-            "name": "Thành phố Điện Biên Phủ",
+            "name": "Điện Biên Phủ",
             "cap": "Thành phố",
             "ma_tp": "11",
             "tinh_tp": "Tỉnh Điện Biên"
@@ -620,7 +620,7 @@
         },
         {
             "code": "105",
-            "name": "Thành phố Lai Châu",
+            "name": "Lai Châu",
             "cap": "Thành phố",
             "ma_tp": "12",
             "tinh_tp": "Tỉnh Lai Châu"
@@ -676,7 +676,7 @@
         },
         {
             "code": "116",
-            "name": "Thành phố Sơn La",
+            "name": "Sơn La",
             "cap": "Thành phố",
             "ma_tp": "14",
             "tinh_tp": "Tỉnh Sơn La"
@@ -760,7 +760,7 @@
         },
         {
             "code": "132",
-            "name": "Thành phố Yên Bái",
+            "name": "Yên Bái",
             "cap": "Thành phố",
             "ma_tp": "15",
             "tinh_tp": "Tỉnh Yên Bái"
@@ -823,7 +823,7 @@
         },
         {
             "code": "148",
-            "name": "Thành phố Hòa Bình",
+            "name": "Hòa Bình",
             "name_eng": "Hòa Bình City",
             "cap": "Thành phố",
             "ma_tp": "17",
@@ -901,14 +901,14 @@
         },
         {
             "code": "164",
-            "name": "Thành phố Thái Nguyên",
+            "name": "Thái Nguyên",
             "cap": "Thành phố",
             "ma_tp": "19",
             "tinh_tp": "Tỉnh Thái Nguyên"
         },
         {
             "code": "165",
-            "name": "Thành phố Sông Công",
+            "name": "Sông Công",
             "cap": "Thành phố",
             "ma_tp": "19",
             "tinh_tp": "Tỉnh Thái Nguyên"
@@ -964,7 +964,7 @@
         },
         {
             "code": "178",
-            "name": "Thành phố Lạng Sơn",
+            "name": "Lạng Sơn",
             "cap": "Thành phố",
             "ma_tp": "20",
             "tinh_tp": "Tỉnh Lạng Sơn"
@@ -1041,28 +1041,28 @@
         },
         {
             "code": "193",
-            "name": "Thành phố Hạ Long",
+            "name": "Hạ Long",
             "cap": "Thành phố",
             "ma_tp": "22",
             "tinh_tp": "Tỉnh Quảng Ninh"
         },
         {
             "code": "194",
-            "name": "Thành phố Móng Cái",
+            "name": "Móng Cái",
             "cap": "Thành phố",
             "ma_tp": "22",
             "tinh_tp": "Tỉnh Quảng Ninh"
         },
         {
             "code": "195",
-            "name": "Thành phố Cẩm Phả",
+            "name": "Cẩm Phả",
             "cap": "Thành phố",
             "ma_tp": "22",
             "tinh_tp": "Tỉnh Quảng Ninh"
         },
         {
             "code": "196",
-            "name": "Thành phố Uông Bí",
+            "name": "Uông Bí",
             "cap": "Thành phố",
             "ma_tp": "22",
             "tinh_tp": "Tỉnh Quảng Ninh"
@@ -1139,7 +1139,7 @@
         },
         {
             "code": "213",
-            "name": "Thành phố Bắc Giang",
+            "name": "Bắc Giang",
             "name_eng": "Bac Giang city",
             "cap": "Thành phố",
             "ma_tp": "24",
@@ -1210,7 +1210,7 @@
         },
         {
             "code": "227",
-            "name": "Thành phố Việt Trì",
+            "name": "Việt Trì",
             "cap": "Thành phố",
             "ma_tp": "25",
             "tinh_tp": "Tỉnh Phú Thọ"
@@ -1301,7 +1301,7 @@
         },
         {
             "code": "243",
-            "name": "Thành phố Vĩnh Yên",
+            "name": "Vĩnh Yên",
             "name_eng": "Vĩnh Yên City",
             "cap": "Thành phố",
             "ma_tp": "26",
@@ -1365,7 +1365,7 @@
         },
         {
             "code": "256",
-            "name": "Thành phố Bắc Ninh",
+            "name": "Bắc Ninh",
             "name_eng": "Bac Ninh City",
             "cap": "Thành phố",
             "ma_tp": "27",
@@ -1422,7 +1422,7 @@
         },
         {
             "code": "288",
-            "name": "Thành phố Hải Dương",
+            "name": "Hải Dương",
             "cap": "Thành phố",
             "ma_tp": "30",
             "tinh_tp": "Tỉnh Hải Dương"
@@ -1611,7 +1611,7 @@
         },
         {
             "code": "323",
-            "name": "Thành phố Hưng Yên",
+            "name": "Hưng Yên",
             "cap": "Thành phố",
             "ma_tp": "33",
             "tinh_tp": "Tỉnh Hưng Yên"
@@ -1681,7 +1681,7 @@
         },
         {
             "code": "336",
-            "name": "Thành phố Thái Bình",
+            "name": "Thái Bình",
             "cap": "Thành phố",
             "ma_tp": "34",
             "tinh_tp": "Tỉnh Thái Bình"
@@ -1737,7 +1737,7 @@
         },
         {
             "code": "347",
-            "name": "Thành phố Phủ Lý",
+            "name": "Phủ Lý",
             "cap": "Thành phố",
             "ma_tp": "35",
             "tinh_tp": "Tỉnh Hà Nam"
@@ -1779,7 +1779,7 @@
         },
         {
             "code": "356",
-            "name": "Thành phố Nam Định",
+            "name": "Nam Định",
             "cap": "Thành phố",
             "ma_tp": "36",
             "tinh_tp": "Tỉnh Nam Định"
@@ -1849,14 +1849,14 @@
         },
         {
             "code": "369",
-            "name": "Thành phố Ninh Bình",
+            "name": "Ninh Bình",
             "cap": "Thành phố",
             "ma_tp": "37",
             "tinh_tp": "Tỉnh Ninh Bình"
         },
         {
             "code": "370",
-            "name": "Thành phố Tam Điệp",
+            "name": "Tam Điệp",
             "cap": "Thành phố",
             "ma_tp": "37",
             "tinh_tp": "Tỉnh Ninh Bình"
@@ -1905,7 +1905,7 @@
         },
         {
             "code": "380",
-            "name": "Thành phố Thanh Hóa",
+            "name": "Thanh Hóa",
             "cap": "Thành phố",
             "ma_tp": "38",
             "tinh_tp": "Tỉnh Thanh Hóa"
@@ -1919,7 +1919,7 @@
         },
         {
             "code": "382",
-            "name": "Thành phố Sầm Sơn",
+            "name": "Sầm Sơn",
             "cap": "Thành phố",
             "ma_tp": "38",
             "tinh_tp": "Tỉnh Thanh Hóa"
@@ -2094,7 +2094,7 @@
         },
         {
             "code": "412",
-            "name": "Thành phố Vinh",
+            "name": "Vinh",
             "cap": "Thành phố",
             "ma_tp": "40",
             "tinh_tp": "Tỉnh Nghệ An"
@@ -2241,7 +2241,7 @@
         },
         {
             "code": "436",
-            "name": "Thành phố Hà Tĩnh",
+            "name": "Hà Tĩnh",
             "cap": "Thành phố",
             "ma_tp": "42",
             "tinh_tp": "Tỉnh Hà Tĩnh"
@@ -2332,7 +2332,7 @@
         },
         {
             "code": "450",
-            "name": "Thành Phố Đồng Hới",
+            "name": "Đồng Hới",
             "name_eng": "Dong Hoi City",
             "cap": "Thành phố",
             "ma_tp": "44",
@@ -2389,7 +2389,7 @@
         },
         {
             "code": "461",
-            "name": "Thành phố Đông Hà",
+            "name": "Đông Hà",
             "cap": "Thành phố",
             "ma_tp": "45",
             "tinh_tp": "Tỉnh Quảng Trị"
@@ -2459,7 +2459,7 @@
         },
         {
             "code": "474",
-            "name": "Thành phố Huế",
+            "name": "Huế",
             "cap": "Thành phố",
             "ma_tp": "46",
             "tinh_tp": "Tỉnh Thừa Thiên Huế"
@@ -2578,14 +2578,14 @@
         },
         {
             "code": "502",
-            "name": "Thành phố Tam Kỳ",
+            "name": "Tam Kỳ",
             "cap": "Thành phố",
             "ma_tp": "49",
             "tinh_tp": "Tỉnh Quảng Nam"
         },
         {
             "code": "503",
-            "name": "Thành phố Hội An",
+            "name": "Hội An",
             "cap": "Thành phố",
             "ma_tp": "49",
             "tinh_tp": "Tỉnh Quảng Nam"
@@ -2705,7 +2705,7 @@
         },
         {
             "code": "522",
-            "name": "Thành phố Quảng Ngãi",
+            "name": "Quảng Ngãi",
             "cap": "Thành phố",
             "ma_tp": "51",
             "tinh_tp": "Tỉnh Quảng Ngãi"
@@ -2803,7 +2803,7 @@
         },
         {
             "code": "540",
-            "name": "Thành phố Qui Nhơn",
+            "name": "Qui Nhơn",
             "cap": "Thành phố",
             "ma_tp": "52",
             "tinh_tp": "Tỉnh Bình Định"
@@ -2880,7 +2880,7 @@
         },
         {
             "code": "555",
-            "name": "Thành phố Tuy Hoà",
+            "name": "Tuy Hoà",
             "name_eng": "Tuy Hoa City",
             "cap": "Thành phố",
             "ma_tp": "54",
@@ -2946,14 +2946,14 @@
         },
         {
             "code": "568",
-            "name": "Thành phố Nha Trang",
+            "name": "Nha Trang",
             "cap": "Thành phố",
             "ma_tp": "56",
             "tinh_tp": "Tỉnh Khánh Hòa"
         },
         {
             "code": "569",
-            "name": "Thành phố Cam Ranh",
+            "name": "Cam Ranh",
             "cap": "Thành phố",
             "ma_tp": "56",
             "tinh_tp": "Tỉnh Khánh Hòa"
@@ -3009,7 +3009,7 @@
         },
         {
             "code": "582",
-            "name": "Thành phố Phan Rang-Tháp Chàm",
+            "name": "Phan Rang-Tháp Chàm",
             "cap": "Thành phố",
             "ma_tp": "58",
             "tinh_tp": "Tỉnh Ninh Thuận"
@@ -3059,7 +3059,7 @@
         },
         {
             "code": "593",
-            "name": "Thành phố Phan Thiết",
+            "name": "Phan Thiết",
             "cap": "Thành phố",
             "ma_tp": "60",
             "tinh_tp": "Tỉnh Bình Thuận"
@@ -3129,7 +3129,7 @@
         },
         {
             "code": "608",
-            "name": "Thành phố Kon Tum",
+            "name": "Kon Tum",
             "cap": "Thành phố",
             "ma_tp": "62",
             "tinh_tp": "Tỉnh Kon Tum"
@@ -3200,7 +3200,7 @@
         },
         {
             "code": "622",
-            "name": "Thành phố Pleiku",
+            "name": "Pleiku",
             "cap": "Thành phố",
             "ma_tp": "64",
             "tinh_tp": "Tỉnh Gia Lai"
@@ -3319,7 +3319,7 @@
         },
         {
             "code": "643",
-            "name": "Thành phố Buôn Ma Thuột",
+            "name": "Buôn Ma Thuột",
             "cap": "Thành phố",
             "ma_tp": "66",
             "tinh_tp": "Tỉnh Đắk Lắk"
@@ -3481,14 +3481,14 @@
         },
         {
             "code": "672",
-            "name": "Thành phố Đà Lạt",
+            "name": "Đà Lạt",
             "cap": "Thành phố",
             "ma_tp": "68",
             "tinh_tp": "Tỉnh Lâm Đồng"
         },
         {
             "code": "673",
-            "name": "Thành phố Bảo Lộc",
+            "name": "Bảo Lộc",
             "cap": "Thành phố",
             "ma_tp": "68",
             "tinh_tp": "Tỉnh Lâm Đồng"
@@ -3643,7 +3643,7 @@
         },
         {
             "code": "703",
-            "name": "Thành phố Tây Ninh",
+            "name": "Tây Ninh",
             "cap": "Thành phố",
             "ma_tp": "72",
             "tinh_tp": "Tỉnh Tây Ninh"
@@ -3706,7 +3706,7 @@
         },
         {
             "code": "718",
-            "name": "Thành phố Thủ Dầu Một",
+            "name": "Thủ Dầu Một",
             "cap": "Thành phố",
             "ma_tp": "74",
             "tinh_tp": "Tỉnh Bình Dương"
@@ -3769,7 +3769,7 @@
         },
         {
             "code": "731",
-            "name": "Thành phố Biên Hòa",
+            "name": "Biên Hòa",
             "cap": "Thành phố",
             "ma_tp": "75",
             "tinh_tp": "Tỉnh Đồng Nai"
@@ -3846,14 +3846,14 @@
         },
         {
             "code": "747",
-            "name": "Thành phố Vũng Tàu",
+            "name": "Vũng Tàu",
             "cap": "Thành phố",
             "ma_tp": "77",
             "tinh_tp": "Tỉnh Bà Rịa - Vũng Tàu"
         },
         {
             "code": "748",
-            "name": "Thành phố Bà Rịa",
+            "name": "Bà Rịa",
             "cap": "Thành phố",
             "ma_tp": "77",
             "tinh_tp": "Tỉnh Bà Rịa - Vũng Tàu"
@@ -3902,56 +3902,56 @@
         },
         {
             "code": "760",
-            "name": "Quận 1",
+            "name": "1",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "769",
-            "name": "Quận 2",
+            "name": "2",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "770",
-            "name": "Quận 3",
+            "name": "3",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "773",
-            "name": "Quận 4",
+            "name": "4",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "774",
-            "name": "Quận 5",
+            "name": "5",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "775",
-            "name": "Quận 6",
+            "name": "6",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "778",
-            "name": "Quận 7",
+            "name": "7",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "776",
-            "name": "Quận 8",
+            "name": "8",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
@@ -3965,7 +3965,7 @@
         },
         {
             "code": "763",
-            "name": "Quận 9",
+            "name": "9",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
@@ -4008,21 +4008,21 @@
         
         {
             "code": "771",
-            "name": "Quận 10",
+            "name": "10",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "772",
-            "name": "Quận 11",
+            "name": "11",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
         },
         {
             "code": "761",
-            "name": "Quận 12",
+            "name": "12",
             "cap": "Quận",
             "ma_tp": "79",
             "tinh_tp": "Thành phố Hồ Chí Minh"
@@ -4073,7 +4073,7 @@
         },
         {
             "code": "794",
-            "name": "Thành phố Tân An",
+            "name": "Tân An",
             "cap": "Thành phố",
             "ma_tp": "80",
             "tinh_tp": "Tỉnh Long An"
@@ -4178,7 +4178,7 @@
         },
         {
             "code": "815",
-            "name": "Thành phố Mỹ Tho",
+            "name": "Mỹ Tho",
             "cap": "Thành phố",
             "ma_tp": "82",
             "tinh_tp": "Tỉnh Tiền Giang"
@@ -4255,7 +4255,7 @@
         },
         {
             "code": "829",
-            "name": "Thành phố Bến Tre",
+            "name": "Bến Tre",
             "cap": "Thành phố",
             "ma_tp": "83",
             "tinh_tp": "Tỉnh Bến Tre"
@@ -4318,7 +4318,7 @@
         },
         {
             "code": "842",
-            "name": "Thành phố Trà Vinh",
+            "name": "Trà Vinh",
             "cap": "Thành phố",
             "ma_tp": "84",
             "tinh_tp": "Tỉnh Trà Vinh"
@@ -4381,7 +4381,7 @@
         },
         {
             "code": "855",
-            "name": "Thành phố Vĩnh Long",
+            "name": "Vĩnh Long",
             "cap": "Thành phố",
             "ma_tp": "86",
             "tinh_tp": "Tỉnh Vĩnh Long"
@@ -4437,14 +4437,14 @@
         },
         {
             "code": "866",
-            "name": "Thành phố Cao Lãnh",
+            "name": "Cao Lãnh",
             "cap": "Thành phố",
             "ma_tp": "87",
             "tinh_tp": "Tỉnh Đồng Tháp"
         },
         {
             "code": "867",
-            "name": "Thành phố Sa Đéc",
+            "name": "Sa Đéc",
             "cap": "Thành phố",
             "ma_tp": "87",
             "tinh_tp": "Tỉnh Đồng Tháp"
@@ -4521,14 +4521,14 @@
         },
         {
             "code": "883",
-            "name": "Thành phố Long Xuyên",
+            "name": "Long Xuyên",
             "cap": "Thành phố",
             "ma_tp": "89",
             "tinh_tp": "Tỉnh An Giang"
         },
         {
             "code": "884",
-            "name": "Thành phố Châu Đốc",
+            "name": "Châu Đốc",
             "cap": "Thành phố",
             "ma_tp": "89",
             "tinh_tp": "Tỉnh An Giang"
@@ -4598,7 +4598,7 @@
         },
         {
             "code": "899",
-            "name": "Thành phố Rạch Giá",
+            "name": "Rạch Giá",
             "name_eng": "Rach Gia city",
             "cap": "Thành phố",
             "ma_tp": "91",
@@ -4767,7 +4767,7 @@
         },
         {
             "code": "930",
-            "name": "Thành phố Vị Thanh",
+            "name": "Vị Thanh",
             "cap": "Thành phố",
             "ma_tp": "93",
             "tinh_tp": "Tỉnh Hậu Giang"
@@ -4823,7 +4823,7 @@
         },
         {
             "code": "941",
-            "name": "Thành phố Sóc Trăng",
+            "name": "Sóc Trăng",
             "cap": "Thành phố",
             "ma_tp": "94",
             "tinh_tp": "Tỉnh Sóc Trăng"
@@ -4900,7 +4900,7 @@
         },
         {
             "code": "954",
-            "name": "Thành phố Bạc Liêu",
+            "name": "Bạc Liêu",
             "cap": "Thành phố",
             "ma_tp": "95",
             "tinh_tp": "Tỉnh Bạc Liêu"
@@ -4950,7 +4950,7 @@
         },
         {
             "code": "964",
-            "name": "Thành phố Cà Mau",
+            "name": "Cà Mau",
             "cap": "Thành phố",
             "ma_tp": "96",
             "tinh_tp": "Tỉnh Cà Mau"

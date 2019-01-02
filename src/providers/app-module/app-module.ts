@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Http, Headers } from '@angular/http';
 import 'rxjs/add/operator/map';
 import { AppConfig } from './app-config';
-import { AlertController, ToastController } from 'ionic-angular';
+import { AlertController, ToastController, ModalController } from 'ionic-angular';
 import { EmailConfig } from '../class/email-config';
 import { StorageController } from './storage';
 import { Storage } from '@ionic/storage';
@@ -26,6 +26,7 @@ export class AppModuleProvider {
   private mDistrictManager: DistrictManager = null;
 
   constructor(
+    public mModalController: ModalController,
     public mStorage: Storage,
     public mToastController: ToastController,
     public mAlertController: AlertController,
@@ -57,6 +58,19 @@ export class AppModuleProvider {
         this.getDistrictManager().onResponseCommunes(data["xa_phuong"]);
       }
     })
+  }
+
+  public showModal(page, params?: any, callback?: any): void {
+    let modal = this.mModalController.create(page, params ? params : null, {
+      enterAnimation: "fade-in",
+      leaveAnimation: "fade-out"
+    });
+    modal.present();
+    modal.onDidDismiss(data => {
+      if (callback) {
+        callback(data);
+      }
+    });
   }
 
 
