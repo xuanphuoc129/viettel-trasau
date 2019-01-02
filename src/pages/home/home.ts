@@ -547,7 +547,7 @@ export class HomePage {
         let l8 = this.mCommuneName + ", " + this.mDistrictName + ", " + this.mCityName + ";";
 
         if (this.mHinhThucSelected.id == 1) {
-            return l1 + l4 + l5 + l9 + l10 + l6 + l8;
+            return l1 + l4 + l5 + l10 + l9 + l6 + l8;
         } else {
             return l1 + l3 +l4 + l5 + l6 + l8;
         }
