@@ -460,7 +460,7 @@ export class HomePage {
     isRequireAdress = true;
     isClickAccept: boolean = false;
     onClickAccept() {
-        console.log(1);
+        // console.log(1);
         if (this.isClickAccept) return;
         this.isClickAccept = true;
         let check = this.checkForm();
@@ -491,7 +491,7 @@ export class HomePage {
         //     return;
         // }
 
-        if (this.mGoiCuocSelected.id == "") {
+        if (this.mGoiCuocSelected.id == "" && this.mHinhThucSelected.id == 2) {
             this.mAppModule.showToast("Bạn chưa chọn gói cước");
             this.isClickAccept = false;
             return;
@@ -499,7 +499,7 @@ export class HomePage {
 
         this.mAppModule.getStorageController().getDataFromStorage("time_send").then((res) => {
             if (res) {
-                console.log(res);
+                // console.log(res);
 
                 let time = parseInt(res);
                 let nowTime = new Date().getTime();
