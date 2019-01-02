@@ -444,13 +444,7 @@ export class HomePage {
         } else {
             this.isRequirePhone = true;
         }
-
-        if (this.mCustomer.address.trim() == '') {
-            this.isRequireAdress = false;
-            return false;
-        } else {
-            this.isRequireAdress = true;
-        }
+      
 
         return true;
     }
@@ -468,7 +462,7 @@ export class HomePage {
             this.isClickAccept = false;
             return;
         }
-        if (!this.isRequireName || !this.isRequirePhone || !this.isRequireAdress) {
+        if (!this.isRequireName || !this.isRequirePhone) {
             this.isClickAccept = false;
             return;
         }
