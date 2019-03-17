@@ -43,6 +43,12 @@ export class AppModuleProvider {
   }
 
   public onLoadDistrict() {
+    // this.onReadFileJson("./assets/data/xa_phuong.json").then((data) => {
+    //   if (data) {
+    //     this.getDistrictManager().onResponseCommunes(data["xa_phuong"]);
+    //   }
+    // })
+    
     this.onReadFileJson("./assets/data/tinh_tp.json").then((data) => {
       if (data) {
         this.getDistrictManager().onResponseCity(data["tinh_tp"]);
@@ -53,11 +59,7 @@ export class AppModuleProvider {
         this.getDistrictManager().onResponseDistrict(data["quan_huyen"]);
       }
     })
-    this.onReadFileJson("./assets/data/xa_phuong.json").then((data) => {
-      if (data) {
-        this.getDistrictManager().onResponseCommunes(data["xa_phuong"]);
-      }
-    })
+   
   }
 
   public showModal(page, params?: any, callback?: any): void {

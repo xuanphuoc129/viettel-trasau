@@ -145,10 +145,10 @@ export class DistrictManager {
             });
         }
 
-        this._mCommunes.sort((a, b) => {
-            if (Utils.bodauTiengViet(a.name) < Utils.bodauTiengViet(b.name)) { return -1; }
-            if (Utils.bodauTiengViet(a.name) > Utils.bodauTiengViet(b.name)) { return 1; }
-            return 0;
-        })
+        // this._mCommunes.sort((a, b) => {
+        //     if (Utils.bodauTiengViet(a.name) < Utils.bodauTiengViet(b.name)) { return -1; }
+        //     if (Utils.bodauTiengViet(a.name) > Utils.bodauTiengViet(b.name)) { return 1; }
+        //     return 0;
+        // })
     }
 }

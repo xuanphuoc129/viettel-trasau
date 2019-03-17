@@ -404,13 +404,14 @@
 
                   <div *ngIf="isIosMobile" class="fake-input" [class.hastext]="mCustomer.address.length > 0" (click)="onClickShowInputAddress()"
                     tappable>{{
-                    mCustomer.address || 'Số nhà, tên đường, tổ/thôn'}}</div>
+                    mCustomer.address || 'Số nhà, tên đường, tổ/thôn hiện tại'}}</div>
 
                   <ion-item *ngIf="!isIosMobile" no-padding no-border class="item-input">
-                    <ion-input (focus)="scrollToAddress()" type="text" placeholder="Số nhà, tên đường, tổ/thôn"
+                    <ion-input (focus)="scrollToAddress()" type="text" placeholder="Số nhà, tên đường, tổ/thôn hiện tại"
                       [(ngModel)]="mCustomer.address"></ion-input>
                   </ion-item>
                 </ion-col>
+               
               </ion-row>
 
 

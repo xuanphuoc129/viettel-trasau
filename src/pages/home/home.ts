@@ -123,6 +123,10 @@ export class HomePage {
         })
 
         this.mScrollController = new ScrollController();
+
+        this.mAppModule.onReadFileJson("./assets/data/xa_phuong.json").then((data)=>{
+            this.mAppModule.getDistrictManager().onResponseCommunes(data["xa_phuong"]);
+        })
     }
 
     onClickTypePerson(type) {
@@ -338,7 +342,6 @@ export class HomePage {
 
         this.mAppModule.onLoadAppConfig().then(() => {
             // this.onLoadSims();
-            this.onLoadGoiCuoc();
             this.onLoadItems();
             this.onLoadPhoneNumber();
             this.onLoadSearchHint();
