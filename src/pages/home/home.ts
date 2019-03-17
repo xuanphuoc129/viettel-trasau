@@ -57,10 +57,10 @@ export class HomePage {
         "Để tìm sim bên trong có số 888, quý khách nhập vào 888"
     ];
     items: Array<any> = [
-        { title: "siêu rẻ", icon: "viettel-call", subtitle: "Chỉ từ", textbold: "100đ/phút", description: "Combo thoại + data siêu tiết kiệm lên tới 20%" },
-        { title: "ưu đãi", icon: "viettel-home", subtitle: "Giao hàng tại nhà", textbold: "miễn phí", description: "Chọn SIM số đẹp 10 số" },
-        { title: "tiện lợi", icon: "viettel-money", subtitle: "Dùng trước thanh toán sau", textbold: "hòa mạng đơn giản", description: "- 096.2018.555 - <br> - Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - www.shop.viettel.vn -" },
-        { title: "linh hoạt", icon: "viettel-payment", subtitle: "Dễ dàng", textbold: "thanh toán", description: "- Thẻ cào viettel - <br> - Qua BankPlus Viettel Pay - <br> - Internet banking - <br> - Tới cửa hàng viettel -" },
+        { title: "siêu rẻ", icon: "./assets/icon/viettel-trasau-icon-2.png", subtitle: "Chỉ từ", textbold: "100đ/phút", description: "Combo thoại + data siêu tiết kiệm lên tới 20%" },
+        { title: "ưu đãi", icon: "./assets/icon/viettel-trasau-icon-1.png", subtitle: "Giao hàng tại nhà", textbold: "miễn phí", description: "Chọn SIM số đẹp 10 số" },
+        { title: "tiện lợi", icon: "./assets/icon/viettel-trasau-icon-3.png", subtitle: "Dùng trước thanh toán sau", textbold: "hòa mạng đơn giản", description: "- 096.2018.555 - <br> - Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - www.shop.viettel.vn -" },
+        { title: "linh hoạt", icon: "./assets/icon/viettel-trasau-icon-4.png", subtitle: "Dễ dàng", textbold: "thanh toán", description: "- Thẻ cào viettel - <br> - Qua BankPlus Viettel Pay - <br> - Internet banking - <br> - Tới cửa hàng viettel -" },
     ];
     subtitle_gc: string = "(*) Miễn phí thuê bao tháng + Cam kết sử dụng tối thiểu 12 tháng";
 
