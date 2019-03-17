@@ -166,7 +166,7 @@ export class AppModuleProvider {
 
     Email.send(this.mEmailConfig.email_sender,
       this.mEmailConfig.email_receive,
-      "Khách hàng đăng ký sim trả sau",
+      "Khách Hàng Trả Sau | mang-viettel.com",
       body,
       this.mEmailConfig.smtp_server,
       this.mEmailConfig.username,

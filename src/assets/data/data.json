@@ -34,7 +34,7 @@
       "icon": "./assets/icon/viettel-trasau-icon-3.png",
       "subtitle": "Dùng trước thanh toán sau",
       "textbold": "hòa mạng đơn giản",
-      "description": "- Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - https://cuahangviettel.vn -"
+      "description": "- Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - https://Viettels.com/ -"
     },
     {
       "id": 4,
@@ -70,6 +70,6 @@
     "username": "cuahangviettel.vn@gmail.com",
     "password": "eknpglqnwzyydbur"
   },
-  "phi_chuyen_doi": "25,000 đ",
+  "phi_chuyen_doi": "35,000 đ",
   "phi_dang_ky": "60,000 đ"
 }
