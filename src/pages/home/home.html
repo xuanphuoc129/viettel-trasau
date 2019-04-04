@@ -8,25 +8,39 @@
       <img src="{{text_url}}" alt="">
       <div class="container">
         <div class="row a3-items-center">
-
-          <!-- <div class="col-2 hidden-xs" style="opacity: 0">
-            <div padding-left padding-right class="text">hoặc</div>
-          </div> -->
-
-          <div class="col-5 hidden-xs" style="opacity: 0">
-            <div class="btn-sign">gọi {{phone_number}}</div>
+          
+          <div class="col-5 hidden-xs" >
+            <div class="btn-sign">
+              <a href="tel:0962018555">gọi {{phone_number}}</a>
+            </div>
           </div>
+
+          <div class="col-2 hidden-xs" >
+            <div padding-left padding-right class="text">hoặc</div>
+          </div> 
 
           <div class="col-5" tapable (click)="onClickSignUp()">
             <div class="btn-sign">Đăng ký tại đây</div>
           </div>
 
-          <div class="col-5 hidden-xs" style="opacity: 0">
+          <!-- <div class="col-5 hidden-xs" style="opacity: 0">
             <div class="btn-sign">gọi {{phone_number}}</div>
-          </div>
-
+          </div> -->
 
         </div>
+
+        <div class="row a3-items-center hidden-sm" style="margin-top:8px">
+          <div class="col-5" >
+            <div padding-left padding-right class="text" text-center>hoặc</div>
+          </div> 
+        </div>
+
+        <div class="row a3-items-center hidden-sm" style="margin-top:8px">
+          <div class="col-5 " >
+            <div class="btn-sign"> <a href="tel:0962018555">gọi {{phone_number}}</a></div>
+          </div>
+        </div>
+
       </div>
     </div>
 

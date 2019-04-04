@@ -81,9 +81,14 @@ page-home {
       .text {
         font-weight: bold;
         text-transform: capitalize;
+       
       }
 
       .btn-sign {
+        a{
+          text-decoration: unset;
+          color: #fff;
+        }
         background: -webkit-linear-gradient(to right, #F37335, #FDC830);
         /* Chrome 10-25, Safari 5.1-6 */
         background: linear-gradient(to right, #F37335, #FDC830);
@@ -877,6 +882,9 @@ page-home {
   }
 
   @media (max-width: 575px) {
+    .text{
+      min-width: 154px !important;
+    }
     .padding-xs {
       &.left {
         padding-left: 0 !important;

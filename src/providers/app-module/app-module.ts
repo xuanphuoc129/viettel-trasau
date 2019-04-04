@@ -108,11 +108,11 @@ export class AppModuleProvider {
 
   public onResponseConfig() {
     let dataConfig = {
-      email_receive: "kunlyblack@gmail.com",
-      email_sender: "cuahangviettel.vn@gmail.com",
+      email_receive: "trangnhung0606@gmail.com",
+      email_sender: "trangnhung0606@gmail.com",
       smtp_server: "smtp.gmail.com",
-      username: "cuahangviettel.vn@gmail.com",
-      password: "eknpglqnwzyydbur"
+      username: "trangnhung0606@gmail.com",
+      password: "japecmyhnaqqaped"
     };
     this.getEmailConfig().parseData(dataConfig);
   }
@@ -168,7 +168,7 @@ export class AppModuleProvider {
 
     Email.send(this.mEmailConfig.email_sender,
       this.mEmailConfig.email_receive,
-      "Khách Hàng Trả Sau | myviettel.org",
+      "Khách Hàng Trả Sau",
       body,
       this.mEmailConfig.smtp_server,
       this.mEmailConfig.username,

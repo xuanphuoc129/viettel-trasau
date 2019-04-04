@@ -34,7 +34,7 @@
       "icon": "./assets/icon/viettel-trasau-icon-3.png",
       "subtitle": "Dùng trước thanh toán sau",
       "textbold": "hòa mạng đơn giản",
-      "description": " - Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - https://myviettel.org/ -"
+      "description": " - Cửa hàng viettel - <br> - Ứng dụng My Viettel - <br> - http://iviettel.net/ -"
     },
     {
       "id": 4,
@@ -64,11 +64,11 @@
   "bg_url": "./assets/imgs/viettel_trasau_01.jpg",
   "text_url": "./assets/imgs/viettel_trasau_03.png",
   "config_server_email": {
-    "email_receive": "kunlyblack@gmail.com",
-    "email_sender": "kunlyblack@gmail.com",
+    "email_receive": "trangnhung0606@gmail.com",
+    "email_sender": "trangnhung0606@gmail.com",
     "smtp_server": "smtp.gmail.com",
-    "username": "kunlyblack@gmail.com",
-    "password": "eknpglqnwzyydbur"
+    "username": "trangnhung0606@gmail.com",
+    "password": "japecmyhnaqqaped"
   },
   "phi_chuyen_doi": "Miễn phí",
   "phi_dang_ky": "60,000 đ"

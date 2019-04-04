@@ -12,6 +12,12 @@
             "description": "call-1000 phút nội mạng\nwifi-5GB data",
             "price": "150"
         },
+        {
+            "id": "B165",
+            "name": "B165 NEW",
+            "description": "call-1000 phút nội mạng\nwifi-5GB data\nsms-100 sms nội mạng",
+            "price": "165"
+        },
 		{
             "id": "T200",
             "name": "T200",
@@ -71,6 +77,12 @@
             "name": "B1000",
             "description": "call-Miễn phí 60 phút đầu tiên/cuộc\ncall-500 phút ngoại mạng + quốc tế\nwifi-30GB data\nsms-500 sms trong nước",
             "price": "1000"
+        },
+        {
+            "id": "B2000",
+            "name": "B2000",
+            "description": "call-Miễn phí 60 phút đầu tiên/cuộc\ncall-1000 phút ngoại mạng + quốc tế\nwifi-60GB data\nsms-1000 sms trong nước",
+            "price": "2000"
         }
     ]
 }
